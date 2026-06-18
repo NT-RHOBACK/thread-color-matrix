@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rhoback Thread Color Matrix</title>
+<style>
+:root {
+  --bg: #f6f6f4;
+  --surface: #ffffff;
+  --border: #e4e4e0;
+  --text: #1a1a1a;
+  --text-muted: #777;
+  --accent: #1a1a1a;
+  --radius: 8px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+/* ── Header ── */
+header {
+  background: #111;
+  color: white;
+  padding: 18px 28px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.header-left h1 { font-size: 18px; font-weight: 600; letter-spacing: -0.2px; }
+.header-left p  { font-size: 12px; color: #888; margin-top: 2px; }
+.header-right a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 500;
+  transition: background 0.15s;
+}
+.header-right a:hover { background: rgba(255,255,255,0.18); }
+
+/* ── Controls bar ── */
+.controls {
+  background: white;
+  border-bottom: 1px solid var(--border);
+  padding: 14px 28px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.search-row { display: flex; gap: 10px; align-items: center; margin-bottom: 12px; }
+.search-wrap {
+  position: relative;
+  flex: 1;
+  max-width: 420px;
+}
+.search-icon {
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #aaa;
+  pointer-events: none;
+  font-size: 14px;
+}
+#searchInput {
+  width: 100%;
+  padding: 8px 12px 8px 34px;
+  border: 1.5px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.15s;
+  background: #fafafa;
+}
+#searchInput:focus { border-color: #111; background: white; }
+.clear-btn {
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #aaa;
+  font-size: 16px;
+  padding: 2px 4px;
+  display: none;
+}
+.clear-btn.visible { display: block; }
+
+.stats { font-size: 12px; color: var(--text-muted); margin-left: auto; white-space: nowrap; }
+
+/* ── Shade filter pills ── */
+.filter-row { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
+.filter-label { font-size: 11px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  background: #f0f0ee;
+  color: var(--text-muted);
+  transition: all 0.12s;
+  user-select: none;
+}
+.chip:hover { background: #e6e6e4; color: var(--text); }
+.chip.active { background: #111; color: white; border-color: #111; }
+.chip .dot {
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  border: 1px solid rgba(0,0,0,0.15);
+  flex-shrink: 0;
+}
+.chip.active .dot { border-color: rgba(255,255,255,0.3); }
+
+/* ── Table wrapper ── */
+.table-wrap {
+  padding: 20px 28px;
+  overflow-x: auto;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06), 0 0 0 1px rgba(0,0,0,0.06);
+  min-width: 960px;
+}
+thead th {
+  padding: 10px 14px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--text-muted);
+  background: #fafaf8;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+thead th.brand-header { border-left: 1px solid var(--border); }
+
+tbody tr { border-bottom: 1px solid #f2f2f0; transition: background 0.1s; }
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: #fafaf8; }
+
+td { padding: 10px 14px; vertical-align: top; }
+td.brand-cell { border-left: 1px solid #f0f0ee; }
+
+/* ── Shade cell ── */
+.shade-wrap { display: flex; align-items: center; gap: 7px; white-space: nowrap; }
+.shade-swatch { width: 14px; height: 14px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.12); flex-shrink: 0; }
+.shade-name { font-weight: 500; font-size: 13px; }
+
+/* ── Thread cell ── */
+.thread-number {
+  font-size: 13px;
+  font-weight: 600;
+  font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+  color: #111;
+  letter-spacing: -0.3px;
+}
+.thread-name { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
+.empty { color: #d0d0d0; font-size: 13px; }
+
+/* ── Confirmed badge ── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.badge-yes  { background: #edf7ed; color: #2e7d32; }
+.badge-pend { background: #fff8e1; color: #e65100; }
+.badge-names { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 64px 24px;
+  color: var(--text-muted);
+}
+.empty-state h3 { font-size: 16px; margin-bottom: 6px; color: var(--text); }
+
+/* ── Footer ── */
+footer {
+  text-align: center;
+  padding: 24px;
+  font-size: 12px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  margin-top: 8px;
+}
+footer a { color: var(--text-muted); }
+
+/* ── Search highlight ── */
+mark { background: #fff3cd; border-radius: 2px; padding: 0 1px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <h1>Rhoback Thread Color Matrix</h1>
+    <p>Cross-brand thread equivalents · Madeira Polyneon &amp; Classic · FHI Cotton TCX · Marathon Rayon · Robison Anton · Pantone</p>
+  </div>
+  <div class="header-right">
+    <a id="suggestLink" href="#" target="_blank" rel="noopener">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      Suggest a Match
+    </a>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Search by number, color name, or brand…" autocomplete="off" />
+      <button class="clear-btn" id="clearBtn" title="Clear search">✕</button>
+    </div>
+    <span class="stats" id="statsLabel"></span>
+  </div>
+  <div class="filter-row" id="shadeFilters">
+    <span class="filter-label">Shade</span>
+    <button class="chip active" data-shade="all">All</button>
+  </div>
+</div>
+
+<div class="table-wrap">
+  <table id="mainTable">
+    <thead>
+      <tr>
+        <th>Shade</th>
+        <th class="brand-header">Madeira Polyneon</th>
+        <th class="brand-header">Madeira Classic</th>
+        <th class="brand-header">FHI Cotton TCX</th>
+        <th class="brand-header">Marathon Rayon</th>
+        <th class="brand-header">Robison Anton Rayon</th>
+        <th class="brand-header">Pantone Solid Coated</th>
+        <th class="brand-header">Confirmed</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+  <div class="empty-state" id="emptyState" style="display:none">
+    <h3>No matches found</h3>
+    <p>Try a different search term, or clear the shade filter.</p>
+  </div>
+</div>
+
+<footer>
+  Rhoback Embroidery &mdash; Thread Color Matrix &mdash;
+  <a id="footerGHLink" href="#" target="_blank">View on GitHub</a>
+</footer>
+
+<script>
+// ─────────────────────────────────────────────
+// CONFIG — update GITHUB_REPO after you create it
+// ─────────────────────────────────────────────
+const GITHUB_REPO = 'NT-RHOBACK/thread-color-matrix';
+
+const SHADE_COLORS = {
+  'Black':  '#1a1a1a', 'Blue':   '#4a7fc1', 'Brown':  '#8B5E3C',
+  'Gold':   '#C9A84C', 'Green':  '#2E7D32', 'Grey':   '#8a8a8a',
+  'Navy':   '#1B2A5E', 'Orange': '#E67E22', 'Pink':   '#db7aa8',
+  'Purple': '#7B1FA2', 'Red':    '#C62828', 'Tan':    '#C4A882',
+  'White':  '#c8c8c8', 'Yellow': '#E8B400',
+};
+
+const BRANDS = [
+  'Madeira Polyneon',
+  'Madeira Classic',
+  'FHI Cotton TCX',
+  'Marathon Rayon',
+  'Robison Anton Rayon',
+  'Pantone Solid Coated',
+];
+
+// ─────────────────────────────────────────────
+// Load data
+// ─────────────────────────────────────────────
+let DATA = [];
+let activeShade = 'all';
+let searchQuery  = '';
+
+async function loadData() {
+  try {
+    const r = await fetch('data.json');
+    DATA = await r.json();
+  } catch(e) {
+    // Fallback: inline data (populated by build script)
+    DATA = INLINE_DATA;
+  }
+  init();
+}
+
+// ─────────────────────────────────────────────
+// Init
+// ─────────────────────────────────────────────
+function init() {
+  buildShadeFilters();
+  buildLinks();
+  render();
+
+  const input = document.getElementById('searchInput');
+  const clearBtn = document.getElementById('clearBtn');
+
+  input.addEventListener('input', e => {
+    searchQuery = e.target.value.toLowerCase().trim();
+    clearBtn.classList.toggle('visible', searchQuery.length > 0);
+    render();
+  });
+  clearBtn.addEventListener('click', () => {
+    input.value = '';
+    searchQuery = '';
+    clearBtn.classList.remove('visible');
+    render();
+  });
+}
+
+function buildShadeFilters() {
+  const shades = [...new Set(DATA.map(d => d.shade))].sort();
+  const container = document.getElementById('shadeFilters');
+  shades.forEach(shade => {
+    const btn = document.createElement('button');
+    btn.className = 'chip';
+    btn.dataset.shade = shade;
+    const dot = document.createElement('span');
+    dot.className = 'dot';
+    dot.style.background = SHADE_COLORS[shade] || '#999';
+    btn.appendChild(dot);
+    btn.appendChild(document.createTextNode(shade));
+    btn.addEventListener('click', () => setShade(shade));
+    container.appendChild(btn);
+  });
+  container.querySelector('[data-shade="all"]').addEventListener('click', () => setShade('all'));
+}
+
+function setShade(shade) {
+  activeShade = shade;
+  document.querySelectorAll('.chip').forEach(c => c.classList.toggle('active', c.dataset.shade === shade));
+  render();
+}
+
+function buildLinks() {
+  const issueBody = encodeURIComponent(
+`### Suggested Thread Color Match
+
+**Color Shade (family):** e.g. Green, Navy, Red…
+
+Fill in any brands you know — leave others blank.
+
+| Brand | Number | Color Name |
+|-------|--------|------------|
+| Madeira Polyneon | | |
+| Madeira Classic | | |
+| FHI Cotton TCX | | |
+| Marathon Rayon | | |
+| Robison Anton Rayon | | |
+| Pantone Solid Coated | | |
+
+**How did you verify this match?**
+(e.g. sew-out comparison, vendor color card, etc.)
+
+`);
+  const issueUrl = `https://github.com/${GITHUB_REPO}/issues/new?title=Suggest+match:+[COLOR+NAME]&body=${issueBody}&labels=suggestion`;
+  document.getElementById('suggestLink').href = issueUrl;
+  document.getElementById('footerGHLink').href = `https://github.com/${GITHUB_REPO}`;
+}
+
+// ─────────────────────────────────────────────
+// Filter
+// ─────────────────────────────────────────────
+function matches(entry) {
+  if (activeShade !== 'all' && entry.shade !== activeShade) return false;
+  if (!searchQuery) return true;
+  if (entry.shade.toLowerCase().includes(searchQuery)) return true;
+  for (const [brand, d] of Object.entries(entry.brands)) {
+    if (brand.toLowerCase().includes(searchQuery)) return true;
+    if (d.number && d.number.toString().toLowerCase().includes(searchQuery)) return true;
+    if (d.name  && d.name.toLowerCase().includes(searchQuery)) return true;
+  }
+  for (const c of entry.confirmed) {
+    if (c.by.toLowerCase().includes(searchQuery)) return true;
+  }
+  return false;
+}
+
+// ─────────────────────────────────────────────
+// Highlight helper
+// ─────────────────────────────────────────────
+function hl(text) {
+  if (!searchQuery || !text) return escHtml(text || '');
+  const escaped = escHtml(text);
+  if (!searchQuery) return escaped;
+  const re = new RegExp('(' + escRegex(searchQuery) + ')', 'gi');
+  return escaped.replace(re, '<mark>$1</mark>');
+}
+function escHtml(s) {
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escRegex(s) {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// ─────────────────────────────────────────────
+// Render
+// ─────────────────────────────────────────────
+function render() {
+  const filtered = DATA.filter(matches);
+  const tbody = document.getElementById('tableBody');
+  const emptyState = document.getElementById('emptyState');
+  const table = document.getElementById('mainTable');
+  const stats = document.getElementById('statsLabel');
+
+  stats.textContent = `${filtered.length} of ${DATA.length} entries`;
+
+  if (filtered.length === 0) {
+    tbody.innerHTML = '';
+    table.style.display = 'none';
+    emptyState.style.display = 'block';
+    return;
+  }
+  table.style.display = '';
+  emptyState.style.display = 'none';
+
+  tbody.innerHTML = filtered.map(entry => {
+    const color = SHADE_COLORS[entry.shade] || '#999';
+    const isConfirmed = entry.confirmed.length > 0;
+
+    const shadeTd = `<td>
+      <div class="shade-wrap">
+        <span class="shade-swatch" style="background:${color}"></span>
+        <span class="shade-name">${hl(entry.shade)}</span>
+      </div>
+    </td>`;
+
+    const brandTds = BRANDS.map(brand => {
+      const d = entry.brands[brand];
+      if (!d || (!d.number && !d.name)) {
+        return `<td class="brand-cell"><span class="empty">—</span></td>`;
+      }
+      return `<td class="brand-cell">
+        ${d.number ? `<div class="thread-number">${hl(String(d.number))}</div>` : ''}
+        ${d.name   ? `<div class="thread-name">${hl(d.name)}</div>` : ''}
+      </td>`;
+    }).join('');
+
+    let confirmedHtml = `<span class="badge ${isConfirmed ? 'badge-yes' : 'badge-pend'}">${isConfirmed ? '✓ Confirmed' : '⚠ Unverified'}</span>`;
+    if (entry.confirmed.length) {
+      const names = entry.confirmed.map(c => c.by + (c.date ? ` · ${c.date}` : '')).join('<br>');
+      confirmedHtml += `<div class="badge-names">${names}</div>`;
+    }
+
+    return `<tr>${shadeTd}${brandTds}<td class="brand-cell">${confirmedHtml}</td></tr>`;
+  }).join('');
+}
+
+// ─────────────────────────────────────────────
+// Inline fallback data (used if data.json fails)
+// ─────────────────────────────────────────────
+const INLINE_DATA = [{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1625","name":"Butterscotch"},"Madeira Classic":{"number":"1025","name":"Military Gold"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1902","name":"Hunter Green"},"Madeira Classic":{"number":"1370","name":"Fir"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Red","brands":{"Madeira Polyneon":{"number":"1839","name":"Brick Red"},"Madeira Classic":{"number":"1147","name":"Christmas Red"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1970","name":"Emerald Ink"},"FHI Cotton TCX":{"number":"19-6350","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1559","name":"Mud Pie"},"FHI Cotton TCX":{"number":"19-0712","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1772","name":"Military Gold"},"FHI Cotton TCX":{"number":"16-0954","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Yellow","brands":{"Madeira Polyneon":{"number":"1735","name":"Lemonade"},"Madeira Classic":{"number":"1023","name":"Citron"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Red","brands":{"Madeira Polyneon":{"number":"1637","name":"Cinnamon Candy"},"Madeira Classic":{"number":"1037","name":"Tomato Red"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"White","brands":{"Madeira Polyneon":{"number":"1801","name":"Super White"},"Madeira Classic":{"number":"1001","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Black","brands":{"Madeira Polyneon":{"number":"1800","name":"Emerald Black"},"Madeira Classic":{"number":"1000","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Navy","brands":{"Madeira Polyneon":{"number":"1844","name":"Indigo"},"Madeira Classic":{"number":"1044","name":"Deep Navy"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Yellow","brands":{"Madeira Polyneon":{"number":"1924","name":"Lemon Tart"},"FHI Cotton TCX":{"number":"13-0644","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Red","brands":{"Madeira Polyneon":{"number":"1878","name":"Tomato Red"},"FHI Cotton TCX":{"number":"18-1664","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Navy","brands":{"Madeira Polyneon":{"number":"1555","name":"Carbon Paper"},"FHI Cotton TCX":{"number":"19-4111","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1988","name":"Kelly Green"},"Madeira Classic":{"number":"1251","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Orange","brands":{"Madeira Polyneon":{"number":"1965","name":"Orange Peel"},"Madeira Classic":{"number":"1278","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1650","name":"Fresh Pine"},"Madeira Classic":{"number":"1369","name":"Fresh Pine"},"FHI Cotton TCX":{"number":"18-6024","name":"Amazon"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1624","name":"Egg Yolk"},"Madeira Classic":{"number":"1359","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1658","name":"Mocha"},"Madeira Classic":{"number":"1258","name":null}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Navy","brands":{"Madeira Polyneon":{"number":"1967","name":"Dark Denim"},"Madeira Classic":{"number":"1243","name":"Pea Coat"}},"confirmed":[{"by":"Noelle","date":"2026-03-17"}]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1671","name":"Country Kitchen Blue"},"Madeira Classic":{"number":"1028","name":"Country Kitchen Blue"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Navy","brands":{"Madeira Polyneon":{"number":"1676","name":"Hanukkuh Blue"},"Madeira Classic":{"number":"1167","name":"Blue Ink"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1704","name":"Evergreen"},"Madeira Classic":{"number":"1390","name":"Forest Green"},"FHI Cotton TCX":{"number":"19-5232","name":null},"Robison Anton Rayon":{"number":"2460","name":"Field Green"},"Pantone Solid Coated":{"number":"3308","name":null}},"confirmed":[{"by":"Noelle","date":"2026-03-20"}]},{"shade":"Yellow","brands":{"Madeira Polyneon":{"number":"1971","name":"Saffron"},"Madeira Classic":{"number":"1125","name":"Saffron"}},"confirmed":[{"by":"Noelle","date":null}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1945","name":"Sienna"},"Madeira Classic":{"number":"1145","name":"Coffee Bean"}},"confirmed":[{"by":"Noelle","date":"2026-03-16"},{"by":"Jette","date":"2026-03-16"}]},{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1670","name":"Khaki"},"Madeira Classic":{"number":"1070","name":"Vegas Gold"}},"confirmed":[{"by":"Noelle","date":"2026-03-16"}]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1531","name":"Delphinium"},"Madeira Classic":{"number":"1143","name":"China Blue"}},"confirmed":[{"by":"Noelle","date":"2026-03-17"}]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1904","name":"Dark Sage"},"FHI Cotton TCX":{"number":"18-0121","name":"Elm Green"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"}]},{"shade":"Yellow","brands":{"Madeira Polyneon":{"number":"1980","name":"Sunflower"},"Madeira Classic":{"number":"1124","name":"Buttercup"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"},{"by":"Jette","date":"2026-03-18"}]},{"shade":"Tan","brands":{"Madeira Polyneon":{"number":"1582","name":"White Linen"},"Madeira Classic":{"number":"1072","name":"Coconut Cream"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1729","name":"Buckskin"},"Madeira Classic":{"number":"1328","name":"Buckskin"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1945","name":"Sienna"},"Madeira Classic":{"number":"1329","name":"Toasted Marshmallow"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"}]},{"shade":"Brown","brands":{"Madeira Polyneon":{"number":"1558","name":"French Roast"},"Madeira Classic":{"number":"1130","name":"Chocolate Chip"}},"confirmed":[{"by":"Noelle","date":"2026-03-18"}]},{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1738","name":"Champagne"},"FHI Cotton TCX":{"number":"14-1110","name":"Boulder"}},"confirmed":[]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1743","name":"Oxford Blue"},"FHI Cotton TCX":{"number":"19-3832","name":"Navy Blue"}},"confirmed":[]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1749","name":"Green Thumb"},"FHI Cotton TCX":{"number":"16-6339","name":"Vibrant Green"}},"confirmed":[]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1642","name":"Lapis"},"FHI Cotton TCX":{"number":"19-4048","name":"Baleine Blue"}},"confirmed":[]},{"shade":"Red","brands":{"Madeira Polyneon":{"number":"1754","name":"Raspberry Punch"},"Madeira Classic":{"number":"1485?","name":null},"FHI Cotton TCX":{"number":"17-1664","name":"Poppy Red"}},"confirmed":[]},{"shade":"Grey","brands":{"Madeira Polyneon":{"number":"1687","name":"Sterling Silver"},"FHI Cotton TCX":{"number":"15-4704","name":"Pigeon"}},"confirmed":[]},{"shade":"Grey","brands":{"Madeira Polyneon":{"number":"1505","name":"Polished Silver"},"Madeira Classic":{"number":"1011","name":"Chrome"}},"confirmed":[]},{"shade":"Navy","brands":{"Madeira Polyneon":{"number":"1742","name":"Blue Ink"},"Madeira Classic":{"number":"1242","name":"Dark Denim"}},"confirmed":[]},{"shade":"Gold","brands":{"Madeira Polyneon":{"number":"1672","name":"Toasted Almond"},"Madeira Classic":{"number":"1192","name":"Honey Mustard"}},"confirmed":[]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1904","name":"Dark Sage"},"Madeira Classic":{"number":"1396","name":"Dark Sage"}},"confirmed":[]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1668","name":"Silver Sage"},"Madeira Classic":{"number":"1392","name":"Silver Sage"}},"confirmed":[]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1694","name":"Caribbean Blue"},"FHI Cotton TCX":{"number":"16-4834","name":"Blue Bird"}},"confirmed":[]},{"shade":"Pink","brands":{"Madeira Polyneon":{"number":"1656","name":"Fawn"},"FHI Cotton TCX":{"number":"14-1310","name":"Cameo Rose"}},"confirmed":[]},{"shade":"Orange","brands":{"Madeira Polyneon":{"number":"1965","name":"Orange Peel"},"FHI Cotton TCX":{"number":"16-1359","name":"Orange Peel"}},"confirmed":[]},{"shade":"Blue","brands":{"Madeira Polyneon":{"number":"1975","name":"Colonial Blue"},"Madeira Classic":{"number":"1042","name":"Lapis"}},"confirmed":[]},{"shade":"Green","brands":{"Madeira Polyneon":{"number":"1902","name":"Hunter Green"},"Madeira Classic":{"number":"1103","name":"Hunter Green"}},"confirmed":[]}];
+
+loadData();
+</script>
+</body>
+</html>

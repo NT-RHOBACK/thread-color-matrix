@@ -1,0 +1,881 @@
+[
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1625",
+        "name": "Butterscotch"
+      },
+      "Madeira Classic": {
+        "number": "1025",
+        "name": "Military Gold"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1902",
+        "name": "Hunter Green"
+      },
+      "Madeira Classic": {
+        "number": "1370",
+        "name": "Fir"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1839",
+        "name": "Brick Red"
+      },
+      "Madeira Classic": {
+        "number": "1147",
+        "name": "Christmas Red"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1970",
+        "name": "Emerald Ink"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-6350",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1559",
+        "name": "Mud Pie"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-0712",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1772",
+        "name": "Military Gold"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-0954",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1735",
+        "name": "Lemonade"
+      },
+      "Madeira Classic": {
+        "number": "1023",
+        "name": "Citron"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1637",
+        "name": "Cinnamon Candy"
+      },
+      "Madeira Classic": {
+        "number": "1037",
+        "name": "Tomato Red"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1801",
+        "name": "Super White"
+      },
+      "Madeira Classic": {
+        "number": "1001",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1800",
+        "name": "Emerald Black"
+      },
+      "Madeira Classic": {
+        "number": "1000",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1844",
+        "name": "Indigo"
+      },
+      "Madeira Classic": {
+        "number": "1044",
+        "name": "Deep Navy"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1924",
+        "name": "Lemon Tart"
+      },
+      "FHI Cotton TCX": {
+        "number": "13-0644",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1878",
+        "name": "Tomato Red"
+      },
+      "FHI Cotton TCX": {
+        "number": "18-1664",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1555",
+        "name": "Carbon Paper"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-4111",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1988",
+        "name": "Kelly Green"
+      },
+      "Madeira Classic": {
+        "number": "1251",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1965",
+        "name": "Orange Peel"
+      },
+      "Madeira Classic": {
+        "number": "1278",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1650",
+        "name": "Fresh Pine"
+      },
+      "Madeira Classic": {
+        "number": "1369",
+        "name": "Fresh Pine"
+      },
+      "FHI Cotton TCX": {
+        "number": "18-6024",
+        "name": "Amazon"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1624",
+        "name": "Egg Yolk"
+      },
+      "Madeira Classic": {
+        "number": "1359",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1658",
+        "name": "Mocha"
+      },
+      "Madeira Classic": {
+        "number": "1258",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1967",
+        "name": "Dark Denim"
+      },
+      "Madeira Classic": {
+        "number": "1243",
+        "name": "Pea Coat"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1671",
+        "name": "Country Kitchen Blue"
+      },
+      "Madeira Classic": {
+        "number": "1028",
+        "name": "Country Kitchen Blue"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1676",
+        "name": "Hanukkuh Blue"
+      },
+      "Madeira Classic": {
+        "number": "1167",
+        "name": "Blue Ink"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1704",
+        "name": "Evergreen"
+      },
+      "Madeira Classic": {
+        "number": "1390",
+        "name": "Forest Green"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-5232",
+        "name": null
+      },
+      "Robison Anton Rayon": {
+        "number": "2460",
+        "name": "Field Green"
+      },
+      "Pantone Solid Coated": {
+        "number": "3308",
+        "name": null
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-20"
+      }
+    ]
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1971",
+        "name": "Saffron"
+      },
+      "Madeira Classic": {
+        "number": "1125",
+        "name": "Saffron"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": null
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1945",
+        "name": "Sienna"
+      },
+      "Madeira Classic": {
+        "number": "1145",
+        "name": "Coffee Bean"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-16"
+      },
+      {
+        "by": "Jette",
+        "date": "2026-03-16"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1670",
+        "name": "Khaki"
+      },
+      "Madeira Classic": {
+        "number": "1070",
+        "name": "Vegas Gold"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-16"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1531",
+        "name": "Delphinium"
+      },
+      "Madeira Classic": {
+        "number": "1143",
+        "name": "China Blue"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1904",
+        "name": "Dark Sage"
+      },
+      "FHI Cotton TCX": {
+        "number": "18-0121",
+        "name": "Elm Green"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1980",
+        "name": "Sunflower"
+      },
+      "Madeira Classic": {
+        "number": "1124",
+        "name": "Buttercup"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      },
+      {
+        "by": "Jette",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1582",
+        "name": "White Linen"
+      },
+      "Madeira Classic": {
+        "number": "1072",
+        "name": "Coconut Cream"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1729",
+        "name": "Buckskin"
+      },
+      "Madeira Classic": {
+        "number": "1328",
+        "name": "Buckskin"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1945",
+        "name": "Sienna"
+      },
+      "Madeira Classic": {
+        "number": "1329",
+        "name": "Toasted Marshmallow"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1558",
+        "name": "French Roast"
+      },
+      "Madeira Classic": {
+        "number": "1130",
+        "name": "Chocolate Chip"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1738",
+        "name": "Champagne"
+      },
+      "FHI Cotton TCX": {
+        "number": "14-1110",
+        "name": "Boulder"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1743",
+        "name": "Oxford Blue"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-3832",
+        "name": "Navy Blue"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1749",
+        "name": "Green Thumb"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-6339",
+        "name": "Vibrant Green"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1642",
+        "name": "Lapis"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-4048",
+        "name": "Baleine Blue"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1754",
+        "name": "Raspberry Punch"
+      },
+      "Madeira Classic": {
+        "number": "1485?",
+        "name": null
+      },
+      "FHI Cotton TCX": {
+        "number": "17-1664",
+        "name": "Poppy Red"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1687",
+        "name": "Sterling Silver"
+      },
+      "FHI Cotton TCX": {
+        "number": "15-4704",
+        "name": "Pigeon"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1505",
+        "name": "Polished Silver"
+      },
+      "Madeira Classic": {
+        "number": "1011",
+        "name": "Chrome"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1742",
+        "name": "Blue Ink"
+      },
+      "Madeira Classic": {
+        "number": "1242",
+        "name": "Dark Denim"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1672",
+        "name": "Toasted Almond"
+      },
+      "Madeira Classic": {
+        "number": "1192",
+        "name": "Honey Mustard"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1904",
+        "name": "Dark Sage"
+      },
+      "Madeira Classic": {
+        "number": "1396",
+        "name": "Dark Sage"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1668",
+        "name": "Silver Sage"
+      },
+      "Madeira Classic": {
+        "number": "1392",
+        "name": "Silver Sage"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1694",
+        "name": "Caribbean Blue"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-4834",
+        "name": "Blue Bird"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1656",
+        "name": "Fawn"
+      },
+      "FHI Cotton TCX": {
+        "number": "14-1310",
+        "name": "Cameo Rose"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1965",
+        "name": "Orange Peel"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-1359",
+        "name": "Orange Peel"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1975",
+        "name": "Colonial Blue"
+      },
+      "Madeira Classic": {
+        "number": "1042",
+        "name": "Lapis"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1902",
+        "name": "Hunter Green"
+      },
+      "Madeira Classic": {
+        "number": "1103",
+        "name": "Hunter Green"
+      }
+    },
+    "confirmed": []
+  }
+]
