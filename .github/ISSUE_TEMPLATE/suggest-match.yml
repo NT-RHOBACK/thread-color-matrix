@@ -1,0 +1,114 @@
+name: Suggest a Thread Color Match
+description: Propose a new cross-brand thread color equivalency
+title: "Suggest match: [COLOR NAME]"
+labels: ["suggestion"]
+body:
+  - type: dropdown
+    id: shade
+    attributes:
+      label: Color Shade (family)
+      description: Which color family does this match belong to?
+      options:
+        - Black
+        - Blue
+        - Brown
+        - Gold
+        - Green
+        - Grey
+        - Navy
+        - Orange
+        - Pink
+        - Purple
+        - Red
+        - Tan
+        - White
+        - Yellow
+    validations:
+      required: true
+
+  - type: input
+    id: polyneon_number
+    attributes:
+      label: Madeira Polyneon — Number
+      placeholder: "e.g. 1704"
+
+  - type: input
+    id: polyneon_name
+    attributes:
+      label: Madeira Polyneon — Color Name
+      placeholder: "e.g. Evergreen"
+
+  - type: input
+    id: classic_number
+    attributes:
+      label: Madeira Classic — Number
+      placeholder: "e.g. 1390"
+
+  - type: input
+    id: classic_name
+    attributes:
+      label: Madeira Classic — Color Name
+      placeholder: "e.g. Forest Green"
+
+  - type: input
+    id: fhi_number
+    attributes:
+      label: FHI Cotton TCX — Number
+      placeholder: "e.g. 19-5232"
+
+  - type: input
+    id: fhi_name
+    attributes:
+      label: FHI Cotton TCX — Color Name
+      placeholder: "e.g. Elm Green"
+
+  - type: input
+    id: marathon_number
+    attributes:
+      label: Marathon Rayon — Number
+      placeholder: "e.g. 2460"
+
+  - type: input
+    id: marathon_name
+    attributes:
+      label: Marathon Rayon — Color Name
+      placeholder: "e.g. Field Green"
+
+  - type: input
+    id: robison_number
+    attributes:
+      label: Robison Anton Rayon — Number
+      placeholder: "e.g. 3308"
+
+  - type: input
+    id: robison_name
+    attributes:
+      label: Robison Anton Rayon — Color Name
+
+  - type: input
+    id: pantone_number
+    attributes:
+      label: Pantone Solid Coated — Number
+      placeholder: "e.g. 3308 C"
+
+  - type: input
+    id: pantone_name
+    attributes:
+      label: Pantone Solid Coated — Color Name
+
+  - type: textarea
+    id: verification
+    attributes:
+      label: How did you verify this match?
+      description: e.g. sew-out comparison, vendor color card, physical comparison
+      placeholder: "I compared a sew-out of Madeira Polyneon 1704 against a FHI swatch card..."
+    validations:
+      required: true
+
+  - type: input
+    id: your_name
+    attributes:
+      label: Your name / initials
+      placeholder: "e.g. Noelle, Jette"
+    validations:
+      required: true
