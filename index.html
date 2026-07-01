@@ -435,7 +435,10 @@ function buildHeader() {
     ${brandCols}
     <th class="brand-header">
       <div class="th-label">Submitted By</div>
-      <div class="th-sorts"><button class="sbtn" data-key="recent" title="Sort by date entered">Date<span class="arr"></span></button></div>
+      <div class="th-sorts">
+        <button class="sbtn" data-key="submitter::name" title="Sort by submitter name">Aa<span class="arr"></span></button>
+        <button class="sbtn" data-key="recent" title="Sort by date entered">Date<span class="arr"></span></button>
+      </div>
     </th>
   </tr>`;
   head.addEventListener('click', e => {
@@ -489,6 +492,10 @@ function sortRows(rows) {
 
   const getVal = (e) => {
     if (key === 'shade') return e.shade ? e.shade.toLowerCase() : '';
+    if (key === 'submitter::name') {
+      const c = (e.confirmed || [])[0];
+      return c && c.by ? c.by.toLowerCase() : undefined;
+    }
     const [brand, field] = key.split('::');
     const d = asList(e.brands[brand])[0];   // sort by the first thread in the cell
     if (!d) return undefined;
