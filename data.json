@@ -881,5 +881,19 @@
       }
     },
     "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1659",
+        "name": "Coffee Bean"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-1218",
+        "name": null
+      }
+    },
+    "confirmed": []
   }
 ]
