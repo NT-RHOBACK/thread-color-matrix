@@ -264,7 +264,7 @@ mark { background: #fff3cd; border-radius: 2px; padding: 0 1px; }
         <th class="brand-header">Marathon Rayon</th>
         <th class="brand-header">Robison Anton Rayon</th>
         <th class="brand-header">Pantone Solid Coated</th>
-        <th class="brand-header">Confirmed</th>
+        <th class="brand-header">Submitted By</th>
       </tr>
     </thead>
     <tbody id="tableBody"></tbody>
@@ -435,7 +435,6 @@ function render() {
 
   tbody.innerHTML = filtered.map(entry => {
     const color = SHADE_COLORS[entry.shade] || '#999';
-    const isConfirmed = entry.confirmed.length > 0;
 
     const shadeTd = `<td>
       <div class="shade-wrap">
@@ -455,13 +454,14 @@ function render() {
       </td>`;
     }).join('');
 
-    let confirmedHtml = `<span class="badge ${isConfirmed ? 'badge-yes' : 'badge-pend'}">${isConfirmed ? '✓ Confirmed' : '⚠ Unverified'}</span>`;
+    let submittedHtml;
     if (entry.confirmed.length) {
-      const names = entry.confirmed.map(c => c.by + (c.date ? ` · ${c.date}` : '')).join('<br>');
-      confirmedHtml += `<div class="badge-names">${names}</div>`;
+      submittedHtml = entry.confirmed.map(c => hl(c.by)).join('<br>');
+    } else {
+      submittedHtml = `<span class="empty">—</span>`;
     }
 
-    return `<tr>${shadeTd}${brandTds}<td class="brand-cell">${confirmedHtml}</td></tr>`;
+    return `<tr>${shadeTd}${brandTds}<td class="brand-cell">${submittedHtml}</td></tr>`;
   }).join('');
 }
 
