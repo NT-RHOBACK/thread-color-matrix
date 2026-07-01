@@ -3,6 +3,12 @@ description: Propose a new cross-brand thread color equivalency
 title: "Suggest match: [COLOR NAME OR NUMBER]"
 labels: ["suggestion"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Enter the **thread number** for each brand you know — leave the rest blank.
+        Color names are managed internally, so you don't need to enter them.
+
   - type: dropdown
     id: shade
     attributes:
@@ -26,30 +32,11 @@ body:
     validations:
       required: true
 
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 Madeira Polyneon
-        Fill in any brands you know — leave the rest blank.
-
   - type: input
     id: polyneon_number
     attributes:
       label: Madeira Polyneon — Number
       placeholder: "e.g. 1704"
-
-  - type: input
-    id: polyneon_name
-    attributes:
-      label: Madeira Polyneon — Color Name
-      placeholder: "e.g. Evergreen"
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 Madeira Classic
 
   - type: input
     id: classic_number
@@ -58,34 +45,10 @@ body:
       placeholder: "e.g. 1390"
 
   - type: input
-    id: classic_name
-    attributes:
-      label: Madeira Classic — Color Name
-      placeholder: "e.g. Forest Green"
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 FHI Cotton TCX
-
-  - type: input
     id: fhi_number
     attributes:
       label: FHI Cotton TCX — Number
       placeholder: "e.g. 19-5232"
-
-  - type: input
-    id: fhi_name
-    attributes:
-      label: FHI Cotton TCX — Color Name
-      placeholder: "e.g. Elm Green"
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 Marathon Rayon
 
   - type: input
     id: marathon_number
@@ -94,44 +57,16 @@ body:
       placeholder: "e.g. 2460"
 
   - type: input
-    id: marathon_name
-    attributes:
-      label: Marathon Rayon — Color Name
-      placeholder: "e.g. Field Green"
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 Robison Anton Rayon
-
-  - type: input
     id: robison_number
     attributes:
       label: Robison Anton Rayon — Number
-      placeholder: "e.g. 3308"
-
-  - type: input
-    id: robison_name
-    attributes:
-      label: Robison Anton Rayon — Color Name
-
-  - type: markdown
-    attributes:
-      value: |
-        ---
-        ### 🧵 Pantone Solid Coated
+      placeholder: "e.g. 2460"
 
   - type: input
     id: pantone_number
     attributes:
       label: Pantone Solid Coated — Number
       placeholder: "e.g. 3308 C"
-
-  - type: input
-    id: pantone_name
-    attributes:
-      label: Pantone Solid Coated — Color Name
 
   - type: markdown
     attributes:

@@ -1,6 +1,6 @@
 [
   {
-    "shade": "Gold",
+    "shade": "Brown",
     "brands": {
       "Madeira Polyneon": {
         "number": "1625",
@@ -446,7 +446,7 @@
     ]
   },
   {
-    "shade": "Navy",
+    "shade": "Blue",
     "brands": {
       "Madeira Polyneon": {
         "number": "1676",
@@ -489,8 +489,9 @@
         "name": "Field Green"
       },
       "Pantone Solid Coated": {
-        "number": "3308",
-        "name": null
+        "number": "3308 C",
+        "name": null,
+        "hex": "#004438"
       }
     },
     "confirmed": [
@@ -719,7 +720,7 @@
     ]
   },
   {
-    "shade": "Gold",
+    "shade": "Tan",
     "brands": {
       "Madeira Polyneon": {
         "number": "1738",
@@ -735,7 +736,7 @@
     "confirmed": []
   },
   {
-    "shade": "Blue",
+    "shade": "Navy",
     "brands": {
       "Madeira Polyneon": {
         "number": "1743",
@@ -856,7 +857,7 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
+    "shade": "Brown",
     "brands": {
       "Madeira Polyneon": {
         "number": "1672",
@@ -888,7 +889,7 @@
     "confirmed": []
   },
   {
-    "shade": "Green",
+    "shade": "Grey",
     "brands": {
       "Madeira Polyneon": {
         "number": "1668",
@@ -920,7 +921,7 @@
     "confirmed": []
   },
   {
-    "shade": "Pink",
+    "shade": "Tan",
     "brands": {
       "Madeira Polyneon": {
         "number": "1656",
@@ -952,7 +953,7 @@
     "confirmed": []
   },
   {
-    "shade": "Blue",
+    "shade": "Navy",
     "brands": {
       "Madeira Polyneon": {
         "number": "1975",
@@ -42993,6 +42994,9972 @@
         "number": "19-6311",
         "name": "Greener Pastures",
         "hex": "#37503D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "100 C",
+        "name": null,
+        "hex": "#F4ED7C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "101 C",
+        "name": null,
+        "hex": "#F4ED47"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "102 C",
+        "name": null,
+        "hex": "#F9E814"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "103 C",
+        "name": null,
+        "hex": "#C6AD0F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "104 C",
+        "name": null,
+        "hex": "#AD9B0C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "105 C",
+        "name": null,
+        "hex": "#82750F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "106 C",
+        "name": null,
+        "hex": "#F7E859"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "107 C",
+        "name": null,
+        "hex": "#F9E526"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "108 C",
+        "name": null,
+        "hex": "#F9DD16"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "109 C",
+        "name": null,
+        "hex": "#F9D616"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "110 C",
+        "name": null,
+        "hex": "#D8B511"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "111 C",
+        "name": null,
+        "hex": "#AA930A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "112 C",
+        "name": null,
+        "hex": "#99840A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "113 C",
+        "name": null,
+        "hex": "#F9E55B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "114 C",
+        "name": null,
+        "hex": "#F9E24C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "115 C",
+        "name": null,
+        "hex": "#F9E04C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "116 C",
+        "name": null,
+        "hex": "#FCD116"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "117 C",
+        "name": null,
+        "hex": "#C6A00C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "118 C",
+        "name": null,
+        "hex": "#AA8E0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "119 C",
+        "name": null,
+        "hex": "#897719"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "120 C",
+        "name": null,
+        "hex": "#F9E27F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "121 C",
+        "name": null,
+        "hex": "#F9E070"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "122 C",
+        "name": null,
+        "hex": "#FCD856"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "123 C",
+        "name": null,
+        "hex": "#FFC61E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "124 C",
+        "name": null,
+        "hex": "#E0AA0F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "125 C",
+        "name": null,
+        "hex": "#B58C0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "126 C",
+        "name": null,
+        "hex": "#A38205"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "127 C",
+        "name": null,
+        "hex": "#F4E287"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "128 C",
+        "name": null,
+        "hex": "#F4DB60"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "129 C",
+        "name": null,
+        "hex": "#F2D13D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "130 C",
+        "name": null,
+        "hex": "#EAAF0F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "131 C",
+        "name": null,
+        "hex": "#C6930A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "132 C",
+        "name": null,
+        "hex": "#9E7C0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "133 C",
+        "name": null,
+        "hex": "#705B0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "134 C",
+        "name": null,
+        "hex": "#FFD87F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "135 C",
+        "name": null,
+        "hex": "#FCC963"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "136 C",
+        "name": null,
+        "hex": "#FCBF49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "137 C",
+        "name": null,
+        "hex": "#FCA311"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "138 C",
+        "name": null,
+        "hex": "#D88C02"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "139 C",
+        "name": null,
+        "hex": "#AF7505"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "140 C",
+        "name": null,
+        "hex": "#7A5B11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "141 C",
+        "name": null,
+        "hex": "#F2CE68"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "142 C",
+        "name": null,
+        "hex": "#F2BF49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "143 C",
+        "name": null,
+        "hex": "#EFB22D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "144 C",
+        "name": null,
+        "hex": "#E28C05"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "145 C",
+        "name": null,
+        "hex": "#C67F07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "146 C",
+        "name": null,
+        "hex": "#9E6B05"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "147 C",
+        "name": null,
+        "hex": "#725E26"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "148 C",
+        "name": null,
+        "hex": "#FFD69B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "149 C",
+        "name": null,
+        "hex": "#FCCC93"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "150 C",
+        "name": null,
+        "hex": "#FCAD56"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "151 C",
+        "name": null,
+        "hex": "#F77F00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "152 C",
+        "name": null,
+        "hex": "#DD7500"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "153 C",
+        "name": null,
+        "hex": "#BC6D0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "154 C",
+        "name": null,
+        "hex": "#995905"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "155 C",
+        "name": null,
+        "hex": "#F4DBAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "156 C",
+        "name": null,
+        "hex": "#F2C68C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "157 C",
+        "name": null,
+        "hex": "#EDA04F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "158 C",
+        "name": null,
+        "hex": "#E87511"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "159 C",
+        "name": null,
+        "hex": "#C66005"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "160 C",
+        "name": null,
+        "hex": "#9E540A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "161 C",
+        "name": null,
+        "hex": "#633A11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "162 C",
+        "name": null,
+        "hex": "#F9C6AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "163 C",
+        "name": null,
+        "hex": "#FC9E70"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "164 C",
+        "name": null,
+        "hex": "#FC7F3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "165 C",
+        "name": null,
+        "hex": "#F96302"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "166 C",
+        "name": null,
+        "hex": "#DD5900"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "167 C",
+        "name": null,
+        "hex": "#BC4F07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "168 C",
+        "name": null,
+        "hex": "#6D3011"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "169 C",
+        "name": null,
+        "hex": "#F9BAAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "170 C",
+        "name": null,
+        "hex": "#F98972"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "171 C",
+        "name": null,
+        "hex": "#F9603A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "172 C",
+        "name": null,
+        "hex": "#F74902"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "173 C",
+        "name": null,
+        "hex": "#D14414"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "174 C",
+        "name": null,
+        "hex": "#933311"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "175 C",
+        "name": null,
+        "hex": "#6D3321"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "176 C",
+        "name": null,
+        "hex": "#F9AFAD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "177 C",
+        "name": null,
+        "hex": "#F9827F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "178 C",
+        "name": null,
+        "hex": "#F95E59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "179 C",
+        "name": null,
+        "hex": "#E23D28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "180 C",
+        "name": null,
+        "hex": "#C13828"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "181 C",
+        "name": null,
+        "hex": "#7C2D23"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "182 C",
+        "name": null,
+        "hex": "#F9BFC1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "183 C",
+        "name": null,
+        "hex": "#FC8C99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "184 C",
+        "name": null,
+        "hex": "#FC5E72"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "185 C",
+        "name": null,
+        "hex": "#E8112D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "186 C",
+        "name": null,
+        "hex": "#CE1126"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "187 C",
+        "name": null,
+        "hex": "#AF1E2D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "188 C",
+        "name": null,
+        "hex": "#7C2128"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "189 C",
+        "name": null,
+        "hex": "#FFA3B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "190 C",
+        "name": null,
+        "hex": "#FC758E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "191 C",
+        "name": null,
+        "hex": "#F4476B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "192 C",
+        "name": null,
+        "hex": "#E5053A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "193 C",
+        "name": null,
+        "hex": "#DB828C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "194 C",
+        "name": null,
+        "hex": "#992135"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "196 C",
+        "name": null,
+        "hex": "#F4C9C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "197 C",
+        "name": null,
+        "hex": "#EF99A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "198 C",
+        "name": null,
+        "hex": "#772D35"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "199 C",
+        "name": null,
+        "hex": "#D81C3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "200 C",
+        "name": null,
+        "hex": "#C41E3A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "201 C",
+        "name": null,
+        "hex": "#A32638"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "202 C",
+        "name": null,
+        "hex": "#8C2633"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "203 C",
+        "name": null,
+        "hex": "#F2AFC1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "204 C",
+        "name": null,
+        "hex": "#ED7A9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "205 C",
+        "name": null,
+        "hex": "#E54C7C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "206 C",
+        "name": null,
+        "hex": "#D30547"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "207 C",
+        "name": null,
+        "hex": "#BAAA9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "208 C",
+        "name": null,
+        "hex": "#8E2344"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "209 C",
+        "name": null,
+        "hex": "#75263D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "210 C",
+        "name": null,
+        "hex": "#FFA0BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "211 C",
+        "name": null,
+        "hex": "#FF77A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "212 C",
+        "name": null,
+        "hex": "#F94F8E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "213 C",
+        "name": null,
+        "hex": "#EA0F6B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "214 C",
+        "name": null,
+        "hex": "#CC0256"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "215 C",
+        "name": null,
+        "hex": "#A50544"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "216 C",
+        "name": null,
+        "hex": "#7C1E3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "217 C",
+        "name": null,
+        "hex": "#F4BFD1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "218 C",
+        "name": null,
+        "hex": "#ED72AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "219 C",
+        "name": null,
+        "hex": "#E22882"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "220 C",
+        "name": null,
+        "hex": "#AA004F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "221 C",
+        "name": null,
+        "hex": "#930042"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "222 C",
+        "name": null,
+        "hex": "#70193D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "223 C",
+        "name": null,
+        "hex": "#F993C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "224 C",
+        "name": null,
+        "hex": "#F46BAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "225 C",
+        "name": null,
+        "hex": "#ED2893"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "226 C",
+        "name": null,
+        "hex": "#D60270"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "227 C",
+        "name": null,
+        "hex": "#AD005B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "228 C",
+        "name": null,
+        "hex": "#8C004C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "229 C",
+        "name": null,
+        "hex": "#6D213F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "230 C",
+        "name": null,
+        "hex": "#FFA0CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "231 C",
+        "name": null,
+        "hex": "#FC70BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "232 C",
+        "name": null,
+        "hex": "#F43FA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "233 C",
+        "name": null,
+        "hex": "#CE007C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "234 C",
+        "name": null,
+        "hex": "#AA0066"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "235 C",
+        "name": null,
+        "hex": "#8E0554"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "236 C",
+        "name": null,
+        "hex": "#F9AFD3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "237 C",
+        "name": null,
+        "hex": "#F484C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "238 C",
+        "name": null,
+        "hex": "#ED4FAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "239 C",
+        "name": null,
+        "hex": "#E0219E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "240 C",
+        "name": null,
+        "hex": "#C40F89"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "241 C",
+        "name": null,
+        "hex": "#AD0075"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "242 C",
+        "name": null,
+        "hex": "#7C1C51"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "243 C",
+        "name": null,
+        "hex": "#F2BAD8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "244 C",
+        "name": null,
+        "hex": "#EDA0D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "245 C",
+        "name": null,
+        "hex": "#E87FC9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "246 C",
+        "name": null,
+        "hex": "#CC00A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "247 C",
+        "name": null,
+        "hex": "#B7008E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "248 C",
+        "name": null,
+        "hex": "#A3057F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "249 C",
+        "name": null,
+        "hex": "#7F2860"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "250 C",
+        "name": null,
+        "hex": "#EDC4DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "251 C",
+        "name": null,
+        "hex": "#E29ED6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "252 C",
+        "name": null,
+        "hex": "#D36BC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "253 C",
+        "name": null,
+        "hex": "#AF23A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "254 C",
+        "name": null,
+        "hex": "#A02D96"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "255 C",
+        "name": null,
+        "hex": "#772D6B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "256 C",
+        "name": null,
+        "hex": "#E5C4D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "257 C",
+        "name": null,
+        "hex": "#D3A5C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "258 C",
+        "name": null,
+        "hex": "#9B4F96"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "259 C",
+        "name": null,
+        "hex": "#72166B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "260 C",
+        "name": null,
+        "hex": "#681E5B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "261 C",
+        "name": null,
+        "hex": "#5E2154"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "262 C",
+        "name": null,
+        "hex": "#542344"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "263 C",
+        "name": null,
+        "hex": "#E0CEE0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "264 C",
+        "name": null,
+        "hex": "#C6AADB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "265 C",
+        "name": null,
+        "hex": "#9663C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "266 C",
+        "name": null,
+        "hex": "#6D28AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "267 C",
+        "name": null,
+        "hex": "#59118E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "268 C",
+        "name": null,
+        "hex": "#4F2170"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "269 C",
+        "name": null,
+        "hex": "#442359"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "270 C",
+        "name": null,
+        "hex": "#BAAFD3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "271 C",
+        "name": null,
+        "hex": "#9E91C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "272 C",
+        "name": null,
+        "hex": "#8977BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "273 C",
+        "name": null,
+        "hex": "#38197A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "274 C",
+        "name": null,
+        "hex": "#2B1166"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "275 C",
+        "name": null,
+        "hex": "#260F54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "276 C",
+        "name": null,
+        "hex": "#2B2147"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "277 C",
+        "name": null,
+        "hex": "#B5D1E8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "278 C",
+        "name": null,
+        "hex": "#99BADD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "279 C",
+        "name": null,
+        "hex": "#6689CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "280 C",
+        "name": null,
+        "hex": "#002B7F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "281 C",
+        "name": null,
+        "hex": "#002868"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "282 C",
+        "name": null,
+        "hex": "#002654"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "283 C",
+        "name": null,
+        "hex": "#9BC4E2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "284 C",
+        "name": null,
+        "hex": "#75AADB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "285 C",
+        "name": null,
+        "hex": "#3A75C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "286 C",
+        "name": null,
+        "hex": "#0038A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "287 C",
+        "name": null,
+        "hex": "#003893"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "288 C",
+        "name": null,
+        "hex": "#00337F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "289 C",
+        "name": null,
+        "hex": "#002649"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "290 C",
+        "name": null,
+        "hex": "#C4D8E2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "291 C",
+        "name": null,
+        "hex": "#A8CEE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "292 C",
+        "name": null,
+        "hex": "#75B2DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "293 C",
+        "name": null,
+        "hex": "#0051BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "294 C",
+        "name": null,
+        "hex": "#003F87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "295 C",
+        "name": null,
+        "hex": "#00386B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "296 C",
+        "name": null,
+        "hex": "#002D47"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "297 C",
+        "name": null,
+        "hex": "#82C6E2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "298 C",
+        "name": null,
+        "hex": "#51B5E0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "299 C",
+        "name": null,
+        "hex": "#00A3DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "300 C",
+        "name": null,
+        "hex": "#0072C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "301 C",
+        "name": null,
+        "hex": "#005B99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "302 C",
+        "name": null,
+        "hex": "#004F6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "303 C",
+        "name": null,
+        "hex": "#003F54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "304 C",
+        "name": null,
+        "hex": "#A5DDE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "305 C",
+        "name": null,
+        "hex": "#70CEE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "306 C",
+        "name": null,
+        "hex": "#00BCE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "307 C",
+        "name": null,
+        "hex": "#007AA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "308 C",
+        "name": null,
+        "hex": "#00607C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "309 C",
+        "name": null,
+        "hex": "#003F49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "310 C",
+        "name": null,
+        "hex": "#72D1DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "311 C",
+        "name": null,
+        "hex": "#28C4D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "312 C",
+        "name": null,
+        "hex": "#00ADC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "313 C",
+        "name": null,
+        "hex": "#0099B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "314 C",
+        "name": null,
+        "hex": "#00829B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "315 C",
+        "name": null,
+        "hex": "#006B77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "316 C",
+        "name": null,
+        "hex": "#00494F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "317 C",
+        "name": null,
+        "hex": "#C9E8DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "318 C",
+        "name": null,
+        "hex": "#93DDDB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "319 C",
+        "name": null,
+        "hex": "#4CCED1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "320 C",
+        "name": null,
+        "hex": "#009EA0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "321 C",
+        "name": null,
+        "hex": "#008789"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "322 C",
+        "name": null,
+        "hex": "#007272"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "323 C",
+        "name": null,
+        "hex": "#006663"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "324 C",
+        "name": null,
+        "hex": "#AADDD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "325 C",
+        "name": null,
+        "hex": "#56C9C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "326 C",
+        "name": null,
+        "hex": "#00B2AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "327 C",
+        "name": null,
+        "hex": "#008C82"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "328 C",
+        "name": null,
+        "hex": "#007770"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "329 C",
+        "name": null,
+        "hex": "#006D66"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "330 C",
+        "name": null,
+        "hex": "#005951"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "331 C",
+        "name": null,
+        "hex": "#BAEAD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "332 C",
+        "name": null,
+        "hex": "#A0E5CE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "333 C",
+        "name": null,
+        "hex": "#5EDDC1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "334 C",
+        "name": null,
+        "hex": "#00997C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "335 C",
+        "name": null,
+        "hex": "#007C66"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "336 C",
+        "name": null,
+        "hex": "#006854"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "337 C",
+        "name": null,
+        "hex": "#9BDBC1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "338 C",
+        "name": null,
+        "hex": "#7AD1B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "339 C",
+        "name": null,
+        "hex": "#00B28C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "340 C",
+        "name": null,
+        "hex": "#009977"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "341 C",
+        "name": null,
+        "hex": "#007A5E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "342 C",
+        "name": null,
+        "hex": "#006B54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "343 C",
+        "name": null,
+        "hex": "#00563F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "344 C",
+        "name": null,
+        "hex": "#B5E2BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "345 C",
+        "name": null,
+        "hex": "#96D8AF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "346 C",
+        "name": null,
+        "hex": "#70CE9B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "347 C",
+        "name": null,
+        "hex": "#009E60"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "348 C",
+        "name": null,
+        "hex": "#008751"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "349 C",
+        "name": null,
+        "hex": "#006B3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "350 C",
+        "name": null,
+        "hex": "#234F33"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "351 C",
+        "name": null,
+        "hex": "#B5E8BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "352 C",
+        "name": null,
+        "hex": "#99E5B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "353 C",
+        "name": null,
+        "hex": "#84E2A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "354 C",
+        "name": null,
+        "hex": "#00B760"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "355 C",
+        "name": null,
+        "hex": "#009E49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "356 C",
+        "name": null,
+        "hex": "#007A3D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "357 C",
+        "name": null,
+        "hex": "#215B33"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "358 C",
+        "name": null,
+        "hex": "#AADD96"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "359 C",
+        "name": null,
+        "hex": "#A0DB8E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "360 C",
+        "name": null,
+        "hex": "#60C659"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "361 C",
+        "name": null,
+        "hex": "#1EB53A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "362 C",
+        "name": null,
+        "hex": "#339E35"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "363 C",
+        "name": null,
+        "hex": "#3D8E33"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "364 C",
+        "name": null,
+        "hex": "#3A7728"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "365 C",
+        "name": null,
+        "hex": "#D3E8A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "366 C",
+        "name": null,
+        "hex": "#C4E58E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "367 C",
+        "name": null,
+        "hex": "#AADD6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "368 C",
+        "name": null,
+        "hex": "#5BBF21"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "369 C",
+        "name": null,
+        "hex": "#56AA1C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "370 C",
+        "name": null,
+        "hex": "#568E14"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "371 C",
+        "name": null,
+        "hex": "#566B21"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "372 C",
+        "name": null,
+        "hex": "#D8ED96"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "373 C",
+        "name": null,
+        "hex": "#CEEA82"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "374 C",
+        "name": null,
+        "hex": "#BAE860"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "375 C",
+        "name": null,
+        "hex": "#8CD600"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "376 C",
+        "name": null,
+        "hex": "#7FBA00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "377 C",
+        "name": null,
+        "hex": "#709302"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "378 C",
+        "name": null,
+        "hex": "#566314"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "379 C",
+        "name": null,
+        "hex": "#E0EA68"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "380 C",
+        "name": null,
+        "hex": "#D6E542"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "381 C",
+        "name": null,
+        "hex": "#CCE226"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "382 C",
+        "name": null,
+        "hex": "#BAD80A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "383 C",
+        "name": null,
+        "hex": "#A3AF07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "384 C",
+        "name": null,
+        "hex": "#939905"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "385 C",
+        "name": null,
+        "hex": "#707014"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "386 C",
+        "name": null,
+        "hex": "#E8ED60"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "387 C",
+        "name": null,
+        "hex": "#E0ED44"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "388 C",
+        "name": null,
+        "hex": "#D6E80F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "389 C",
+        "name": null,
+        "hex": "#CEE007"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "390 C",
+        "name": null,
+        "hex": "#BAC405"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "391 C",
+        "name": null,
+        "hex": "#9E9E07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "392 C",
+        "name": null,
+        "hex": "#848205"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "393 C",
+        "name": null,
+        "hex": "#F2EF87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "394 C",
+        "name": null,
+        "hex": "#EAED35"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "395 C",
+        "name": null,
+        "hex": "#E5E811"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "396 C",
+        "name": null,
+        "hex": "#E0E20C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "397 C",
+        "name": null,
+        "hex": "#C1BF0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "398 C",
+        "name": null,
+        "hex": "#AFA80A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "399 C",
+        "name": null,
+        "hex": "#998E07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "400 C",
+        "name": null,
+        "hex": "#D1C6B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "401 C",
+        "name": null,
+        "hex": "#C1B5A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "402 C",
+        "name": null,
+        "hex": "#AFA593"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "403 C",
+        "name": null,
+        "hex": "#998C7C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "404 C",
+        "name": null,
+        "hex": "#827566"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "405 C",
+        "name": null,
+        "hex": "#6B5E4F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "406 C",
+        "name": null,
+        "hex": "#CEC1B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "408 C",
+        "name": null,
+        "hex": "#A8998C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "409 C",
+        "name": null,
+        "hex": "#99897C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "410 C",
+        "name": null,
+        "hex": "#7C6D63"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "411 C",
+        "name": null,
+        "hex": "#66594C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "412 C",
+        "name": null,
+        "hex": "#3D3028"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "413 C",
+        "name": null,
+        "hex": "#C6C1B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "414 C",
+        "name": null,
+        "hex": "#B5AFA0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "415 C",
+        "name": null,
+        "hex": "#A39E8C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "416 C",
+        "name": null,
+        "hex": "#8E8C7A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "417 C",
+        "name": null,
+        "hex": "#777263"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "418 C",
+        "name": null,
+        "hex": "#605E4F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "419 C",
+        "name": null,
+        "hex": "#282821"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "420 C",
+        "name": null,
+        "hex": "#D1CCBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "421 C",
+        "name": null,
+        "hex": "#BFBAAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "422 C",
+        "name": null,
+        "hex": "#AFAAA3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "423 C",
+        "name": null,
+        "hex": "#96938E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "424 C",
+        "name": null,
+        "hex": "#827F77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "425 C",
+        "name": null,
+        "hex": "#60605B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "426 C",
+        "name": null,
+        "hex": "#2B2B28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "427 C",
+        "name": null,
+        "hex": "#DDDBD1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "428 C",
+        "name": null,
+        "hex": "#D1CEC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "429 C",
+        "name": null,
+        "hex": "#ADAFAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "430 C",
+        "name": null,
+        "hex": "#919693"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "431 C",
+        "name": null,
+        "hex": "#666D70"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "432 C",
+        "name": null,
+        "hex": "#444F51"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "433 C",
+        "name": null,
+        "hex": "#30383A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "434 C",
+        "name": null,
+        "hex": "#E0D1C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "435 C",
+        "name": null,
+        "hex": "#D3BFB7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "436 C",
+        "name": null,
+        "hex": "#BCA59E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "437 C",
+        "name": null,
+        "hex": "#8C706B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "438 C",
+        "name": null,
+        "hex": "#593F3D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "439 C",
+        "name": null,
+        "hex": "#493533"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "440 C",
+        "name": null,
+        "hex": "#3F302B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "441 C",
+        "name": null,
+        "hex": "#D1D1C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "442 C",
+        "name": null,
+        "hex": "#BABFB7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "443 C",
+        "name": null,
+        "hex": "#A3A8A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "444 C",
+        "name": null,
+        "hex": "#898E8C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "445 C",
+        "name": null,
+        "hex": "#565959"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "446 C",
+        "name": null,
+        "hex": "#494C49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "447 C",
+        "name": null,
+        "hex": "#3F3F38"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "448 C",
+        "name": null,
+        "hex": "#54472D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "449 C",
+        "name": null,
+        "hex": "#544726"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "450 C",
+        "name": null,
+        "hex": "#60542B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "451 C",
+        "name": null,
+        "hex": "#ADA07A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "452 C",
+        "name": null,
+        "hex": "#C4B796"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "453 C",
+        "name": null,
+        "hex": "#D6CCAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "454 C",
+        "name": null,
+        "hex": "#E2D8BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "455 C",
+        "name": null,
+        "hex": "#665614"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "456 C",
+        "name": null,
+        "hex": "#998714"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "457 C",
+        "name": null,
+        "hex": "#B59B0C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "458 C",
+        "name": null,
+        "hex": "#DDCC6B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "459 C",
+        "name": null,
+        "hex": "#E2D67C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "460 C",
+        "name": null,
+        "hex": "#EADD96"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "461 C",
+        "name": null,
+        "hex": "#EDE5AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "462 C",
+        "name": null,
+        "hex": "#5B4723"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "463 C",
+        "name": null,
+        "hex": "#755426"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "464 C",
+        "name": null,
+        "hex": "#876028"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "465 C",
+        "name": null,
+        "hex": "#C1A875"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "466 C",
+        "name": null,
+        "hex": "#D1BF91"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "467 C",
+        "name": null,
+        "hex": "#DDCCA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "468 C",
+        "name": null,
+        "hex": "#E2D6B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "469 C",
+        "name": null,
+        "hex": "#603311"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "470 C",
+        "name": null,
+        "hex": "#9B4F19"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "471 C",
+        "name": null,
+        "hex": "#BC5E1E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "472 C",
+        "name": null,
+        "hex": "#EAAA7A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "473 C",
+        "name": null,
+        "hex": "#F4C4A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "474 C",
+        "name": null,
+        "hex": "#F4CCAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "475 C",
+        "name": null,
+        "hex": "#F7D3B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "476 C",
+        "name": null,
+        "hex": "#593D2B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "477 C",
+        "name": null,
+        "hex": "#633826"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "478 C",
+        "name": null,
+        "hex": "#7A3F28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "479 C",
+        "name": null,
+        "hex": "#AF8970"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "480 C",
+        "name": null,
+        "hex": "#D3B7A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "481 C",
+        "name": null,
+        "hex": "#E0CCBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "482 C",
+        "name": null,
+        "hex": "#E5D3C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "483 C",
+        "name": null,
+        "hex": "#6B3021"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "484 C",
+        "name": null,
+        "hex": "#9B301C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "485 C",
+        "name": null,
+        "hex": "#D81E05"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "486 C",
+        "name": null,
+        "hex": "#ED9E84"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "487 C",
+        "name": null,
+        "hex": "#EFB5A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "488 C",
+        "name": null,
+        "hex": "#F2C4AF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "489 C",
+        "name": null,
+        "hex": "#F2D1BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "490 C",
+        "name": null,
+        "hex": "#5B2626"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "491 C",
+        "name": null,
+        "hex": "#752828"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "492 C",
+        "name": null,
+        "hex": "#913338"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "494 C",
+        "name": null,
+        "hex": "#F2ADB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "495 C",
+        "name": null,
+        "hex": "#F4BCBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "496 C",
+        "name": null,
+        "hex": "#F7C9C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "497 C",
+        "name": null,
+        "hex": "#512826"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "498 C",
+        "name": null,
+        "hex": "#6D332B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "499 C",
+        "name": null,
+        "hex": "#7A382D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "500 C",
+        "name": null,
+        "hex": "#CE898C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "501 C",
+        "name": null,
+        "hex": "#EAB2B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "502 C",
+        "name": null,
+        "hex": "#F2C6C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "503 C",
+        "name": null,
+        "hex": "#F4D1CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "504 C",
+        "name": null,
+        "hex": "#511E26"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "505 C",
+        "name": null,
+        "hex": "#661E2B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "506 C",
+        "name": null,
+        "hex": "#7A2638"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "507 C",
+        "name": null,
+        "hex": "#D8899B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "508 C",
+        "name": null,
+        "hex": "#E8A5AF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "509 C",
+        "name": null,
+        "hex": "#F2BABF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "510 C",
+        "name": null,
+        "hex": "#F4C6C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "511 C",
+        "name": null,
+        "hex": "#602144"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "512 C",
+        "name": null,
+        "hex": "#84216B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "513 C",
+        "name": null,
+        "hex": "#9E2387"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "514 C",
+        "name": null,
+        "hex": "#D884BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "515 C",
+        "name": null,
+        "hex": "#E8A3C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "516 C",
+        "name": null,
+        "hex": "#F2BAD3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "517 C",
+        "name": null,
+        "hex": "#F4CCD8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "518 C",
+        "name": null,
+        "hex": "#512D44"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "519 C",
+        "name": null,
+        "hex": "#63305E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "520 C",
+        "name": null,
+        "hex": "#703572"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "521 C",
+        "name": null,
+        "hex": "#B58CB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "522 C",
+        "name": null,
+        "hex": "#C6A3C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "523 C",
+        "name": null,
+        "hex": "#D3B7CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "524 C",
+        "name": null,
+        "hex": "#E2CCD3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "525 C",
+        "name": null,
+        "hex": "#512654"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "526 C",
+        "name": null,
+        "hex": "#68217A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "527 C",
+        "name": null,
+        "hex": "#7A1E99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "528 C",
+        "name": null,
+        "hex": "#AF72C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "529 C",
+        "name": null,
+        "hex": "#CEA3D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "530 C",
+        "name": null,
+        "hex": "#D6AFD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "531 C",
+        "name": null,
+        "hex": "#E5C6DB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "532 C",
+        "name": null,
+        "hex": "#353842"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "533 C",
+        "name": null,
+        "hex": "#353F5B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "534 C",
+        "name": null,
+        "hex": "#3A4972"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "535 C",
+        "name": null,
+        "hex": "#9BA3B7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "536 C",
+        "name": null,
+        "hex": "#ADB2C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "537 C",
+        "name": null,
+        "hex": "#C4C6CE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "538 C",
+        "name": null,
+        "hex": "#D6D3D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "539 C",
+        "name": null,
+        "hex": "#003049"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "540 C",
+        "name": null,
+        "hex": "#00335B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "541 C",
+        "name": null,
+        "hex": "#003F77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "542 C",
+        "name": null,
+        "hex": "#6693BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "543 C",
+        "name": null,
+        "hex": "#93B7D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "544 C",
+        "name": null,
+        "hex": "#B7CCDB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "545 C",
+        "name": null,
+        "hex": "#C4D3DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "546 C",
+        "name": null,
+        "hex": "#0C3844"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "547 C",
+        "name": null,
+        "hex": "#003F54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "548 C",
+        "name": null,
+        "hex": "#004459"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "549 C",
+        "name": null,
+        "hex": "#5E99AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "550 C",
+        "name": null,
+        "hex": "#87AFBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "551 C",
+        "name": null,
+        "hex": "#A3C1C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "552 C",
+        "name": null,
+        "hex": "#C4D6D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "553 C",
+        "name": null,
+        "hex": "#234435"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "554 C",
+        "name": null,
+        "hex": "#195E47"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "555 C",
+        "name": null,
+        "hex": "#076D54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "556 C",
+        "name": null,
+        "hex": "#7AA891"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "557 C",
+        "name": null,
+        "hex": "#A3C1AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "558 C",
+        "name": null,
+        "hex": "#B7CEBC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "559 C",
+        "name": null,
+        "hex": "#C6D6C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "560 C",
+        "name": null,
+        "hex": "#2B4C3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "561 C",
+        "name": null,
+        "hex": "#266659"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "562 C",
+        "name": null,
+        "hex": "#1E7A6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "563 C",
+        "name": null,
+        "hex": "#7FBCAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "564 C",
+        "name": null,
+        "hex": "#05705E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "565 C",
+        "name": null,
+        "hex": "#BCDBCC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "566 C",
+        "name": null,
+        "hex": "#D1E2D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "567 C",
+        "name": null,
+        "hex": "#265142"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "569 C",
+        "name": null,
+        "hex": "#008772"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "570 C",
+        "name": null,
+        "hex": "#7FC6B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "571 C",
+        "name": null,
+        "hex": "#AADBC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "572 C",
+        "name": null,
+        "hex": "#BCE2CE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "573 C",
+        "name": null,
+        "hex": "#CCE5D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "574 C",
+        "name": null,
+        "hex": "#495928"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "575 C",
+        "name": null,
+        "hex": "#547730"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "576 C",
+        "name": null,
+        "hex": "#608E3A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "577 C",
+        "name": null,
+        "hex": "#B5CC8E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "578 C",
+        "name": null,
+        "hex": "#C6D6A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "579 C",
+        "name": null,
+        "hex": "#C9D6A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "580 C",
+        "name": null,
+        "hex": "#D8DDB5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "581 C",
+        "name": null,
+        "hex": "#605E11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "582 C",
+        "name": null,
+        "hex": "#878905"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "583 C",
+        "name": null,
+        "hex": "#AABA0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "584 C",
+        "name": null,
+        "hex": "#CED649"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "585 C",
+        "name": null,
+        "hex": "#DBE06B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "586 C",
+        "name": null,
+        "hex": "#E2E584"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "587 C",
+        "name": null,
+        "hex": "#E8E89B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "600 C",
+        "name": null,
+        "hex": "#F4EDAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "601 C",
+        "name": null,
+        "hex": "#F2ED9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "602 C",
+        "name": null,
+        "hex": "#F2EA87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "603 C",
+        "name": null,
+        "hex": "#EDE85B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "604 C",
+        "name": null,
+        "hex": "#E8DD21"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "605 C",
+        "name": null,
+        "hex": "#DDCE11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "606 C",
+        "name": null,
+        "hex": "#D3BF11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "607 C",
+        "name": null,
+        "hex": "#F2EABC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "608 C",
+        "name": null,
+        "hex": "#EFE8AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "609 C",
+        "name": null,
+        "hex": "#EAE596"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "610 C",
+        "name": null,
+        "hex": "#E2DB72"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "611 C",
+        "name": null,
+        "hex": "#D6CE49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "612 C",
+        "name": null,
+        "hex": "#C4BA00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "613 C",
+        "name": null,
+        "hex": "#AFA00C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "614 C",
+        "name": null,
+        "hex": "#EAE2B7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "615 C",
+        "name": null,
+        "hex": "#E2DBAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "616 C",
+        "name": null,
+        "hex": "#DDD69B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "617 C",
+        "name": null,
+        "hex": "#CCC47C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "618 C",
+        "name": null,
+        "hex": "#B5AA59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "619 C",
+        "name": null,
+        "hex": "#968C28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "620 C",
+        "name": null,
+        "hex": "#847711"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "621 C",
+        "name": null,
+        "hex": "#D8DDCE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "622 C",
+        "name": null,
+        "hex": "#C1D1BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "623 C",
+        "name": null,
+        "hex": "#A5BFAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "624 C",
+        "name": null,
+        "hex": "#7FA08C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "625 C",
+        "name": null,
+        "hex": "#5B8772"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "626 C",
+        "name": null,
+        "hex": "#21543F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "627 C",
+        "name": null,
+        "hex": "#0C3026"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "628 C",
+        "name": null,
+        "hex": "#CCE2DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "629 C",
+        "name": null,
+        "hex": "#B2D8D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "630 C",
+        "name": null,
+        "hex": "#8CCCD3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "631 C",
+        "name": null,
+        "hex": "#54B7C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "632 C",
+        "name": null,
+        "hex": "#00A0BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "633 C",
+        "name": null,
+        "hex": "#007F99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "634 C",
+        "name": null,
+        "hex": "#00667F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "635 C",
+        "name": null,
+        "hex": "#BAE0E0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "636 C",
+        "name": null,
+        "hex": "#99D6DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "637 C",
+        "name": null,
+        "hex": "#6BC9DB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "638 C",
+        "name": null,
+        "hex": "#00B5D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "639 C",
+        "name": null,
+        "hex": "#00A0C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "640 C",
+        "name": null,
+        "hex": "#008CB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "641 C",
+        "name": null,
+        "hex": "#007AA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "642 C",
+        "name": null,
+        "hex": "#D1D8D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "643 C",
+        "name": null,
+        "hex": "#C6D1D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "644 C",
+        "name": null,
+        "hex": "#9BAFC4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "645 C",
+        "name": null,
+        "hex": "#7796B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "646 C",
+        "name": null,
+        "hex": "#5E82A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "647 C",
+        "name": null,
+        "hex": "#26547C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "648 C",
+        "name": null,
+        "hex": "#00305E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "649 C",
+        "name": null,
+        "hex": "#D6D6D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "650 C",
+        "name": null,
+        "hex": "#BFC6D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "651 C",
+        "name": null,
+        "hex": "#9BAABF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "652 C",
+        "name": null,
+        "hex": "#6D87A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "653 C",
+        "name": null,
+        "hex": "#335687"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "654 C",
+        "name": null,
+        "hex": "#0F2B5B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "655 C",
+        "name": null,
+        "hex": "#0C1C47"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "656 C",
+        "name": null,
+        "hex": "#D6DBE0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "657 C",
+        "name": null,
+        "hex": "#C1C9DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "658 C",
+        "name": null,
+        "hex": "#A5AFD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "659 C",
+        "name": null,
+        "hex": "#7F8CBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "660 C",
+        "name": null,
+        "hex": "#5960A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "661 C",
+        "name": null,
+        "hex": "#2D338E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "662 C",
+        "name": null,
+        "hex": "#0C1975"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "663 C",
+        "name": null,
+        "hex": "#E2D3D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "664 C",
+        "name": null,
+        "hex": "#D8CCD1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "665 C",
+        "name": null,
+        "hex": "#C6B5C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "666 C",
+        "name": null,
+        "hex": "#A893AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "667 C",
+        "name": null,
+        "hex": "#7F6689"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "668 C",
+        "name": null,
+        "hex": "#664975"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "669 C",
+        "name": null,
+        "hex": "#472B59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "670 C",
+        "name": null,
+        "hex": "#F2D6D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "671 C",
+        "name": null,
+        "hex": "#EFC6D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "672 C",
+        "name": null,
+        "hex": "#EAAAC4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "673 C",
+        "name": null,
+        "hex": "#E08CB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "674 C",
+        "name": null,
+        "hex": "#D36B9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "675 C",
+        "name": null,
+        "hex": "#BC3877"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "676 C",
+        "name": null,
+        "hex": "#A00054"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "677 C",
+        "name": null,
+        "hex": "#EDD6D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "678 C",
+        "name": null,
+        "hex": "#EACCCE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "679 C",
+        "name": null,
+        "hex": "#E5BFC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "680 C",
+        "name": null,
+        "hex": "#D39EAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "681 C",
+        "name": null,
+        "hex": "#B7728E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "682 C",
+        "name": null,
+        "hex": "#A05175"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "683 C",
+        "name": null,
+        "hex": "#7F284F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "684 C",
+        "name": null,
+        "hex": "#EFCCCE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "685 C",
+        "name": null,
+        "hex": "#EABFC4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "686 C",
+        "name": null,
+        "hex": "#E0AABA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "687 C",
+        "name": null,
+        "hex": "#C9899E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "688 C",
+        "name": null,
+        "hex": "#B26684"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "689 C",
+        "name": null,
+        "hex": "#934266"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "690 C",
+        "name": null,
+        "hex": "#702342"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "691 C",
+        "name": null,
+        "hex": "#EFD1C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "692 C",
+        "name": null,
+        "hex": "#E8BFBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "693 C",
+        "name": null,
+        "hex": "#DBA8A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "694 C",
+        "name": null,
+        "hex": "#C98C8C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "695 C",
+        "name": null,
+        "hex": "#B26B70"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "696 C",
+        "name": null,
+        "hex": "#8E4749"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "697 C",
+        "name": null,
+        "hex": "#7F383A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "698 C",
+        "name": null,
+        "hex": "#F7D1CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "699 C",
+        "name": null,
+        "hex": "#F7BFBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "700 C",
+        "name": null,
+        "hex": "#F2A5AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "701 C",
+        "name": null,
+        "hex": "#E8878E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "702 C",
+        "name": null,
+        "hex": "#D6606D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "703 C",
+        "name": null,
+        "hex": "#B73844"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "704 C",
+        "name": null,
+        "hex": "#9E2828"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "705 C",
+        "name": null,
+        "hex": "#F9DDD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "706 C",
+        "name": null,
+        "hex": "#FCC9C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "707 C",
+        "name": null,
+        "hex": "#FCADAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "708 C",
+        "name": null,
+        "hex": "#F98E99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "709 C",
+        "name": null,
+        "hex": "#F26877"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "710 C",
+        "name": null,
+        "hex": "#E04251"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "711 C",
+        "name": null,
+        "hex": "#D12D33"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "712 C",
+        "name": null,
+        "hex": "#FFD3AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "713 C",
+        "name": null,
+        "hex": "#F9C9A3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "714 C",
+        "name": null,
+        "hex": "#F9BA82"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "715 C",
+        "name": null,
+        "hex": "#FC9E49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "716 C",
+        "name": null,
+        "hex": "#F28411"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "717 C",
+        "name": null,
+        "hex": "#D36D00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "718 C",
+        "name": null,
+        "hex": "#BF5B00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "719 C",
+        "name": null,
+        "hex": "#F4D1AF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "720 C",
+        "name": null,
+        "hex": "#EFC49E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "721 C",
+        "name": null,
+        "hex": "#E8B282"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "722 C",
+        "name": null,
+        "hex": "#D18E54"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "723 C",
+        "name": null,
+        "hex": "#BA7530"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "724 C",
+        "name": null,
+        "hex": "#8E4905"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "725 C",
+        "name": null,
+        "hex": "#753802"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "726 C",
+        "name": null,
+        "hex": "#EDD3B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "727 C",
+        "name": null,
+        "hex": "#E2BF9B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "728 C",
+        "name": null,
+        "hex": "#D3A87C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "729 C",
+        "name": null,
+        "hex": "#C18E60"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "730 C",
+        "name": null,
+        "hex": "#AA753F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "731 C",
+        "name": null,
+        "hex": "#723F0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "732 C",
+        "name": null,
+        "hex": "#60330A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "801 C",
+        "name": null,
+        "hex": "#00AACC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "802 C",
+        "name": null,
+        "hex": "#60DD49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "803 C",
+        "name": null,
+        "hex": "#FFED38"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "804 C",
+        "name": null,
+        "hex": "#FF9338"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "805 C",
+        "name": null,
+        "hex": "#F95951"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "806 C",
+        "name": null,
+        "hex": "#FF0093"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "807 C",
+        "name": null,
+        "hex": "#D6009E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "808 C",
+        "name": null,
+        "hex": "#00B59B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "809 C",
+        "name": null,
+        "hex": "#DDE00F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "810 C",
+        "name": null,
+        "hex": "#FFCC1E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "811 C",
+        "name": null,
+        "hex": "#FF7247"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "812 C",
+        "name": null,
+        "hex": "#FC2366"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "813 C",
+        "name": null,
+        "hex": "#E50099"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "814 C",
+        "name": null,
+        "hex": "#8C60C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1205 C",
+        "name": null,
+        "hex": "#F7E8AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1215 C",
+        "name": null,
+        "hex": "#F9E08C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1225 C",
+        "name": null,
+        "hex": "#FFCC49"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1235 C",
+        "name": null,
+        "hex": "#FCB514"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1245 C",
+        "name": null,
+        "hex": "#BF910C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1255 C",
+        "name": null,
+        "hex": "#A37F14"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1265 C",
+        "name": null,
+        "hex": "#7C6316"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1345 C",
+        "name": null,
+        "hex": "#FFD691"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1355 C",
+        "name": null,
+        "hex": "#FCCE87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1365 C",
+        "name": null,
+        "hex": "#FCBA5E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1375 C",
+        "name": null,
+        "hex": "#F99B0C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1385 C",
+        "name": null,
+        "hex": "#CC7A02"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1395 C",
+        "name": null,
+        "hex": "#996007"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1405 C",
+        "name": null,
+        "hex": "#6B4714"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1485 C",
+        "name": null,
+        "hex": "#FFB777"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1495 C",
+        "name": null,
+        "hex": "#FF993F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1505 C",
+        "name": null,
+        "hex": "#F47C00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1525 C",
+        "name": null,
+        "hex": "#B55400"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1535 C",
+        "name": null,
+        "hex": "#8C4400"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1545 C",
+        "name": null,
+        "hex": "#4C280F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1555 C",
+        "name": null,
+        "hex": "#F9BF9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1565 C",
+        "name": null,
+        "hex": "#FCA577"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1575 C",
+        "name": null,
+        "hex": "#FC8744"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1585 C",
+        "name": null,
+        "hex": "#F96B07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1595 C",
+        "name": null,
+        "hex": "#D15B05"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1605 C",
+        "name": null,
+        "hex": "#A04F11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1615 C",
+        "name": null,
+        "hex": "#843F0F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1625 C",
+        "name": null,
+        "hex": "#F9A58C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1635 C",
+        "name": null,
+        "hex": "#F98E6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1645 C",
+        "name": null,
+        "hex": "#F97242"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1655 C",
+        "name": null,
+        "hex": "#F95602"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1665 C",
+        "name": null,
+        "hex": "#DD4F05"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1675 C",
+        "name": null,
+        "hex": "#A53F0F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1685 C",
+        "name": null,
+        "hex": "#843511"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1765 C",
+        "name": null,
+        "hex": "#F99EA3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1767 C",
+        "name": null,
+        "hex": "#F9B2B7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1775 C",
+        "name": null,
+        "hex": "#F9848E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1777 C",
+        "name": null,
+        "hex": "#FC6675"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1785 C",
+        "name": null,
+        "hex": "#FC4F59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1787 C",
+        "name": null,
+        "hex": "#F43F4F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1788 C",
+        "name": null,
+        "hex": "#EF2B2D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1795 C",
+        "name": null,
+        "hex": "#D62828"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1797 C",
+        "name": null,
+        "hex": "#CC2D30"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1805 C",
+        "name": null,
+        "hex": "#AF2626"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1807 C",
+        "name": null,
+        "hex": "#A03033"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1810 C",
+        "name": null,
+        "hex": "#7C211E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1817 C",
+        "name": null,
+        "hex": "#5B2D28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1895 C",
+        "name": null,
+        "hex": "#FCBFC9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1905 C",
+        "name": null,
+        "hex": "#FC9BB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1915 C",
+        "name": null,
+        "hex": "#F4547C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1925 C",
+        "name": null,
+        "hex": "#E00747"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1935 C",
+        "name": null,
+        "hex": "#C10538"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1945 C",
+        "name": null,
+        "hex": "#A80C35"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "1955 C",
+        "name": null,
+        "hex": "#931638"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2365 C",
+        "name": null,
+        "hex": "#F7C4D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2375 C",
+        "name": null,
+        "hex": "#EA6BBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2385 C",
+        "name": null,
+        "hex": "#DB28A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2395 C",
+        "name": null,
+        "hex": "#C4008C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2405 C",
+        "name": null,
+        "hex": "#A8007A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2415 C",
+        "name": null,
+        "hex": "#9B0070"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2425 C",
+        "name": null,
+        "hex": "#87005B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2562 C",
+        "name": null,
+        "hex": "#D8A8D8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2563 C",
+        "name": null,
+        "hex": "#D1A0CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2567 C",
+        "name": null,
+        "hex": "#BF93CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2572 C",
+        "name": null,
+        "hex": "#C687D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2573 C",
+        "name": null,
+        "hex": "#BA7CBC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2577 C",
+        "name": null,
+        "hex": "#AA72BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2582 C",
+        "name": null,
+        "hex": "#AA47BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2583 C",
+        "name": null,
+        "hex": "#9E4FA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2587 C",
+        "name": null,
+        "hex": "#8E47AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2592 C",
+        "name": null,
+        "hex": "#930FA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2593 C",
+        "name": null,
+        "hex": "#872B93"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2597 C",
+        "name": null,
+        "hex": "#66008C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2602 C",
+        "name": null,
+        "hex": "#820C8E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2603 C",
+        "name": null,
+        "hex": "#70147A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2607 C",
+        "name": null,
+        "hex": "#5B027A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2612 C",
+        "name": null,
+        "hex": "#701E72"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2613 C",
+        "name": null,
+        "hex": "#66116D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2617 C",
+        "name": null,
+        "hex": "#560C70"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2622 C",
+        "name": null,
+        "hex": "#602D59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2623 C",
+        "name": null,
+        "hex": "#5B195E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2627 C",
+        "name": null,
+        "hex": "#4C145E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2635 C",
+        "name": null,
+        "hex": "#C9ADD8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2645 C",
+        "name": null,
+        "hex": "#B591D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2655 C",
+        "name": null,
+        "hex": "#9B6DC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2665 C",
+        "name": null,
+        "hex": "#894FBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2685 C",
+        "name": null,
+        "hex": "#56008C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2695 C",
+        "name": null,
+        "hex": "#44235E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2705 C",
+        "name": null,
+        "hex": "#AD9ED3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2706 C",
+        "name": null,
+        "hex": "#D1CEDD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2707 C",
+        "name": null,
+        "hex": "#BFD1E5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2708 C",
+        "name": null,
+        "hex": "#AFBCDB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2715 C",
+        "name": null,
+        "hex": "#937ACC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2716 C",
+        "name": null,
+        "hex": "#A5A0D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2717 C",
+        "name": null,
+        "hex": "#A5BAE0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2718 C",
+        "name": null,
+        "hex": "#5B77CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2725 C",
+        "name": null,
+        "hex": "#7251BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2726 C",
+        "name": null,
+        "hex": "#6656BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2727 C",
+        "name": null,
+        "hex": "#5E68C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2728 C",
+        "name": null,
+        "hex": "#3044B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2735 C",
+        "name": null,
+        "hex": "#4F0093"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2736 C",
+        "name": null,
+        "hex": "#4930AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2738 C",
+        "name": null,
+        "hex": "#2D008E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2745 C",
+        "name": null,
+        "hex": "#3F0077"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2746 C",
+        "name": null,
+        "hex": "#3F2893"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2747 C",
+        "name": null,
+        "hex": "#1C146B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2748 C",
+        "name": null,
+        "hex": "#1E1C77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2755 C",
+        "name": null,
+        "hex": "#35006D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2756 C",
+        "name": null,
+        "hex": "#332875"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2757 C",
+        "name": null,
+        "hex": "#141654"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2758 C",
+        "name": null,
+        "hex": "#192168"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2765 C",
+        "name": null,
+        "hex": "#2B0C56"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2766 C",
+        "name": null,
+        "hex": "#2B265B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2767 C",
+        "name": null,
+        "hex": "#14213D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2768 C",
+        "name": null,
+        "hex": "#112151"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2905 C",
+        "name": null,
+        "hex": "#93C6E0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2915 C",
+        "name": null,
+        "hex": "#60AFDD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2925 C",
+        "name": null,
+        "hex": "#008ED6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2935 C",
+        "name": null,
+        "hex": "#005BBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2945 C",
+        "name": null,
+        "hex": "#0054A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2955 C",
+        "name": null,
+        "hex": "#003D6B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2965 C",
+        "name": null,
+        "hex": "#00334C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2975 C",
+        "name": null,
+        "hex": "#BAE0E2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2985 C",
+        "name": null,
+        "hex": "#51BFE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "2995 C",
+        "name": null,
+        "hex": "#00A5DB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3005 C",
+        "name": null,
+        "hex": "#0084C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3015 C",
+        "name": null,
+        "hex": "#00709E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3025 C",
+        "name": null,
+        "hex": "#00546B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3035 C",
+        "name": null,
+        "hex": "#004454"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3105 C",
+        "name": null,
+        "hex": "#7FD6DB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3115 C",
+        "name": null,
+        "hex": "#2DC6D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3125 C",
+        "name": null,
+        "hex": "#00B7C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3135 C",
+        "name": null,
+        "hex": "#009BAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3145 C",
+        "name": null,
+        "hex": "#00848E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3155 C",
+        "name": null,
+        "hex": "#006D75"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3165 C",
+        "name": null,
+        "hex": "#00565B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3242 C",
+        "name": null,
+        "hex": "#87DDD1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3245 C",
+        "name": null,
+        "hex": "#8CE0D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3248 C",
+        "name": null,
+        "hex": "#7AD3C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3252 C",
+        "name": null,
+        "hex": "#56D6C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3255 C",
+        "name": null,
+        "hex": "#47D6C1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3258 C",
+        "name": null,
+        "hex": "#35C4AF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3262 C",
+        "name": null,
+        "hex": "#00C1B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3265 C",
+        "name": null,
+        "hex": "#00C6B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3268 C",
+        "name": null,
+        "hex": "#00AF99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3272 C",
+        "name": null,
+        "hex": "#00AA9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3275 C",
+        "name": null,
+        "hex": "#00B2A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3278 C",
+        "name": null,
+        "hex": "#009B84"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3282 C",
+        "name": null,
+        "hex": "#008C82"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3285 C",
+        "name": null,
+        "hex": "#009987"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3288 C",
+        "name": null,
+        "hex": "#008270"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3292 C",
+        "name": null,
+        "hex": "#006056"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3295 C",
+        "name": null,
+        "hex": "#008272"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3298 C",
+        "name": null,
+        "hex": "#006B5B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3302 C",
+        "name": null,
+        "hex": "#00493F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3305 C",
+        "name": null,
+        "hex": "#004F42"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3375 C",
+        "name": null,
+        "hex": "#8EE2BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3385 C",
+        "name": null,
+        "hex": "#54D8A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3395 C",
+        "name": null,
+        "hex": "#00C993"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3405 C",
+        "name": null,
+        "hex": "#00B27A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3415 C",
+        "name": null,
+        "hex": "#007C59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3425 C",
+        "name": null,
+        "hex": "#006847"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3435 C",
+        "name": null,
+        "hex": "#024930"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3935 C",
+        "name": null,
+        "hex": "#F2ED6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3945 C",
+        "name": null,
+        "hex": "#EFEA07"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3955 C",
+        "name": null,
+        "hex": "#EDE211"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3965 C",
+        "name": null,
+        "hex": "#E8DD11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3975 C",
+        "name": null,
+        "hex": "#B5A80C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3985 C",
+        "name": null,
+        "hex": "#998C0A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "3995 C",
+        "name": null,
+        "hex": "#6D6002"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4485 C",
+        "name": null,
+        "hex": "#604C11"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4495 C",
+        "name": null,
+        "hex": "#877530"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4505 C",
+        "name": null,
+        "hex": "#A09151"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4515 C",
+        "name": null,
+        "hex": "#BCAD75"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4525 C",
+        "name": null,
+        "hex": "#CCBF8E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4535 C",
+        "name": null,
+        "hex": "#DBCEA5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4545 C",
+        "name": null,
+        "hex": "#E5DBBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4625 C",
+        "name": null,
+        "hex": "#472311"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4635 C",
+        "name": null,
+        "hex": "#8C5933"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4645 C",
+        "name": null,
+        "hex": "#B28260"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4655 C",
+        "name": null,
+        "hex": "#C49977"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4665 C",
+        "name": null,
+        "hex": "#D8B596"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4675 C",
+        "name": null,
+        "hex": "#E5C6AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4685 C",
+        "name": null,
+        "hex": "#EDD3BC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4695 C",
+        "name": null,
+        "hex": "#51261C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4705 C",
+        "name": null,
+        "hex": "#7C513D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4715 C",
+        "name": null,
+        "hex": "#99705B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4725 C",
+        "name": null,
+        "hex": "#B5917C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4735 C",
+        "name": null,
+        "hex": "#CCAF9B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4745 C",
+        "name": null,
+        "hex": "#D8BFAA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4755 C",
+        "name": null,
+        "hex": "#E2CCBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4975 C",
+        "name": null,
+        "hex": "#441E1C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4985 C",
+        "name": null,
+        "hex": "#844949"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "4995 C",
+        "name": null,
+        "hex": "#A56B6D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5005 C",
+        "name": null,
+        "hex": "#BC8787"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5015 C",
+        "name": null,
+        "hex": "#D8ADA8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5025 C",
+        "name": null,
+        "hex": "#E2BCB7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5035 C",
+        "name": null,
+        "hex": "#EDCEC6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5115 C",
+        "name": null,
+        "hex": "#4F213A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5125 C",
+        "name": null,
+        "hex": "#754760"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5135 C",
+        "name": null,
+        "hex": "#936B7F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5145 C",
+        "name": null,
+        "hex": "#AD8799"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5155 C",
+        "name": null,
+        "hex": "#CCAFB7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5165 C",
+        "name": null,
+        "hex": "#E0C9CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5175 C",
+        "name": null,
+        "hex": "#E8D6D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5185 C",
+        "name": null,
+        "hex": "#472835"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5195 C",
+        "name": null,
+        "hex": "#593344"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5205 C",
+        "name": null,
+        "hex": "#8E6877"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5215 C",
+        "name": null,
+        "hex": "#B5939B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5225 C",
+        "name": null,
+        "hex": "#CCADAF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5235 C",
+        "name": null,
+        "hex": "#DDC6C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5245 C",
+        "name": null,
+        "hex": "#E5D3CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5255 C",
+        "name": null,
+        "hex": "#35264F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5265 C",
+        "name": null,
+        "hex": "#493D63"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5275 C",
+        "name": null,
+        "hex": "#605677"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5285 C",
+        "name": null,
+        "hex": "#8C8299"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5295 C",
+        "name": null,
+        "hex": "#B2A8B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5305 C",
+        "name": null,
+        "hex": "#CCC1C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5315 C",
+        "name": null,
+        "hex": "#DBD3D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5395 C",
+        "name": null,
+        "hex": "#02283A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5405 C",
+        "name": null,
+        "hex": "#3F6075"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5415 C",
+        "name": null,
+        "hex": "#607C8C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5425 C",
+        "name": null,
+        "hex": "#8499A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5435 C",
+        "name": null,
+        "hex": "#AFBCBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5445 C",
+        "name": null,
+        "hex": "#C4CCCC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5455 C",
+        "name": null,
+        "hex": "#D6D8D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5463 C",
+        "name": null,
+        "hex": "#00353A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5467 C",
+        "name": null,
+        "hex": "#193833"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5473 C",
+        "name": null,
+        "hex": "#26686D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5477 C",
+        "name": null,
+        "hex": "#3A564F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5483 C",
+        "name": null,
+        "hex": "#609191"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5487 C",
+        "name": null,
+        "hex": "#667C72"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5493 C",
+        "name": null,
+        "hex": "#8CAFAD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5497 C",
+        "name": null,
+        "hex": "#91A399"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5503 C",
+        "name": null,
+        "hex": "#AAC4BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5507 C",
+        "name": null,
+        "hex": "#AFBAB2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5513 C",
+        "name": null,
+        "hex": "#CED8D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5517 C",
+        "name": null,
+        "hex": "#C9CEC4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5523 C",
+        "name": null,
+        "hex": "#D6DDD6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5527 C",
+        "name": null,
+        "hex": "#CED1C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5535 C",
+        "name": null,
+        "hex": "#213D30"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5545 C",
+        "name": null,
+        "hex": "#4F6D5E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5555 C",
+        "name": null,
+        "hex": "#779182"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5565 C",
+        "name": null,
+        "hex": "#96AA99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5575 C",
+        "name": null,
+        "hex": "#AFBFAD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5585 C",
+        "name": null,
+        "hex": "#C4CEBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5595 C",
+        "name": null,
+        "hex": "#D8DBCC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5605 C",
+        "name": null,
+        "hex": "#233A2D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5615 C",
+        "name": null,
+        "hex": "#546856"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5625 C",
+        "name": null,
+        "hex": "#728470"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5635 C",
+        "name": null,
+        "hex": "#9EAA99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5645 C",
+        "name": null,
+        "hex": "#BCC1B2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5655 C",
+        "name": null,
+        "hex": "#C6CCBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5665 C",
+        "name": null,
+        "hex": "#D6D6C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5743 C",
+        "name": null,
+        "hex": "#3F4926"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5747 C",
+        "name": null,
+        "hex": "#424716"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5753 C",
+        "name": null,
+        "hex": "#5E663A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5757 C",
+        "name": null,
+        "hex": "#6B702B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5763 C",
+        "name": null,
+        "hex": "#777C4F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5767 C",
+        "name": null,
+        "hex": "#8C914F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5773 C",
+        "name": null,
+        "hex": "#9B9E72"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5777 C",
+        "name": null,
+        "hex": "#AAAD75"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5783 C",
+        "name": null,
+        "hex": "#B5B58E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5787 C",
+        "name": null,
+        "hex": "#C6C699"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5793 C",
+        "name": null,
+        "hex": "#C6C6A5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5797 C",
+        "name": null,
+        "hex": "#D3D1AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5803 C",
+        "name": null,
+        "hex": "#D8D6B7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5807 C",
+        "name": null,
+        "hex": "#E0DDBC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5815 C",
+        "name": null,
+        "hex": "#494411"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5825 C",
+        "name": null,
+        "hex": "#75702B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5835 C",
+        "name": null,
+        "hex": "#9E9959"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5845 C",
+        "name": null,
+        "hex": "#B2AA70"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5855 C",
+        "name": null,
+        "hex": "#CCC693"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5865 C",
+        "name": null,
+        "hex": "#D6CEA3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Pantone Solid Coated": {
+        "number": "5875 C",
+        "name": null,
+        "hex": "#E0DBB5"
       }
     },
     "confirmed": []
