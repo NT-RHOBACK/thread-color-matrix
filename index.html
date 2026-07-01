@@ -199,6 +199,11 @@ td.brand-cell { border-left: 1px solid #f0f0ee; }
 .shade-name { font-weight: 500; font-size: 13px; }
 
 /* ── Thread cell ── */
+.thread-item + .thread-item {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed #e4e4e0;
+}
 .thread-number {
   font-size: 13px;
   font-weight: 600;
@@ -460,6 +465,12 @@ function updateSortIndicators() {
   });
 }
 
+// A brand cell may hold one thread (object) or several (array) — normalize to a list.
+function asList(d) {
+  if (!d) return [];
+  return Array.isArray(d) ? d : [d];
+}
+
 function naturalKey(s) {
   return String(s).replace(/\d+/g, m => m.padStart(8, '0')).toLowerCase();
 }
@@ -479,7 +490,7 @@ function sortRows(rows) {
   const getVal = (e) => {
     if (key === 'shade') return e.shade ? e.shade.toLowerCase() : '';
     const [brand, field] = key.split('::');
-    const d = e.brands[brand];
+    const d = asList(e.brands[brand])[0];   // sort by the first thread in the cell
     if (!d) return undefined;
     if (field === 'number') return (d.number != null && d.number !== '') ? naturalKey(d.number) : undefined;
     return d.name ? d.name.toLowerCase() : undefined;
@@ -511,11 +522,13 @@ function matches(entry) {
   if (activeShade !== 'all' && entry.shade !== activeShade) return false;
   if (!searchQuery) return true;
   if (entry.shade.toLowerCase().includes(searchQuery)) return true;
-  for (const [brand, d] of Object.entries(entry.brands)) {
+  for (const [brand, raw] of Object.entries(entry.brands)) {
     if (brand.toLowerCase().includes(searchQuery)) return true;
-    if (d.number && d.number.toString().toLowerCase().includes(searchQuery)) return true;
-    if (d.name  && d.name.toLowerCase().includes(searchQuery)) return true;
-    if (d.hex   && d.hex.toLowerCase().includes(searchQuery)) return true;
+    for (const d of asList(raw)) {
+      if (d.number && d.number.toString().toLowerCase().includes(searchQuery)) return true;
+      if (d.name  && d.name.toLowerCase().includes(searchQuery)) return true;
+      if (d.hex   && d.hex.toLowerCase().includes(searchQuery)) return true;
+    }
   }
   for (const c of entry.confirmed) {
     if (c.by.toLowerCase().includes(searchQuery)) return true;
@@ -573,15 +586,16 @@ function render() {
     </td>`;
 
     const brandTds = BRANDS.map(brand => {
-      const d = entry.brands[brand];
-      if (!d || (!d.number && !d.name)) {
+      const items = asList(entry.brands[brand]).filter(d => d && (d.number || d.name));
+      if (!items.length) {
         return `<td class="brand-cell"><span class="empty">—</span></td>`;
       }
-      return `<td class="brand-cell">
+      const inner = items.map(d => `<div class="thread-item">
         ${d.number ? `<div class="thread-number">${hl(String(d.number))}</div>` : ''}
         ${d.name   ? `<div class="thread-name">${hl(d.name)}</div>` : ''}
         ${d.hex    ? `<div class="thread-hex"><span class="hex-swatch" style="background:${d.hex}"></span>${hl(d.hex)}</div>` : ''}
-      </td>`;
+      </div>`).join('');
+      return `<td class="brand-cell">${inner}</td>`;
     }).join('');
 
     let submittedHtml;
