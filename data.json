@@ -38,11 +38,6 @@
           "number": "1103",
           "name": "Hunter Green",
           "hex": "#294630"
-        },
-        {
-          "number": "1391",
-          "name": "Spruce Green",
-          "hex": "#456558"
         }
       ]
     },
@@ -52937,6 +52932,17 @@
         "number": "5875 C",
         "name": null,
         "hex": "#E0DBB5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1391",
+        "name": "Spruce Green",
+        "hex": "#456558"
       }
     },
     "confirmed": []
