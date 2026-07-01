@@ -198,11 +198,23 @@ td.brand-cell { border-left: 1px solid #f0f0ee; }
 .shade-swatch { width: 14px; height: 14px; border-radius: 3px; border: 1px solid rgba(0,0,0,0.12); flex-shrink: 0; }
 .shade-name { font-weight: 500; font-size: 13px; }
 
-/* ── Thread cell ── */
+/* ── Thread cell (compact single line per match) ── */
+.thread-item {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  white-space: nowrap;
+}
 .thread-item + .thread-item {
-  margin-top: 8px;
-  padding-top: 8px;
-  border-top: 1px dashed #e4e4e0;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px dashed #ececea;
+}
+.hex-swatch {
+  width: 14px; height: 14px;
+  border-radius: 3px;
+  border: 1px solid rgba(0,0,0,0.15);
+  flex-shrink: 0;
 }
 .thread-number {
   font-size: 13px;
@@ -211,21 +223,13 @@ td.brand-cell { border-left: 1px solid #f0f0ee; }
   color: #111;
   letter-spacing: -0.3px;
 }
-.thread-name { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
-.thread-hex {
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  margin-top: 3px;
+.thread-name { font-size: 12px; color: var(--text-muted); }
+.thread-hexcode {
+  margin-left: auto;
+  padding-left: 12px;
   font-size: 11px;
   font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
   color: var(--text-muted);
-}
-.hex-swatch {
-  width: 11px; height: 11px;
-  border-radius: 3px;
-  border: 1px solid rgba(0,0,0,0.15);
-  flex-shrink: 0;
 }
 .empty { color: #d0d0d0; font-size: 13px; }
 
@@ -598,9 +602,10 @@ function render() {
         return `<td class="brand-cell"><span class="empty">—</span></td>`;
       }
       const inner = items.map(d => `<div class="thread-item">
-        ${d.number ? `<div class="thread-number">${hl(String(d.number))}</div>` : ''}
-        ${d.name   ? `<div class="thread-name">${hl(d.name)}</div>` : ''}
-        ${d.hex    ? `<div class="thread-hex"><span class="hex-swatch" style="background:${d.hex}"></span>${hl(d.hex)}</div>` : ''}
+        ${d.hex    ? `<span class="hex-swatch" style="background:${d.hex}"></span>` : ''}
+        ${d.number ? `<span class="thread-number">${hl(String(d.number))}</span>` : ''}
+        ${d.name   ? `<span class="thread-name">${hl(d.name)}</span>` : ''}
+        ${d.hex    ? `<span class="thread-hexcode">${hl(d.hex)}</span>` : ''}
       </div>`).join('');
       return `<td class="brand-cell">${inner}</td>`;
     }).join('');
