@@ -7,13 +7,14 @@ body:
     attributes:
       value: |
         Enter the **thread number** for each brand you know — leave the rest blank.
-        Color names are managed internally, so you don't need to enter them.
+        Color names, hex codes, and the shade family are all filled in automatically
+        from the thread color, so you only need the number(s).
 
   - type: dropdown
     id: shade
     attributes:
       label: Color Shade (family)
-      description: Which color family does this match belong to?
+      description: Optional — leave blank and it's auto-assigned from the thread color. Only pick one if you want to override.
       options:
         - Black
         - Blue
@@ -29,8 +30,6 @@ body:
         - Tan
         - White
         - Yellow
-    validations:
-      required: true
 
   - type: input
     id: polyneon_number
