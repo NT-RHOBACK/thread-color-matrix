@@ -183,6 +183,21 @@ td.brand-cell { border-left: 1px solid #f0f0ee; }
   letter-spacing: -0.3px;
 }
 .thread-name { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
+.thread-hex {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-top: 3px;
+  font-size: 11px;
+  font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+  color: var(--text-muted);
+}
+.hex-swatch {
+  width: 11px; height: 11px;
+  border-radius: 3px;
+  border: 1px solid rgba(0,0,0,0.15);
+  flex-shrink: 0;
+}
 .empty { color: #d0d0d0; font-size: 13px; }
 
 /* ── Confirmed badge ── */
@@ -388,6 +403,7 @@ function matches(entry) {
     if (brand.toLowerCase().includes(searchQuery)) return true;
     if (d.number && d.number.toString().toLowerCase().includes(searchQuery)) return true;
     if (d.name  && d.name.toLowerCase().includes(searchQuery)) return true;
+    if (d.hex   && d.hex.toLowerCase().includes(searchQuery)) return true;
   }
   for (const c of entry.confirmed) {
     if (c.by.toLowerCase().includes(searchQuery)) return true;
@@ -451,6 +467,7 @@ function render() {
       return `<td class="brand-cell">
         ${d.number ? `<div class="thread-number">${hl(String(d.number))}</div>` : ''}
         ${d.name   ? `<div class="thread-name">${hl(d.name)}</div>` : ''}
+        ${d.hex    ? `<div class="thread-hex"><span class="hex-swatch" style="background:${d.hex}"></span>${hl(d.hex)}</div>` : ''}
       </td>`;
     }).join('');
 
