@@ -28,11 +28,18 @@
         "name": "Hunter Green",
         "hex": "#1F3B28"
       },
-      "Madeira Classic": {
-        "number": "1370",
-        "name": "Fir",
-        "hex": "#1B4830"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1370",
+          "name": "Fir",
+          "hex": "#1B4830"
+        },
+        {
+          "number": "1103",
+          "name": "Hunter Green",
+          "hex": "#294630"
+        }
+      ]
     },
     "confirmed": [
       {
@@ -538,10 +545,6 @@
     },
     "confirmed": [
       {
-        "by": "Noelle",
-        "date": "2026-03-16"
-      },
-      {
         "by": "Jette",
         "date": "2026-03-16"
       }
@@ -625,10 +628,6 @@
       }
     },
     "confirmed": [
-      {
-        "by": "Noelle",
-        "date": "2026-03-18"
-      },
       {
         "by": "Jette",
         "date": "2026-03-18"
@@ -964,22 +963,6 @@
         "number": "1042",
         "name": "Lapis",
         "hex": "#1C4B78"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1902",
-        "name": "Hunter Green",
-        "hex": "#1F3B28"
-      },
-      "Madeira Classic": {
-        "number": "1103",
-        "name": "Hunter Green",
-        "hex": "#294630"
       }
     },
     "confirmed": []
