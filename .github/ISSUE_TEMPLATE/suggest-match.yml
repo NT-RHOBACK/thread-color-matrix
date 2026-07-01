@@ -26,6 +26,13 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 Madeira Polyneon
+        Fill in any brands you know — leave the rest blank.
+
   - type: input
     id: polyneon_number
     attributes:
@@ -37,6 +44,12 @@ body:
     attributes:
       label: Madeira Polyneon — Color Name
       placeholder: "e.g. Evergreen"
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 Madeira Classic
 
   - type: input
     id: classic_number
@@ -50,6 +63,12 @@ body:
       label: Madeira Classic — Color Name
       placeholder: "e.g. Forest Green"
 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 FHI Cotton TCX
+
   - type: input
     id: fhi_number
     attributes:
@@ -61,6 +80,12 @@ body:
     attributes:
       label: FHI Cotton TCX — Color Name
       placeholder: "e.g. Elm Green"
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 Marathon Rayon
 
   - type: input
     id: marathon_number
@@ -74,6 +99,12 @@ body:
       label: Marathon Rayon — Color Name
       placeholder: "e.g. Field Green"
 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 Robison Anton Rayon
+
   - type: input
     id: robison_number
     attributes:
@@ -84,6 +115,12 @@ body:
     id: robison_name
     attributes:
       label: Robison Anton Rayon — Color Name
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 🧵 Pantone Solid Coated
 
   - type: input
     id: pantone_number
@@ -96,14 +133,10 @@ body:
     attributes:
       label: Pantone Solid Coated — Color Name
 
-  - type: textarea
-    id: verification
+  - type: markdown
     attributes:
-      label: How did you verify this match?
-      description: e.g. sew-out comparison, vendor color card, physical comparison
-      placeholder: "I compared a sew-out of Madeira Polyneon 1704 against a FHI swatch card..."
-    validations:
-      required: true
+      value: |
+        ---
 
   - type: input
     id: your_name
