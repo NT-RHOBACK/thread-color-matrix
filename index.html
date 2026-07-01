@@ -370,27 +370,9 @@ function setShade(shade) {
 }
 
 function buildLinks() {
-  const issueBody = encodeURIComponent(
-`### Suggested Thread Color Match
-
-**Color Shade (family):** e.g. Green, Navy, Red…
-
-Fill in any brands you know — leave others blank.
-
-| Brand | Number | Color Name |
-|-------|--------|------------|
-| Madeira Polyneon | | |
-| Madeira Classic | | |
-| FHI Cotton TCX | | |
-| Marathon Rayon | | |
-| Robison Anton Rayon | | |
-| Pantone Solid Coated | | |
-
-**How did you verify this match?**
-(e.g. sew-out comparison, vendor color card, etc.)
-
-`);
-  const issueUrl = `https://github.com/${GITHUB_REPO}/issues/new?title=Suggest+match:+[COLOR+NAME]&body=${issueBody}&labels=suggestion`;
+  // Point straight at the structured issue form so submissions use the
+  // template (auto-applies the "suggestion" label + enforces required fields).
+  const issueUrl = `https://github.com/${GITHUB_REPO}/issues/new?template=suggest-match.yml`;
   document.getElementById('suggestLink').href = issueUrl;
   document.getElementById('footerGHLink').href = `https://github.com/${GITHUB_REPO}`;
 }
