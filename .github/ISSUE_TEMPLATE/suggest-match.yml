@@ -1,6 +1,6 @@
 name: Suggest a Thread Color Match
 description: Propose a new cross-brand thread color equivalency
-title: "Suggest match: [COLOR NAME]"
+title: "Suggest match: [COLOR NAME OR NUMBER]"
 labels: ["suggestion"]
 body:
   - type: dropdown
