@@ -66,8 +66,9 @@ header {
 .search-row { display: flex; gap: 10px; align-items: center; margin-bottom: 12px; }
 .search-wrap {
   position: relative;
-  flex: 1;
+  width: 100%;
   max-width: 420px;
+  margin-left: auto;
 }
 .search-icon {
   position: absolute;
@@ -104,7 +105,7 @@ header {
 }
 .clear-btn.visible { display: block; }
 
-.stats { font-size: 12px; color: var(--text-muted); margin-left: auto; white-space: nowrap; }
+.stats { font-size: 12px; color: var(--text-muted); white-space: nowrap; }
 
 /* ── Shade filter pills ── */
 .filter-row { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
@@ -161,6 +162,28 @@ thead th {
   white-space: nowrap;
 }
 thead th.brand-header { border-left: 1px solid var(--border); }
+.th-label { margin-bottom: 5px; }
+.th-sorts { display: flex; gap: 4px; }
+.sbtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 2px 6px;
+  border: 1px solid var(--border);
+  background: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  color: var(--text-muted);
+  text-transform: none;
+  transition: all 0.12s;
+}
+.sbtn:hover { background: #f0f0ee; color: var(--text); }
+.sbtn.active { background: #111; color: #fff; border-color: #111; }
+.sbtn .arr { font-size: 9px; }
+.submit-date { font-size: 11px; color: #aaa; margin-top: 1px; }
 
 tbody tr { border-bottom: 1px solid #f2f2f0; transition: background 0.1s; }
 tbody tr:last-child { border-bottom: none; }
@@ -255,12 +278,12 @@ mark { background: #fff3cd; border-radius: 2px; padding: 0 1px; }
 
 <div class="controls">
   <div class="search-row">
+    <span class="stats" id="statsLabel"></span>
     <div class="search-wrap">
       <span class="search-icon">🔍</span>
       <input type="text" id="searchInput" placeholder="Search by number, color name, or brand…" autocomplete="off" />
       <button class="clear-btn" id="clearBtn" title="Clear search">✕</button>
     </div>
-    <span class="stats" id="statsLabel"></span>
   </div>
   <div class="filter-row" id="shadeFilters">
     <span class="filter-label">Shade</span>
@@ -270,18 +293,7 @@ mark { background: #fff3cd; border-radius: 2px; padding: 0 1px; }
 
 <div class="table-wrap">
   <table id="mainTable">
-    <thead>
-      <tr>
-        <th>Shade</th>
-        <th class="brand-header">Madeira Polyneon</th>
-        <th class="brand-header">Madeira Classic</th>
-        <th class="brand-header">FHI Cotton TCX</th>
-        <th class="brand-header">Marathon Rayon</th>
-        <th class="brand-header">Robison Anton Rayon</th>
-        <th class="brand-header">Pantone Solid Coated</th>
-        <th class="brand-header">Submitted By</th>
-      </tr>
-    </thead>
+    <thead id="tableHead"></thead>
     <tbody id="tableBody"></tbody>
   </table>
   <div class="empty-state" id="emptyState" style="display:none">
@@ -324,6 +336,7 @@ const BRANDS = [
 let DATA = [];
 let activeShade = 'all';
 let searchQuery  = '';
+let sortState = { key: null, dir: 1 };   // key null = original (last-entered) order
 
 async function loadData() {
   try {
@@ -333,6 +346,7 @@ async function loadData() {
     // Fallback: inline data (populated by build script)
     DATA = INLINE_DATA;
   }
+  DATA.forEach((row, i) => { row._i = i; });   // stable insertion order = "entered" order
   init();
 }
 
@@ -341,6 +355,7 @@ async function loadData() {
 // ─────────────────────────────────────────────
 function init() {
   buildShadeFilters();
+  buildHeader();
   buildLinks();
   render();
 
@@ -393,6 +408,101 @@ function buildLinks() {
 }
 
 // ─────────────────────────────────────────────
+// Sortable header
+// ─────────────────────────────────────────────
+function buildHeader() {
+  const head = document.getElementById('tableHead');
+  const brandCols = BRANDS.map(b => `
+    <th class="brand-header">
+      <div class="th-label">${b}</div>
+      <div class="th-sorts">
+        <button class="sbtn" data-key="${b}::number" title="Sort by ${b} number">№<span class="arr"></span></button>
+        <button class="sbtn" data-key="${b}::name" title="Sort by ${b} name">Aa<span class="arr"></span></button>
+      </div>
+    </th>`).join('');
+  head.innerHTML = `<tr>
+    <th>
+      <div class="th-label">Shade</div>
+      <div class="th-sorts"><button class="sbtn" data-key="shade" title="Sort by shade">Sort<span class="arr"></span></button></div>
+    </th>
+    ${brandCols}
+    <th class="brand-header">
+      <div class="th-label">Submitted By</div>
+      <div class="th-sorts"><button class="sbtn" data-key="recent" title="Sort by date entered">Date<span class="arr"></span></button></div>
+    </th>
+  </tr>`;
+  head.addEventListener('click', e => {
+    const btn = e.target.closest('.sbtn');
+    if (!btn) return;
+    const key = btn.dataset.key;
+    if (sortState.key === key) {
+      if (sortState.dir === 1) sortState.dir = -1;       // asc -> desc
+      else { sortState.key = null; sortState.dir = 1; }  // desc -> off (insertion order)
+    } else {
+      sortState.key = key; sortState.dir = 1;            // new column -> asc
+    }
+    render();
+  });
+}
+
+function updateSortIndicators() {
+  document.querySelectorAll('#tableHead .sbtn').forEach(btn => {
+    const arr = btn.querySelector('.arr');
+    if (btn.dataset.key === sortState.key) {
+      btn.classList.add('active');
+      arr.textContent = sortState.dir === 1 ? ' ▲' : ' ▼';
+    } else {
+      btn.classList.remove('active');
+      arr.textContent = '';
+    }
+  });
+}
+
+function naturalKey(s) {
+  return String(s).replace(/\d+/g, m => m.padStart(8, '0')).toLowerCase();
+}
+
+function dateVal(e) {
+  let best = null;
+  for (const c of (e.confirmed || [])) {
+    if (c.date && (!best || c.date > best)) best = c.date;
+  }
+  return best;   // 'YYYY-MM-DD' or null
+}
+
+function sortRows(rows) {
+  const { key, dir } = sortState;
+  if (!key) return rows.slice().sort((a, b) => a._i - b._i);
+
+  const getVal = (e) => {
+    if (key === 'shade') return e.shade ? e.shade.toLowerCase() : '';
+    const [brand, field] = key.split('::');
+    const d = e.brands[brand];
+    if (!d) return undefined;
+    if (field === 'number') return (d.number != null && d.number !== '') ? naturalKey(d.number) : undefined;
+    return d.name ? d.name.toLowerCase() : undefined;
+  };
+
+  return rows.slice().sort((a, b) => {
+    if (key === 'recent') {
+      const da = dateVal(a), db = dateVal(b);
+      if (da && db) return da !== db ? (da < db ? -dir : dir) : (a._i - b._i);
+      if (da && !db) return -1;          // dated rows always above undated
+      if (!da && db) return 1;
+      return (a._i - b._i) * dir;         // both undated: insertion order
+    }
+    const va = getVal(a), vb = getVal(b);
+    const ea = va === undefined, eb = vb === undefined;
+    if (ea && eb) return a._i - b._i;
+    if (ea) return 1;                      // empty cells to the bottom
+    if (eb) return -1;
+    if (va < vb) return -dir;
+    if (va > vb) return dir;
+    return a._i - b._i;
+  });
+}
+
+// ─────────────────────────────────────────────
 // Filter
 // ─────────────────────────────────────────────
 function matches(entry) {
@@ -432,7 +542,8 @@ function escRegex(s) {
 // Render
 // ─────────────────────────────────────────────
 function render() {
-  const filtered = DATA.filter(matches);
+  const filtered = sortRows(DATA.filter(matches));
+  updateSortIndicators();
   const tbody = document.getElementById('tableBody');
   const emptyState = document.getElementById('emptyState');
   const table = document.getElementById('mainTable');
@@ -473,7 +584,9 @@ function render() {
 
     let submittedHtml;
     if (entry.confirmed.length) {
-      submittedHtml = entry.confirmed.map(c => hl(c.by)).join('<br>');
+      submittedHtml = entry.confirmed.map(c =>
+        hl(c.by) + (c.date ? `<div class="submit-date">${c.date}</div>` : '')
+      ).join('<br>');
     } else {
       submittedHtml = `<span class="empty">—</span>`;
     }
