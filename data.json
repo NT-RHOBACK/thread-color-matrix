@@ -467,11 +467,18 @@
         "name": "Hanukkuh Blue",
         "hex": "#2A4487"
       },
-      "Madeira Classic": {
-        "number": "1167",
-        "name": "Blue Ink",
-        "hex": "#1D3D70"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1167",
+          "name": "Blue Ink",
+          "hex": "#1D3D70"
+        },
+        {
+          "number": "1076",
+          "name": "True Blue",
+          "hex": "#1A559F"
+        }
+      ]
     },
     "confirmed": [
       {
@@ -1461,17 +1468,6 @@
     "shade": "Brown",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1982",
-        "name": "Sangria",
-        "hex": "#721E22"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1638",
         "name": "Barn Red",
         "hex": "#782423"
@@ -1673,17 +1669,6 @@
         "number": "1508",
         "name": "Cherry Pie",
         "hex": "#E594AA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1509",
-        "name": "Rhubarb",
-        "hex": "#B6253E"
       }
     },
     "confirmed": []
@@ -2360,17 +2345,6 @@
     "confirmed": []
   },
   {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1842",
-        "name": "True Blue",
-        "hex": "#12509D"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Navy",
     "brands": {
       "Madeira Polyneon": {
@@ -2454,17 +2428,6 @@
         "number": "1829",
         "name": "Blue Bird",
         "hex": "#2464A7"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1733",
-        "name": "Blue Jay",
-        "hex": "#3C78B7"
       }
     },
     "confirmed": []
@@ -2575,17 +2538,6 @@
         "number": "1628",
         "name": "Worn Denim",
         "hex": "#78A6C6"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1550",
-        "name": "Light Periwinkle",
-        "hex": "#BCD4F0"
       }
     },
     "confirmed": []
@@ -3191,17 +3143,6 @@
         "number": "1701",
         "name": "Spring Green",
         "hex": "#489D20"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1851",
-        "name": "Cadmium Green",
-        "hex": "#006F44"
       }
     },
     "confirmed": []
@@ -3949,17 +3890,6 @@
         "number": "1885",
         "name": "Camel",
         "hex": "#9B7E5A"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1527",
-        "name": "Teddy Bear",
-        "hex": "#C49C6E"
       }
     },
     "confirmed": []
@@ -6311,17 +6241,6 @@
     "shade": "Blue",
     "brands": {
       "Madeira Classic": {
-        "number": "1134",
-        "name": "Royal Blue",
-        "hex": "#125195"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Classic": {
         "number": "1133",
         "name": "Forget-Me-Not",
         "hex": "#2E73B2"
@@ -6347,17 +6266,6 @@
         "number": "1075",
         "name": "Baby Blue",
         "hex": "#93B5DB"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1076",
-        "name": "True Blue",
-        "hex": "#1A559F"
       }
     },
     "confirmed": []
@@ -7073,17 +6981,6 @@
         "number": "1351",
         "name": "Alligator",
         "hex": "#155A42"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1479",
-        "name": "Color 1479",
-        "hex": "#1E693C"
       }
     },
     "confirmed": []
@@ -14388,17 +14285,6 @@
         "number": "12-4001",
         "name": "Early Frost",
         "hex": "#DBD7D1"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "12-4108",
-        "name": "Ancient Water",
-        "hex": "#CCD6E6"
       }
     },
     "confirmed": []
@@ -34515,17 +34401,6 @@
     "shade": "Red",
     "brands": {
       "FHI Cotton TCX": {
-        "number": "18-1761",
-        "name": "Ski Patrol",
-        "hex": "#BB1237"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "FHI Cotton TCX": {
         "number": "18-1762",
         "name": "Hibiscus",
         "hex": "#DD3848"
@@ -36091,17 +35966,6 @@
         "number": "18-4037",
         "name": "Sea of Belize",
         "hex": "#296C97"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "18-4039",
-        "name": "Regatta",
-        "hex": "#487AB7"
       }
     },
     "confirmed": []
@@ -39017,17 +38881,6 @@
         "number": "19-1655",
         "name": "Garnet",
         "hex": "#953640"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "19-1656",
-        "name": "Rio Red",
-        "hex": "#8A2232"
       }
     },
     "confirmed": []
@@ -52818,11 +52671,18 @@
         "name": "Khaki",
         "hex": "#BA9666"
       },
-      "Madeira Polyneon": {
-        "number": "1855",
-        "name": "Coffee with Cream",
-        "hex": "#AF9368"
-      }
+      "Madeira Polyneon": [
+        {
+          "number": "1855",
+          "name": "Coffee with Cream",
+          "hex": "#AF9368"
+        },
+        {
+          "number": "1527",
+          "name": "Teddy Bear",
+          "hex": "#C49C6E"
+        }
+      ]
     },
     "confirmed": [
       {
@@ -52906,6 +52766,132 @@
         "number": "1934",
         "name": "Royal Blue",
         "hex": "#015698"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "18-1761",
+        "name": "Ski Patrol",
+        "hex": "#BB1237"
+      },
+      "Madeira Polyneon": {
+        "number": "1509",
+        "name": "Rhubarb",
+        "hex": "#B6253E"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "19-1656",
+        "name": "Rio Red",
+        "hex": "#8A2232"
+      },
+      "Madeira Polyneon": {
+        "number": "1982",
+        "name": "Sangria",
+        "hex": "#721E22"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "12-4108",
+        "name": "Ancient Water",
+        "hex": "#CCD6E6"
+      },
+      "Madeira Polyneon": {
+        "number": "1550",
+        "name": "Light Periwinkle",
+        "hex": "#BCD4F0"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "18-4039",
+        "name": "Regatta",
+        "hex": "#487AB7"
+      },
+      "Madeira Polyneon": {
+        "number": "1733",
+        "name": "Blue Jay",
+        "hex": "#3C78B7"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1479",
+        "name": "Color 1479",
+        "hex": "#1E693C"
+      },
+      "Madeira Polyneon": {
+        "number": "1851",
+        "name": "Cadmium Green",
+        "hex": "#006F44"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1134",
+        "name": "Royal Blue",
+        "hex": "#125195"
+      },
+      "Madeira Polyneon": {
+        "number": "1842",
+        "name": "True Blue",
+        "hex": "#12509D"
       }
     },
     "confirmed": [
