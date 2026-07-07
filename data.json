@@ -55,19 +55,9 @@
         "number": "1839",
         "name": "Brick Red",
         "hex": "#991B1F"
-      },
-      "Madeira Classic": {
-        "number": "1147",
-        "name": "Christmas Red",
-        "hex": "#AD171E"
       }
     },
-    "confirmed": [
-      {
-        "by": "Noelle",
-        "date": null
-      }
-    ]
+    "confirmed": []
   },
   {
     "shade": "Green",
@@ -161,11 +151,18 @@
         "name": "Cinnamon Candy",
         "hex": "#AC211C"
       },
-      "Madeira Classic": {
-        "number": "1037",
-        "name": "Tomato Red",
-        "hex": "#B52010"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1037",
+          "name": "Tomato Red",
+          "hex": "#B52010"
+        },
+        {
+          "number": "1147",
+          "name": "Christmas Red",
+          "hex": "#AD171E"
+        }
+      ]
     },
     "confirmed": [
       {
