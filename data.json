@@ -3800,6 +3800,11 @@
         "number": "1898",
         "name": "Auburn",
         "hex": "#8A4326"
+      },
+      "FHI Cotton TCX": {
+        "number": "18-1350",
+        "name": "Burnt Brick",
+        "hex": "#A14D3A"
       }
     },
     "confirmed": []
@@ -33830,17 +33835,6 @@
         "number": "18-1346",
         "name": "Bruschetta",
         "hex": "#A75949"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "18-1350",
-        "name": "Burnt Brick",
-        "hex": "#A14D3A"
       }
     },
     "confirmed": []
