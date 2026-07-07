@@ -3807,7 +3807,12 @@
         "hex": "#A14D3A"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
   },
   {
     "shade": "Brown",
