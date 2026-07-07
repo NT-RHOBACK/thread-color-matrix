@@ -1311,17 +1311,6 @@
     "shade": "Red",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1987",
-        "name": "Paprika",
-        "hex": "#D73706"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1588",
         "name": "Salsa",
         "hex": "#D5392C"
@@ -3060,17 +3049,6 @@
     "shade": "Green",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1847",
-        "name": "Sea Foam Green",
-        "hex": "#44AA8F"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1868",
         "name": "Bottle Green",
         "hex": "#00936A"
@@ -4409,17 +4387,6 @@
     "confirmed": []
   },
   {
-    "shade": "White",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1686",
-        "name": "Mist",
-        "hex": "#DCE1E1"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Grey",
     "brands": {
       "Madeira Polyneon": {
@@ -5295,17 +5262,6 @@
         "number": "1378",
         "name": "Paprika",
         "hex": "#D62E02"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1379",
-        "name": "Mandarin",
-        "hex": "#D84E36"
       }
     },
     "confirmed": []
@@ -14653,17 +14609,6 @@
     "shade": "Tan",
     "brands": {
       "FHI Cotton TCX": {
-        "number": "12-4300",
-        "name": "White Onyx",
-        "hex": "#D7D6CE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "FHI Cotton TCX": {
         "number": "12-4301",
         "name": "Almond Milk",
         "hex": "#D6CEBE"
@@ -20827,17 +20772,6 @@
         "number": "14-5413",
         "name": "Holiday",
         "hex": "#81C3B4"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "14-5416",
-        "name": "Bermuda",
-        "hex": "#60C9B3"
       }
     },
     "confirmed": []
@@ -52940,5 +52874,68 @@
       }
     },
     "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1847",
+        "name": "Sea Foam Green",
+        "hex": "#44AA8F"
+      },
+      "FHI Cotton TCX": {
+        "number": "14-5416",
+        "name": "Bermuda",
+        "hex": "#60C9B3"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1987",
+        "name": "Paprika",
+        "hex": "#D73706"
+      },
+      "Madeira Classic": {
+        "number": "1379",
+        "name": "Mandarin",
+        "hex": "#D84E36"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1686",
+        "name": "Mist",
+        "hex": "#DCE1E1"
+      },
+      "FHI Cotton TCX": {
+        "number": "12-4300",
+        "name": "White Onyx",
+        "hex": "#D7D6CE"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
   }
 ]
