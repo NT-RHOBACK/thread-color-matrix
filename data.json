@@ -621,16 +621,27 @@
         "name": "Sunflower",
         "hex": "#FFCF00"
       },
-      "Madeira Classic": {
-        "number": "1124",
-        "name": "Buttercup",
-        "hex": "#FFD22D"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1124",
+          "name": "Buttercup",
+          "hex": "#FFD22D"
+        },
+        {
+          "number": "1064",
+          "name": "Goldenrod",
+          "hex": "#FFD000"
+        }
+      ]
     },
     "confirmed": [
       {
         "by": "Jette",
         "date": "2026-03-18"
+      },
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
       }
     ]
   },
@@ -5086,17 +5097,6 @@
         "number": "1068",
         "name": "Canary",
         "hex": "#FFC900"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Yellow",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1064",
-        "name": "Goldenrod",
-        "hex": "#FFD000"
       }
     },
     "confirmed": []
