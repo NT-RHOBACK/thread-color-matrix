@@ -648,7 +648,12 @@
           "name": "Goldenrod",
           "hex": "#FFD000"
         }
-      ]
+      ],
+      "FHI Cotton TCX": {
+        "number": "13-0751",
+        "name": "High Visibility",
+        "hex": "#F1C700"
+      }
     },
     "confirmed": [
       {
@@ -899,6 +904,11 @@
         "number": "1192",
         "name": "Honey Mustard",
         "hex": "#9A6F0F"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-1133",
+        "name": "Mustard Gold",
+        "hex": "#B08E51"
       }
     },
     "confirmed": []
@@ -2679,17 +2689,6 @@
     "shade": "Blue",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1977",
-        "name": "Peacock Blue",
-        "hex": "#0080B4"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1797",
         "name": "Calypso Blue",
         "hex": "#00659C"
@@ -3075,17 +3074,6 @@
     "shade": "Green",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1750",
-        "name": "Christmas Green",
-        "hex": "#006C45"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1845",
         "name": "Mint",
         "hex": "#73CBA0"
@@ -3100,17 +3088,6 @@
         "number": "1580",
         "name": "Jungle Green",
         "hex": "#096F50"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1703",
-        "name": "Fir",
-        "hex": "#0F4E32"
       }
     },
     "confirmed": []
@@ -3405,17 +3382,6 @@
     "shade": "Gold",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1796",
-        "name": "Aged Moss",
-        "hex": "#535122"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1956",
         "name": "Olive Green",
         "hex": "#827944"
@@ -3441,17 +3407,6 @@
         "number": "1790",
         "name": "Dill Pickle",
         "hex": "#736721"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1706",
-        "name": "Guacamole",
-        "hex": "#898138"
       }
     },
     "confirmed": []
@@ -3493,31 +3448,9 @@
     "shade": "Gold",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1959",
-        "name": "Burnished Gold",
-        "hex": "#9E8700"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1809",
         "name": "Brushed Bronze",
         "hex": "#B4A245"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1759",
-        "name": "Medium Camo Green",
-        "hex": "#847025"
       }
     },
     "confirmed": []
@@ -6448,17 +6381,6 @@
     "confirmed": []
   },
   {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1297",
-        "name": "Peacock Blue",
-        "hex": "#007AAD"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Navy",
     "brands": {
       "Madeira Classic": {
@@ -6880,28 +6802,6 @@
     "shade": "Green",
     "brands": {
       "Madeira Classic": {
-        "number": "1480",
-        "name": "Color 1480",
-        "hex": "#006947"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1304",
-        "name": "Ivy",
-        "hex": "#0C4C37"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Classic": {
         "number": "1219",
         "name": "Hint of Mint",
         "hex": "#A8C3BC"
@@ -7265,28 +7165,6 @@
     "shade": "Gold",
     "brands": {
       "Madeira Classic": {
-        "number": "1106",
-        "name": "Guacamole",
-        "hex": "#8C8745"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1156",
-        "name": "Olive Green",
-        "hex": "#70703C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Classic": {
         "number": "1140",
         "name": "Avocado Green",
         "hex": "#858822"
@@ -7367,28 +7245,6 @@
         "number": "1190",
         "name": "Sea Weed",
         "hex": "#8C7928"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1196",
-        "name": "Medium Camo Green",
-        "hex": "#9B8015"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1352",
-        "name": "Old Gold",
-        "hex": "#AE891C"
       }
     },
     "confirmed": []
@@ -7488,17 +7344,6 @@
         "number": "1273",
         "name": "Peanut Brittle",
         "hex": "#A28957"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1191",
-        "name": "Pea Soup",
-        "hex": "#8D6F2A"
       }
     },
     "confirmed": []
@@ -15430,17 +15275,6 @@
         "number": "13-0749",
         "name": "Slicker",
         "hex": "#F1CD39"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Yellow",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "13-0751",
-        "name": "High Visibility",
-        "hex": "#F1C700"
       }
     },
     "confirmed": []
@@ -24205,17 +24039,6 @@
     "shade": "Gold",
     "brands": {
       "FHI Cotton TCX": {
-        "number": "16-0838",
-        "name": "Mango Mint",
-        "hex": "#CDB127"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "FHI Cotton TCX": {
         "number": "16-0840",
         "name": "Antique Moss",
         "hex": "#B9A023"
@@ -24538,17 +24361,6 @@
         "number": "16-1126",
         "name": "Antelope",
         "hex": "#B19664"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "16-1133",
-        "name": "Mustard Gold",
-        "hex": "#B08E51"
       }
     },
     "confirmed": []
@@ -26485,17 +26297,6 @@
         "number": "16-3916",
         "name": "Sleet",
         "hex": "#92949B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "16-3917",
-        "name": "Chiseled Stone",
-        "hex": "#8D8E92"
       }
     },
     "confirmed": []
@@ -52470,6 +52271,11 @@
         "number": "1118",
         "name": "Overcast Gray",
         "hex": "#8B9698"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-3917",
+        "name": "Chiseled Stone",
+        "hex": "#8D8E92"
       }
     },
     "confirmed": [
@@ -52882,6 +52688,165 @@
         "number": "1842",
         "name": "True Blue",
         "hex": "#12509D"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "16-0838",
+        "name": "Mango Mint",
+        "hex": "#CDB127"
+      },
+      "Madeira Polyneon": {
+        "number": "1959",
+        "name": "Burnished Gold",
+        "hex": "#9E8700"
+      },
+      "Madeira Classic": {
+        "number": "1352",
+        "name": "Old Gold",
+        "hex": "#AE891C"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1480",
+        "name": "Color 1480",
+        "hex": "#006947"
+      },
+      "Madeira Polyneon": {
+        "number": "1750",
+        "name": "Christmas Green",
+        "hex": "#006C45"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1304",
+        "name": "Ivy",
+        "hex": "#0C4C37"
+      },
+      "Madeira Polyneon": {
+        "number": "1703",
+        "name": "Fir",
+        "hex": "#0F4E32"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Classic": [
+        {
+          "number": "1196",
+          "name": "Medium Camo Green",
+          "hex": "#9B8015"
+        },
+        {
+          "number": "1191",
+          "name": "Pea Soup",
+          "hex": "#8D6F2A"
+        }
+      ],
+      "Madeira Polyneon": {
+        "number": "1759",
+        "name": "Medium Camo Green",
+        "hex": "#847025"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1297",
+        "name": "Peacock Blue",
+        "hex": "#007AAD"
+      },
+      "Madeira Polyneon": {
+        "number": "1977",
+        "name": "Peacock Blue",
+        "hex": "#0080B4"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1106",
+        "name": "Guacamole",
+        "hex": "#8C8745"
+      },
+      "Madeira Polyneon": {
+        "number": "1706",
+        "name": "Guacamole",
+        "hex": "#898138"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1156",
+        "name": "Olive Green",
+        "hex": "#70703C"
+      },
+      "Madeira Polyneon": {
+        "number": "1796",
+        "name": "Aged Moss",
+        "hex": "#535122"
       }
     },
     "confirmed": [
