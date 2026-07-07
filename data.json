@@ -158,9 +158,9 @@
           "hex": "#B52010"
         },
         {
-          "number": "1147",
-          "name": "Christmas Red",
-          "hex": "#AD171E"
+          "number": "1447",
+          "name": "Color 1447",
+          "hex": "#B01F1D"
         }
       ]
     },
@@ -267,6 +267,11 @@
         "number": "18-1664",
         "name": null,
         "hex": "#D01C1F"
+      },
+      "Madeira Classic": {
+        "number": "1146",
+        "name": "Tomato Red",
+        "hex": "#C6240A"
       }
     },
     "confirmed": [
@@ -1336,9 +1341,19 @@
         "number": "1838",
         "name": "Brick Red",
         "hex": "#9E1E1F"
+      },
+      "Madeira Classic": {
+        "number": "1147",
+        "name": "Christmas Red",
+        "hex": "#AD171E"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
   },
   {
     "shade": "Red",
@@ -5185,28 +5200,6 @@
         "number": "1477",
         "name": "Color 1477",
         "hex": "#BC3324"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1146",
-        "name": "Tomato Red",
-        "hex": "#C6240A"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1447",
-        "name": "Color 1447",
-        "hex": "#B01F1D"
       }
     },
     "confirmed": []
