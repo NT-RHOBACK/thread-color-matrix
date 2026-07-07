@@ -397,11 +397,18 @@
         "name": "Mocha",
         "hex": "#6F3E2A"
       },
-      "Madeira Classic": {
-        "number": "1258",
-        "name": null,
-        "hex": "#7A4527"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1258",
+          "name": null,
+          "hex": "#7A4527"
+        },
+        {
+          "number": "1058",
+          "name": "Sienna",
+          "hex": "#643C2B"
+        }
+      ]
     },
     "confirmed": [
       {
@@ -1171,17 +1178,6 @@
         "number": "1626",
         "name": "Peaches n Cream",
         "hex": "#FFD578"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1951",
-        "name": "Pumpkin Chiffon",
-        "hex": "#F89C04"
       }
     },
     "confirmed": []
@@ -2444,31 +2440,9 @@
     "shade": "Blue",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1562",
-        "name": "Blue Hydrangea",
-        "hex": "#97BCD9"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1542",
         "name": "Blue Heather",
         "hex": "#6992BD"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1934",
-        "name": "Royal Blue",
-        "hex": "#015698"
       }
     },
     "confirmed": []
@@ -3851,17 +3825,6 @@
     "shade": "Brown",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1560",
-        "name": "Espresso",
-        "hex": "#2A2722"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1557",
         "name": "Mud Facial",
         "hex": "#393227"
@@ -3964,28 +3927,6 @@
         "number": "1928",
         "name": "Natural Suede",
         "hex": "#7F725D"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1728",
-        "name": "Bark",
-        "hex": "#968369"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1855",
-        "name": "Coffee with Cream",
-        "hex": "#AF9368"
       }
     },
     "confirmed": []
@@ -4321,17 +4262,6 @@
     "confirmed": []
   },
   {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1730",
-        "name": "Cumin",
-        "hex": "#6D542A"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Gold",
     "brands": {
       "Madeira Polyneon": {
@@ -4434,17 +4364,6 @@
     "shade": "Grey",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1539",
-        "name": "Stone",
-        "hex": "#5C5B56"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1689",
         "name": "Shark",
         "hex": "#606460"
@@ -4459,17 +4378,6 @@
         "number": "1502",
         "name": "Zipper",
         "hex": "#737B82"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1718",
-        "name": "Overcast Gray",
-        "hex": "#99A5AD"
       }
     },
     "confirmed": []
@@ -6392,17 +6300,6 @@
     "shade": "Blue",
     "brands": {
       "Madeira Classic": {
-        "number": "1177",
-        "name": "Blue Bird",
-        "hex": "#006DAC"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Classic": {
         "number": "1434",
         "name": "Color 1434",
         "hex": "#0A5B99"
@@ -6439,17 +6336,6 @@
         "number": "1432",
         "name": "Color 1432",
         "hex": "#74A5DE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1074",
-        "name": "Powder Blue",
-        "hex": "#A2C1E0"
       }
     },
     "confirmed": []
@@ -7687,28 +7573,6 @@
     "confirmed": []
   },
   {
-    "shade": "Tan",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1255",
-        "name": "Khaki",
-        "hex": "#BA9666"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1344",
-        "name": "Camel",
-        "hex": "#896D46"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Madeira Classic": {
@@ -8009,17 +7873,6 @@
     "shade": "Brown",
     "brands": {
       "Madeira Classic": {
-        "number": "1058",
-        "name": "Sienna",
-        "hex": "#643C2B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Madeira Classic": {
         "number": "1059",
         "name": "Dark Chocolate",
         "hex": "#342924"
@@ -8248,17 +8101,6 @@
     "confirmed": []
   },
   {
-    "shade": "Black",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1131",
-        "name": "Espresso",
-        "hex": "#24241E"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Madeira Classic": {
@@ -8287,17 +8129,6 @@
         "number": "1136",
         "name": "Dark Taupe",
         "hex": "#867768"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1082",
-        "name": "Ivory",
-        "hex": "#C7B9A2"
       }
     },
     "confirmed": []
@@ -8471,17 +8302,6 @@
     "shade": "Grey",
     "brands": {
       "Madeira Classic": {
-        "number": "1239",
-        "name": "Charcoal",
-        "hex": "#524F4B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Madeira Classic": {
         "number": "1240",
         "name": "Stone",
         "hex": "#65605B"
@@ -8540,17 +8360,6 @@
         "number": "1010",
         "name": "Gray Haze",
         "hex": "#C0C7C1"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Madeira Classic": {
-        "number": "1012",
-        "name": "Smoke",
-        "hex": "#A5B2B5"
       }
     },
     "confirmed": []
@@ -18506,17 +18315,6 @@
         "number": "14-0952",
         "name": "Spicy Mustard",
         "hex": "#D8AE47"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "14-0955",
-        "name": "Citrus",
-        "hex": "#F9AC2F"
       }
     },
     "confirmed": []
@@ -28821,17 +28619,6 @@
     "shade": "Gold",
     "brands": {
       "FHI Cotton TCX": {
-        "number": "17-1125",
-        "name": "Dijon",
-        "hex": "#97754C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "FHI Cotton TCX": {
         "number": "17-1128",
         "name": "Bone Brown",
         "hex": "#9D7446"
@@ -29099,17 +28886,6 @@
         "number": "17-1318",
         "name": "Affogat",
         "hex": "#A28774"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "17-1319",
-        "name": "Amphora",
-        "hex": "#9F8672"
       }
     },
     "confirmed": []
@@ -52819,11 +52595,18 @@
         "name": "Tusk",
         "hex": "#D4C9B2"
       },
-      "Madeira Classic": {
-        "number": "1138",
-        "name": "Doe Skin",
-        "hex": "#CBBFA8"
-      }
+      "Madeira Classic": [
+        {
+          "number": "1138",
+          "name": "Doe Skin",
+          "hex": "#CBBFA8"
+        },
+        {
+          "number": "1082",
+          "name": "Ivory",
+          "hex": "#C7B9A2"
+        }
+      ]
     },
     "confirmed": [
       {
@@ -52929,6 +52712,200 @@
         "number": "12-4300",
         "name": "White Onyx",
         "hex": "#D7D6CE"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1131",
+        "name": "Espresso",
+        "hex": "#24241E"
+      },
+      "Madeira Polyneon": {
+        "number": "1560",
+        "name": "Espresso",
+        "hex": "#2A2722"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1074",
+        "name": "Powder Blue",
+        "hex": "#A2C1E0"
+      },
+      "Madeira Polyneon": {
+        "number": "1562",
+        "name": "Blue Hydrangea",
+        "hex": "#97BCD9"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1239",
+        "name": "Charcoal",
+        "hex": "#524F4B"
+      },
+      "Madeira Polyneon": {
+        "number": "1539",
+        "name": "Stone",
+        "hex": "#5C5B56"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1344",
+        "name": "Camel",
+        "hex": "#896D46"
+      },
+      "Madeira Polyneon": {
+        "number": "1730",
+        "name": "Cumin",
+        "hex": "#6D542A"
+      },
+      "FHI Cotton TCX": {
+        "number": "17-1125",
+        "name": "Dijon",
+        "hex": "#97754C"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1255",
+        "name": "Khaki",
+        "hex": "#BA9666"
+      },
+      "Madeira Polyneon": {
+        "number": "1855",
+        "name": "Coffee with Cream",
+        "hex": "#AF9368"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "14-0955",
+        "name": "Citrus",
+        "hex": "#F9AC2F"
+      },
+      "Madeira Polyneon": {
+        "number": "1951",
+        "name": "Pumpkin Chiffon",
+        "hex": "#F89C04"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "17-1319",
+        "name": "Amphora",
+        "hex": "#9F8672"
+      },
+      "Madeira Polyneon": {
+        "number": "1728",
+        "name": "Bark",
+        "hex": "#968369"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1012",
+        "name": "Smoke",
+        "hex": "#A5B2B5"
+      },
+      "Madeira Polyneon": {
+        "number": "1718",
+        "name": "Overcast Gray",
+        "hex": "#99A5AD"
+      }
+    },
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Madeira Classic": {
+        "number": "1177",
+        "name": "Blue Bird",
+        "hex": "#006DAC"
+      },
+      "Madeira Polyneon": {
+        "number": "1934",
+        "name": "Royal Blue",
+        "hex": "#015698"
       }
     },
     "confirmed": [
