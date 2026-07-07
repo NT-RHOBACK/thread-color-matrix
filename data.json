@@ -826,18 +826,11 @@
   {
     "shade": "Grey",
     "brands": {
-      "Madeira Polyneon": [
-        {
-          "number": "1505",
-          "name": "Polished Silver",
-          "hex": "#A7ADB2"
-        },
-        {
-          "number": "1811",
-          "name": "Chrome",
-          "hex": "#ABB6B8"
-        }
-      ],
+      "Madeira Polyneon": {
+        "number": "1811",
+        "name": "Chrome",
+        "hex": "#ABB6B8"
+      },
       "Madeira Classic": {
         "number": "1011",
         "name": "Chrome",
@@ -52944,6 +52937,17 @@
         "number": "1391",
         "name": "Spruce Green",
         "hex": "#456558"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1505",
+        "name": "Polished Silver",
+        "hex": "#A7ADB2"
       }
     },
     "confirmed": []
