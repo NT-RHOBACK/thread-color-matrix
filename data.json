@@ -826,18 +826,30 @@
   {
     "shade": "Grey",
     "brands": {
-      "Madeira Polyneon": {
-        "number": "1505",
-        "name": "Polished Silver",
-        "hex": "#A7ADB2"
-      },
+      "Madeira Polyneon": [
+        {
+          "number": "1505",
+          "name": "Polished Silver",
+          "hex": "#A7ADB2"
+        },
+        {
+          "number": "1811",
+          "name": "Chrome",
+          "hex": "#ABB6B8"
+        }
+      ],
       "Madeira Classic": {
         "number": "1011",
         "name": "Chrome",
         "hex": "#B2BBC2"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-07"
+      }
+    ]
   },
   {
     "shade": "Navy",
@@ -4653,17 +4665,6 @@
         "number": "1610",
         "name": "Silver",
         "hex": "#C4D0D2"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1811",
-        "name": "Chrome",
-        "hex": "#ABB6B8"
       }
     },
     "confirmed": []
