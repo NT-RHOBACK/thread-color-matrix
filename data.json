@@ -52857,27 +52857,6 @@
     ]
   },
   {
-    "shade": "Red",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1639",
-        "name": "Cinnabar",
-        "hex": "#9D3530"
-      },
-      "FHI Cotton TCX": {
-        "number": "18-1444",
-        "name": "Tandori Spice",
-        "hex": "#9F4440"
-      }
-    },
-    "confirmed": [
-      {
-        "by": "Noelle",
-        "date": "2026-07-07"
-      }
-    ]
-  },
-  {
     "shade": "Grey",
     "brands": {
       "Madeira Polyneon": {
@@ -52939,5 +52918,27 @@
         "date": "2026-07-07"
       }
     ]
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Madeira Polyneon": {
+        "number": "1639",
+        "name": "Cinnabar",
+        "hex": "#9D3530"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "FHI Cotton TCX": {
+        "number": "18-1444",
+        "name": "Tandori Spice",
+        "hex": "#9F4440"
+      }
+    },
+    "confirmed": []
   }
 ]
