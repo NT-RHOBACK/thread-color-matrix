@@ -53509,5 +53509,3371 @@
       }
     },
     "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2001",
+        "name": "Neon Yellow",
+        "hex": "#FFFA00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2002",
+        "name": "Glow Worm",
+        "hex": "#AAFF32"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2003",
+        "name": "Celery",
+        "hex": "#B9D782"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2004",
+        "name": "Neon Green",
+        "hex": "#00F03C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2005",
+        "name": "Sunburst",
+        "hex": "#FAE610"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2006",
+        "name": "Honeydew",
+        "hex": "#FCC9A1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2007",
+        "name": "Citrus Blast",
+        "hex": "#FE7758"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2008",
+        "name": "Romantic Pink",
+        "hex": "#EDB5C7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2009",
+        "name": "Neon Pink",
+        "hex": "#ED9CB5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2010",
+        "name": "Hot Peony",
+        "hex": "#EF1D78"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2011",
+        "name": "Sinful Pink",
+        "hex": "#E68FA8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2012",
+        "name": "Blissful",
+        "hex": "#E68FA8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2013",
+        "name": "Hot Tamales",
+        "hex": "#E38782"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2014",
+        "name": "Neon Orange",
+        "hex": "#FF6400"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2015",
+        "name": "Shocking Green",
+        "hex": "#7FBB00"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2016",
+        "name": "Citrus Yellow",
+        "hex": "#F1EB87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2017",
+        "name": "Pale Yellow",
+        "hex": "#EEE75D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2018",
+        "name": "Lemon Yellow",
+        "hex": "#F9E715"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2019",
+        "name": "Yellow",
+        "hex": "#F9DF16"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2020",
+        "name": "Buttercup",
+        "hex": "#FAD716"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2021",
+        "name": "Sunflower",
+        "hex": "#FEC81F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2022",
+        "name": "Gold",
+        "hex": "#EBB110"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2023",
+        "name": "Mango",
+        "hex": "#F0B32F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2024",
+        "name": "Tawny",
+        "hex": "#FEB778"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2025",
+        "name": "Toasted Almond",
+        "hex": "#C0920C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2026",
+        "name": "Antique Gold",
+        "hex": "#DDCD6A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2027",
+        "name": "Pistachio",
+        "hex": "#B6AC59"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2028",
+        "name": "Desert Cactus",
+        "hex": "#999008"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2029",
+        "name": "Rustic Orange",
+        "hex": "#CC7A02"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2030",
+        "name": "Date",
+        "hex": "#AF7506"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2031",
+        "name": "Cupid Pink",
+        "hex": "#F3D1BE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2032",
+        "name": "Champagne",
+        "hex": "#B5917D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2033",
+        "name": "Memphis Belle",
+        "hex": "#F4BFD2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2034",
+        "name": "Blush",
+        "hex": "#F2B0C2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2035",
+        "name": "Poached Salmon",
+        "hex": "#FAB0AE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2036",
+        "name": "Salmon",
+        "hex": "#FB858E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2037",
+        "name": "Mauve",
+        "hex": "#DC818C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2038",
+        "name": "Azalea",
+        "hex": "#E399A1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2039",
+        "name": "Flamingo Pink",
+        "hex": "#E54D7D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2040",
+        "name": "Mulberry",
+        "hex": "#BD3779"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2041",
+        "name": "Magenta",
+        "hex": "#E22982"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2042",
+        "name": "Fushia",
+        "hex": "#D00057"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2043",
+        "name": "Cherry Red",
+        "hex": "#E10747"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2044",
+        "name": "Foxy Red",
+        "hex": "#CF1326"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2045",
+        "name": "Red",
+        "hex": "#C00B31"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2046",
+        "name": "Peach Blossom",
+        "hex": "#F0B6A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2047",
+        "name": "Coral Blush",
+        "hex": "#FB906E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2048",
+        "name": "Tangerine",
+        "hex": "#FC8845"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2049",
+        "name": "Apricot",
+        "hex": "#E87513"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2050",
+        "name": "Orange Yellow",
+        "hex": "#E48D06"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2051",
+        "name": "Orange",
+        "hex": "#DF5900"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2052",
+        "name": "Carrot",
+        "hex": "#DE4F04"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2053",
+        "name": "Pumpkin",
+        "hex": "#FA4025"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2054",
+        "name": "Crimson",
+        "hex": "#A80C36"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2055",
+        "name": "Carolina Red",
+        "hex": "#8C2532"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2056",
+        "name": "Maroon",
+        "hex": "#902444"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2057",
+        "name": "Wine",
+        "hex": "#7E1F3F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2058",
+        "name": "Merlot",
+        "hex": "#70193D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2059",
+        "name": "Fruit Punch",
+        "hex": "#9B006F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2060",
+        "name": "Violet Blue",
+        "hex": "#85226C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2061",
+        "name": "Sky Blue",
+        "hex": "#ABCCD9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2062",
+        "name": "Porcelin Blue",
+        "hex": "#76B3DF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2063",
+        "name": "Paris Blue",
+        "hex": "#A5BBE0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2064",
+        "name": "Periwinkle",
+        "hex": "#A7B0D5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2065",
+        "name": "Powder Blue",
+        "hex": "#76AADC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2066",
+        "name": "Jay Blue",
+        "hex": "#3A75C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2067",
+        "name": "Blue",
+        "hex": "#0055A0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2068",
+        "name": "Royal Blue",
+        "hex": "#2F348E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2069",
+        "name": "Oriental Blue",
+        "hex": "#003893"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2070",
+        "name": "Light Navy",
+        "hex": "#00337F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2071",
+        "name": "Napolean",
+        "hex": "#25557E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2072",
+        "name": "Mosaic Blue",
+        "hex": "#0F2C5C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2073",
+        "name": "Navy Blue",
+        "hex": "#0E1D47"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2074",
+        "name": "Midnight Blue",
+        "hex": "#877882"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2075",
+        "name": "Deep Marine",
+        "hex": "#004559"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2076",
+        "name": "Winter Iris",
+        "hex": "#E1CEE0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2077",
+        "name": "Winter Lilac",
+        "hex": "#D4B8C2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2078",
+        "name": "Lilac",
+        "hex": "#CFA2D4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2079",
+        "name": "Lavender",
+        "hex": "#9E92C7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2080",
+        "name": "Purple Sky",
+        "hex": "#8A77B9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2081",
+        "name": "Tulip",
+        "hex": "#AA74C0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2082",
+        "name": "Light Pansy",
+        "hex": "#8E48AD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2083",
+        "name": "Pansy",
+        "hex": "#4F2271"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2084",
+        "name": "Purple",
+        "hex": "#5A138E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2085",
+        "name": "Plum",
+        "hex": "#46245A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2086",
+        "name": "Purple Mist",
+        "hex": "#391A7A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2087",
+        "name": "Blue Violet",
+        "hex": "#736B99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2088",
+        "name": "Twisted Purple",
+        "hex": "#1E1D78"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2089",
+        "name": "Irridescent",
+        "hex": "#BDE3DB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2090",
+        "name": "Unicorn Blue",
+        "hex": "#98D7DF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2091",
+        "name": "Cyan",
+        "hex": "#71CFE3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2092",
+        "name": "Dark Cyan",
+        "hex": "#2AC5DA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2093",
+        "name": "Aqua",
+        "hex": "#0098B4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2094",
+        "name": "Mediterrenean",
+        "hex": "#73A1BD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2095",
+        "name": "Marine Blue",
+        "hex": "#00719F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2096",
+        "name": "Teal",
+        "hex": "#70ADB0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2097",
+        "name": "Bright Jade",
+        "hex": "#007374"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2098",
+        "name": "Winter Forest",
+        "hex": "#C4CFBE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2099",
+        "name": "Mint Green",
+        "hex": "#D6E8C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2100",
+        "name": "Chartruese",
+        "hex": "#BBDA0B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2101",
+        "name": "Avacado",
+        "hex": "#AADD6E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2102",
+        "name": "Spring Grass",
+        "hex": "#61BD99"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2103",
+        "name": "Kelly Green",
+        "hex": "#007C58"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2104",
+        "name": "Peacock Green",
+        "hex": "#009887"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2105",
+        "name": "Pine Green",
+        "hex": "#006A53"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2106",
+        "name": "Blue Spruce",
+        "hex": "#006D66"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2107",
+        "name": "Tortus Shell",
+        "hex": "#004437"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2108",
+        "name": "Jungle Green",
+        "hex": "#007E67"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2109",
+        "name": "Fresh Pine",
+        "hex": "#006A5B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2110",
+        "name": "Fresh Spruce",
+        "hex": "#3B772A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2111",
+        "name": "Palmetto Green",
+        "hex": "#576314"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2112",
+        "name": "Congo Green",
+        "hex": "#738280"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2113",
+        "name": "Alpine Green",
+        "hex": "#4A4613"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2114",
+        "name": "Dark Army Green",
+        "hex": "#234636"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2115",
+        "name": "Pearl",
+        "hex": "#E9E2D7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2116",
+        "name": "Pina Colada",
+        "hex": "#F7F0E8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2117",
+        "name": "Cream",
+        "hex": "#F7EDDB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2118",
+        "name": "Beige",
+        "hex": "#DECFBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2119",
+        "name": "Bone",
+        "hex": "#EDD6C2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2120",
+        "name": "Bisque",
+        "hex": "#E5C6AB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2121",
+        "name": "Taupe",
+        "hex": "#D8B496"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2122",
+        "name": "Sparkling Cider",
+        "hex": "#C7BFB0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2123",
+        "name": "Dark Taupe",
+        "hex": "#E3BF9B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2124",
+        "name": "Kashmir",
+        "hex": "#B39E91"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2125",
+        "name": "Creamsicle",
+        "hex": "#FAC9A1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2126",
+        "name": "Tobacco",
+        "hex": "#FED591"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2127",
+        "name": "Cinnamon",
+        "hex": "#B38360"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2128",
+        "name": "Golden Sand",
+        "hex": "#C9A88F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2129",
+        "name": "Fawn",
+        "hex": "#9C8282"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2130",
+        "name": "Coconut",
+        "hex": "#5C4724"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2131",
+        "name": "Rust",
+        "hex": "#755526"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2132",
+        "name": "Armetto",
+        "hex": "#B12726"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2133",
+        "name": "Brown",
+        "hex": "#7E2D24"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2134",
+        "name": "Chestnut",
+        "hex": "#8A7070"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2135",
+        "name": "Espresso",
+        "hex": "#643826"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2136",
+        "name": "Smoke",
+        "hex": "#D6D9D1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2137",
+        "name": "Chrome",
+        "hex": "#D5D8D4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2138",
+        "name": "Platinum",
+        "hex": "#DCD3D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2139",
+        "name": "Smog",
+        "hex": "#AEAFAB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2140",
+        "name": "Silver Cloud",
+        "hex": "#929694"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2141",
+        "name": "Stainless Steel",
+        "hex": "#C4BABA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2142",
+        "name": "Soft Silver",
+        "hex": "#D6C4BF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2143",
+        "name": "Silver Fog",
+        "hex": "#BDB5C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2144",
+        "name": "Natural Grey",
+        "hex": "#A19EA8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2145",
+        "name": "Warm Grey",
+        "hex": "#ABA3A1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2146",
+        "name": "Zinc",
+        "hex": "#999EB8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2147",
+        "name": "Black Pearl",
+        "hex": "#877882"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2148",
+        "name": "Glacier Mount",
+        "hex": "#8F8294"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2149",
+        "name": "White",
+        "hex": "#F7EDDE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2150",
+        "name": "Black",
+        "hex": "#2B2C2A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2151",
+        "name": "Starfruit",
+        "hex": "#8BD700"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2152",
+        "name": "Summer Peach",
+        "hex": "#FF5234"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2153",
+        "name": "Summer Melon",
+        "hex": "#FF3942"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2154",
+        "name": "Milky Way",
+        "hex": "#F4EDB1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2155",
+        "name": "Margarita",
+        "hex": "#F6ED48"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2156",
+        "name": "Nectarine",
+        "hex": "#FDB415"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2157",
+        "name": "Golden Poppy",
+        "hex": "#FCA412"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Yellow",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2158",
+        "name": "Wheat",
+        "hex": "#F8E7AB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2159",
+        "name": "Sunrise",
+        "hex": "#F1BF4A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2160",
+        "name": "Peach Fuzz",
+        "hex": "#FBBA83"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2161",
+        "name": "Squash",
+        "hex": "#EBB38C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2162",
+        "name": "Old Gold",
+        "hex": "#B48C0B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2163",
+        "name": "Baby Pink",
+        "hex": "#F2D6D9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2164",
+        "name": "Cotton Candy",
+        "hex": "#FCBFC9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2165",
+        "name": "Carnation Pnk",
+        "hex": "#E3ADB5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2166",
+        "name": "Cosmopolitan",
+        "hex": "#EC7B9F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2167",
+        "name": "Floral Pink",
+        "hex": "#EC2994"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2168",
+        "name": "Lt. Strawberry",
+        "hex": "#D40448"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2169",
+        "name": "Oriental Fuchsia",
+        "hex": "#AE015C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2170",
+        "name": "Barely Kissed",
+        "hex": "#FBE0E1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2171",
+        "name": "Frosted Peach",
+        "hex": "#F8D2CD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2172",
+        "name": "Angel",
+        "hex": "#F3D1C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2173",
+        "name": "Peach",
+        "hex": "#F9C8AC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2174",
+        "name": "Light Peach",
+        "hex": "#F1C5B0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2175",
+        "name": "Sunkist",
+        "hex": "#DE7500"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2176",
+        "name": "Russet Orange",
+        "hex": "#E23E28"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2177",
+        "name": "Sweet Pea",
+        "hex": "#F4C9C9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2178",
+        "name": "Timid Pink",
+        "hex": "#FBBFC3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2179",
+        "name": "Watermelon",
+        "hex": "#F16877"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2180",
+        "name": "Carmen",
+        "hex": "#A13032"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2181",
+        "name": "Lipstick Red",
+        "hex": "#C13928"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2182",
+        "name": "Tomato Red",
+        "hex": "#D81E04"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Red",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2183",
+        "name": "Devil Red",
+        "hex": "#F4476B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2184",
+        "name": "Radiant Red",
+        "hex": "#C20437"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2185",
+        "name": "Sherry",
+        "hex": "#900553"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2186",
+        "name": "Burgundy",
+        "hex": "#602045"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2187",
+        "name": "Baby Blue",
+        "hex": "#C4D5D6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2188",
+        "name": "Dark Baby Blue",
+        "hex": "#C4DAE2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2189",
+        "name": "Sulfur Blue",
+        "hex": "#93B7D2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2190",
+        "name": "Light Blue",
+        "hex": "#829EC9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2191",
+        "name": "Summer Sky",
+        "hex": "#6689CD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2192",
+        "name": "Intense Blue",
+        "hex": "#5961A9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2193",
+        "name": "Ultramarine",
+        "hex": "#6675AB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2194",
+        "name": "Postal Blue",
+        "hex": "#6E739E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2195",
+        "name": "Blue Suede",
+        "hex": "#00337F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2196",
+        "name": "Titanic Blue",
+        "hex": "#002B7F"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2197",
+        "name": "Lake Blue",
+        "hex": "#808BC0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2198",
+        "name": "Country Blue",
+        "hex": "#61B0DD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2199",
+        "name": "Antarctic Blue",
+        "hex": "#345686"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2200",
+        "name": "Cadet Grey",
+        "hex": "#7D8599"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2201",
+        "name": "Dark Peacock Blue",
+        "hex": "#00264B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2202",
+        "name": "Light Lavender",
+        "hex": "#BBB0D3"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2203",
+        "name": "Iris Petals",
+        "hex": "#B491D2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2204",
+        "name": "Easter Purple",
+        "hex": "#D46BC7"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2205",
+        "name": "Dreamy Blue",
+        "hex": "#A39EBF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2206",
+        "name": "English Garden",
+        "hex": "#8F8AB0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2207",
+        "name": "Frozen Blueberry",
+        "hex": "#8F8294"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2208",
+        "name": "Violet",
+        "hex": "#7452BD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2209",
+        "name": "Fleet Blue",
+        "hex": "#112051"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2210",
+        "name": "Eggplant",
+        "hex": "#261054"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2211",
+        "name": "Old Wine",
+        "hex": "#B36785"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Purple",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2212",
+        "name": "Port Wine",
+        "hex": "#593444"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2213",
+        "name": "Intense Maroon",
+        "hex": "#756978"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2214",
+        "name": "Dragonfly",
+        "hex": "#00B3AA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2215",
+        "name": "Ocean Blue",
+        "hex": "#008590"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2216",
+        "name": "Mallard Blue",
+        "hex": "#006A77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2217",
+        "name": "Surfing Blue",
+        "hex": "#008689"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2218",
+        "name": "Bedazzled",
+        "hex": "#008D81"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2219",
+        "name": "Oceanic Green",
+        "hex": "#006564"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2220",
+        "name": "Deep Mallard",
+        "hex": "#004653"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2221",
+        "name": "Windsor Blue",
+        "hex": "#004153"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2222",
+        "name": "Eclipse Green",
+        "hex": "#00353A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2223",
+        "name": "Opal",
+        "hex": "#CAE8DF"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2224",
+        "name": "Caribbean Morning",
+        "hex": "#CCE3DE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2225",
+        "name": "Tinkerbell",
+        "hex": "#D1E4D4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2226",
+        "name": "Arctic Blue",
+        "hex": "#BBE0E1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2227",
+        "name": "Green Oyster",
+        "hex": "#95DEDB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2228",
+        "name": "Princess Blue",
+        "hex": "#ABCCD9"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2229",
+        "name": "Carolina Blue",
+        "hex": "#52C0E2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2230",
+        "name": "Light Pacific Blue",
+        "hex": "#6EA6CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2231",
+        "name": "Blue Raspberry",
+        "hex": "#00A3DE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2232",
+        "name": "Cobalt Blue",
+        "hex": "#0073C6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2233",
+        "name": "Morning Sky",
+        "hex": "#00839B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2234",
+        "name": "Fresh Mint",
+        "hex": "#D6E8C4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2235",
+        "name": "Nile Green",
+        "hex": "#ABD1BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2236",
+        "name": "Sea Green",
+        "hex": "#A6D9A8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2237",
+        "name": "Sea Mist",
+        "hex": "#9BDBC2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2238",
+        "name": "Isle Green",
+        "hex": "#99C7B0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2239",
+        "name": "Jaded Green",
+        "hex": "#6BB5B0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2240",
+        "name": "Easter Green",
+        "hex": "#8FBF87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2241",
+        "name": "Lettuce Green",
+        "hex": "#5BBF21"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2242",
+        "name": "Grass Green",
+        "hex": "#007B3E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2243",
+        "name": "Jeweled",
+        "hex": "#009A77"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Navy",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2244",
+        "name": "Garden Green",
+        "hex": "#006157"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2245",
+        "name": "Pebblestone Green",
+        "hex": "#D4E9A4"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2246",
+        "name": "Leaf Green",
+        "hex": "#709502"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2247",
+        "name": "Kiwi",
+        "hex": "#578F15"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2248",
+        "name": "Moss Green",
+        "hex": "#A8A67D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2249",
+        "name": "Olive Green",
+        "hex": "#99917A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2250",
+        "name": "Olive Branch",
+        "hex": "#566A21"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2251",
+        "name": "Holly Green",
+        "hex": "#034A31"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2252",
+        "name": "Cape Green",
+        "hex": "#225341"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2253",
+        "name": "Army Green",
+        "hex": "#424817"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2254",
+        "name": "Dark Olive Green",
+        "hex": "#243B2E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2255",
+        "name": "Linen",
+        "hex": "#E6DCBA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Gold",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2256",
+        "name": "Khaki",
+        "hex": "#B2AC71"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2257",
+        "name": "Matte Nickel",
+        "hex": "#ADBFAB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2258",
+        "name": "Tantalizing",
+        "hex": "#C2BAAD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2259",
+        "name": "Neutral Green",
+        "hex": "#C2BAAD"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2260",
+        "name": "Juniper Green",
+        "hex": "#C4E3CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2261",
+        "name": "Wintergreen",
+        "hex": "#A1B0A6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Green",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2262",
+        "name": "Secret Garden",
+        "hex": "#7AA991"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2263",
+        "name": "Spring Green",
+        "hex": "#A1B0A6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2264",
+        "name": "Sage Green",
+        "hex": "#A1B0A6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2265",
+        "name": "Fern Green",
+        "hex": "#8DB0AE"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2266",
+        "name": "Newport Green",
+        "hex": "#87A1A6"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Blue",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2267",
+        "name": "Evergreen",
+        "hex": "#66828C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2268",
+        "name": "Terrace Green",
+        "hex": "#004437"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2269",
+        "name": "Ivy Green",
+        "hex": "#004437"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2270",
+        "name": "Dark Forest Green",
+        "hex": "#004437"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "White",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2271",
+        "name": "Ghostly",
+        "hex": "#F5F0E8"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2272",
+        "name": "Morning Mist",
+        "hex": "#EBDBD1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2273",
+        "name": "Toasted Rice",
+        "hex": "#DECFC2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2274",
+        "name": "Dark Seashell",
+        "hex": "#E3C4B5"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2275",
+        "name": "Bamboo",
+        "hex": "#C2A875"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2276",
+        "name": "New Bark",
+        "hex": "#B0A391"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2277",
+        "name": "Dark Khaki",
+        "hex": "#B3A699"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2278",
+        "name": "Sand",
+        "hex": "#BFA194"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2279",
+        "name": "Glimmer",
+        "hex": "#B5AB9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2280",
+        "name": "Sand Dune",
+        "hex": "#B3A699"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2281",
+        "name": "Stone",
+        "hex": "#C2AD9E"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2282",
+        "name": "Mushroom",
+        "hex": "#B39E91"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2283",
+        "name": "Cocoa Brown",
+        "hex": "#7E513D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2284",
+        "name": "Dark Brown",
+        "hex": "#877882"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2285",
+        "name": "Chocolate Brown",
+        "hex": "#40312C"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2286",
+        "name": "Foundation",
+        "hex": "#FACAA2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2287",
+        "name": "Moondance",
+        "hex": "#FAC09D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Orange",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2288",
+        "name": "Wicker",
+        "hex": "#EAAA7B"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2289",
+        "name": "Copper Rust",
+        "hex": "#9D530A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2290",
+        "name": "Copper",
+        "hex": "#8F4B04"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Brown",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2291",
+        "name": "Rootbeer",
+        "hex": "#7A412A"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2292",
+        "name": "French Grey",
+        "hex": "#A6A39D"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2293",
+        "name": "Heather",
+        "hex": "#C4BABA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Pink",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2294",
+        "name": "Pewter",
+        "hex": "#E0CACB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2295",
+        "name": "Gunmetal",
+        "hex": "#968C94"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2296",
+        "name": "Gunpowder",
+        "hex": "#918A87"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2297",
+        "name": "Brushed Steel",
+        "hex": "#E0D6CC"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Tan",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2298",
+        "name": "Invisible",
+        "hex": "#DFDBD2"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2299",
+        "name": "Cold Metal",
+        "hex": "#ADB8BA"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2300",
+        "name": "Stormy Grey",
+        "hex": "#B3B5B0"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2301",
+        "name": "Aluminum",
+        "hex": "#92A299"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2302",
+        "name": "Dark Silver",
+        "hex": "#ABA3A1"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2303",
+        "name": "Cool Grey",
+        "hex": "#A6A3AB"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2304",
+        "name": "Glacier Grey",
+        "hex": "#968C94"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Grey",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2305",
+        "name": "Carbon Grey",
+        "hex": "#877882"
+      }
+    },
+    "confirmed": []
+  },
+  {
+    "shade": "Black",
+    "brands": {
+      "Marathon Polyester": {
+        "number": "2306",
+        "name": "Charcoal Grey",
+        "hex": "#03293B"
+      }
+    },
+    "confirmed": []
   }
 ]
