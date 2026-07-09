@@ -11,6 +11,11 @@
         "number": "1025",
         "name": "Military Gold",
         "hex": "#C48005"
+      },
+      "Marathon Rayon": {
+        "number": "1404",
+        "name": "Mustard",
+        "hex": "#D2AA1E"
       }
     },
     "confirmed": [
@@ -162,7 +167,12 @@
           "name": "Color 1447",
           "hex": "#B01F1D"
         }
-      ]
+      ],
+      "Marathon Rayon": {
+        "number": "1049",
+        "name": "Tomato Red",
+        "hex": "#DC3C1E"
+      }
     },
     "confirmed": [
       {
@@ -183,6 +193,11 @@
         "number": "1001",
         "name": null,
         "hex": "#EAF0FF"
+      },
+      "Marathon Rayon": {
+        "number": "1179",
+        "name": "White",
+        "hex": "#FFFFFF"
       }
     },
     "confirmed": [
@@ -204,6 +219,11 @@
         "number": "1000",
         "name": null,
         "hex": "#191F1D"
+      },
+      "Marathon Rayon": {
+        "number": "1180",
+        "name": "Black",
+        "hex": "#000000"
       }
     },
     "confirmed": [
@@ -277,6 +297,11 @@
         "number": "1146",
         "name": "Tomato Red",
         "hex": "#C6240A"
+      },
+      "Marathon Rayon": {
+        "number": "1194",
+        "name": "Russet Orange",
+        "hex": "#D22314"
       }
     },
     "confirmed": [
@@ -319,6 +344,11 @@
         "number": "1251",
         "name": null,
         "hex": "#0B9E4A"
+      },
+      "Marathon Rayon": {
+        "number": "1435",
+        "name": "Easter Green",
+        "hex": "#7DC882"
       }
     },
     "confirmed": [
@@ -340,6 +370,11 @@
         "number": "1278",
         "name": null,
         "hex": "#FF7100"
+      },
+      "Marathon Rayon": {
+        "number": "1191",
+        "name": "Golden Poppy",
+        "hex": "#EB5A00"
       }
     },
     "confirmed": [
@@ -366,6 +401,11 @@
         "number": "18-6024",
         "name": "Amazon",
         "hex": "#1F7349"
+      },
+      "Marathon Rayon": {
+        "number": "1125",
+        "name": "Lettuce Green",
+        "hex": "#78B464"
       }
     },
     "confirmed": [
@@ -415,6 +455,18 @@
           "name": "Sienna",
           "hex": "#643C2B"
         }
+      ],
+      "Marathon Rayon": [
+        {
+          "number": "1307",
+          "name": "Brown",
+          "hex": "#673728"
+        },
+        {
+          "number": "1306",
+          "name": "Copper",
+          "hex": "#914B3C"
+        }
       ]
     },
     "confirmed": [
@@ -436,6 +488,11 @@
         "number": "1243",
         "name": "Pea Coat",
         "hex": "#212F48"
+      },
+      "Marathon Rayon": {
+        "number": "1204",
+        "name": "Navy Blue",
+        "hex": "#000032"
       }
     },
     "confirmed": [
@@ -457,6 +514,11 @@
         "number": "1028",
         "name": "Country Kitchen Blue",
         "hex": "#6891B4"
+      },
+      "Marathon Rayon": {
+        "number": "1057",
+        "name": "Sky Blue",
+        "hex": "#C8D7EB"
       }
     },
     "confirmed": [
@@ -484,6 +546,18 @@
           "number": "1076",
           "name": "True Blue",
           "hex": "#1A559F"
+        }
+      ],
+      "Marathon Rayon": [
+        {
+          "number": "1201",
+          "name": "Ultramarine",
+          "hex": "#0000B4"
+        },
+        {
+          "number": "1255",
+          "name": "Titanic Blue",
+          "hex": "#000087"
         }
       ]
     },
@@ -520,6 +594,11 @@
         "number": "3308 C",
         "name": null,
         "hex": "#004438"
+      },
+      "Marathon Rayon": {
+        "number": "1347",
+        "name": "Terrace Green",
+        "hex": "#003C1E"
       }
     },
     "confirmed": [
@@ -541,6 +620,11 @@
         "number": "1125",
         "name": "Saffron",
         "hex": "#FAC030"
+      },
+      "Marathon Rayon": {
+        "number": "1008",
+        "name": "Sunflower",
+        "hex": "#FAE173"
       }
     },
     "confirmed": [
@@ -562,6 +646,11 @@
         "number": "1145",
         "name": "Coffee Bean",
         "hex": "#503323"
+      },
+      "Marathon Rayon": {
+        "number": "1033",
+        "name": "Poached Salmon",
+        "hex": "#F5B4B9"
       }
     },
     "confirmed": [
@@ -604,6 +693,11 @@
         "number": "1143",
         "name": "China Blue",
         "hex": "#47699F"
+      },
+      "Marathon Rayon": {
+        "number": "1247",
+        "name": "Lake Blue",
+        "hex": "#7D87EB"
       }
     },
     "confirmed": [
@@ -658,6 +752,11 @@
         "number": "13-0751",
         "name": "High Visibility",
         "hex": "#F1C700"
+      },
+      "Marathon Rayon": {
+        "number": "1007",
+        "name": "Yellow",
+        "hex": "#F5E68C"
       }
     },
     "confirmed": [
@@ -683,6 +782,11 @@
         "number": "1072",
         "name": "Coconut Cream",
         "hex": "#F3E4CD"
+      },
+      "Marathon Rayon": {
+        "number": "1182",
+        "name": "Ivory",
+        "hex": "#CACAB9"
       }
     },
     "confirmed": [
@@ -704,6 +808,11 @@
         "number": "1328",
         "name": "Buckskin",
         "hex": "#947E6E"
+      },
+      "Marathon Rayon": {
+        "number": "1134",
+        "name": "Dark Taupe",
+        "hex": "#968264"
       }
     },
     "confirmed": [
@@ -725,6 +834,11 @@
         "number": "1329",
         "name": "Toasted Marshmallow",
         "hex": "#775D4D"
+      },
+      "Marathon Rayon": {
+        "number": "1143",
+        "name": "Fawn",
+        "hex": "#735541"
       }
     },
     "confirmed": [
@@ -746,6 +860,11 @@
         "number": "1130",
         "name": "Chocolate Chip",
         "hex": "#372D28"
+      },
+      "Marathon Rayon": {
+        "number": "1310",
+        "name": "Burnt Umber",
+        "hex": "#502D28"
       }
     },
     "confirmed": [
@@ -872,6 +991,11 @@
         "number": "1011",
         "name": "Chrome",
         "hex": "#B2BBC2"
+      },
+      "Marathon Rayon": {
+        "number": "1164",
+        "name": "Stainless Steel",
+        "hex": "#96A5A0"
       }
     },
     "confirmed": [
@@ -893,6 +1017,11 @@
         "number": "1242",
         "name": "Dark Denim",
         "hex": "#173455"
+      },
+      "Marathon Rayon": {
+        "number": "1256",
+        "name": "Dark Peacock Blue",
+        "hex": "#00194B"
       }
     },
     "confirmed": []
@@ -930,6 +1059,11 @@
         "number": "1396",
         "name": "Dark Sage",
         "hex": "#43543F"
+      },
+      "Marathon Rayon": {
+        "number": "1446",
+        "name": "Water Lily",
+        "hex": "#A5B9D7"
       }
     },
     "confirmed": []
@@ -946,6 +1080,11 @@
         "number": "1392",
         "name": "Silver Sage",
         "hex": "#6A7B68"
+      },
+      "Marathon Rayon": {
+        "number": "1282",
+        "name": "Secret Garden",
+        "hex": "#5A7D52"
       }
     },
     "confirmed": []
@@ -1010,6 +1149,11 @@
         "number": "1042",
         "name": "Lapis",
         "hex": "#1C4B78"
+      },
+      "Marathon Rayon": {
+        "number": "1067",
+        "name": "Antarctic Blue",
+        "hex": "#375F8C"
       }
     },
     "confirmed": []
@@ -1361,6 +1505,11 @@
         "number": "1147",
         "name": "Christmas Red",
         "hex": "#AD171E"
+      },
+      "Marathon Rayon": {
+        "number": "1050",
+        "name": "Red",
+        "hex": "#B93C50"
       }
     },
     "confirmed": [
@@ -4742,6 +4891,11 @@
         "number": "1123",
         "name": "Parchment",
         "hex": "#FDF3BF"
+      },
+      "Marathon Rayon": {
+        "number": "1299",
+        "name": "Linen",
+        "hex": "#D7D7B9"
       }
     },
     "confirmed": []
@@ -4764,6 +4918,11 @@
         "number": "1349",
         "name": "Palomino",
         "hex": "#F7DD87"
+      },
+      "Marathon Rayon": {
+        "number": "1449",
+        "name": "Honeysuckle",
+        "hex": "#FAD78C"
       }
     },
     "confirmed": []
@@ -4775,6 +4934,11 @@
         "number": "1083",
         "name": "Daisy",
         "hex": "#FFD441"
+      },
+      "Marathon Rayon": {
+        "number": "1007",
+        "name": "Yellow",
+        "hex": "#F5E68C"
       }
     },
     "confirmed": []
@@ -4797,6 +4961,11 @@
         "number": "1061",
         "name": "Vanilla Pudding",
         "hex": "#FFE4A6"
+      },
+      "Marathon Rayon": {
+        "number": "1010",
+        "name": "Wheat",
+        "hex": "#EBD7BE"
       }
     },
     "confirmed": []
@@ -4808,6 +4977,11 @@
         "number": "1171",
         "name": "Lemon Drop",
         "hex": "#F8BD41"
+      },
+      "Marathon Rayon": {
+        "number": "1009",
+        "name": "Buttercup",
+        "hex": "#FADC87"
       }
     },
     "confirmed": []
@@ -4819,6 +4993,11 @@
         "number": "1172",
         "name": "Egg Yolk",
         "hex": "#E29913"
+      },
+      "Marathon Rayon": {
+        "number": "1405",
+        "name": "Sunrise",
+        "hex": "#FF9B50"
       }
     },
     "confirmed": []
@@ -4830,6 +5009,11 @@
         "number": "1065",
         "name": "Copper",
         "hex": "#D87503"
+      },
+      "Marathon Rayon": {
+        "number": "1189",
+        "name": "Honeydew",
+        "hex": "#EB7D00"
       }
     },
     "confirmed": []
@@ -4841,6 +5025,11 @@
         "number": "1137",
         "name": "Citrus Burst",
         "hex": "#FFA200"
+      },
+      "Marathon Rayon": {
+        "number": "1219",
+        "name": "Goldenrod",
+        "hex": "#FAAA02"
       }
     },
     "confirmed": []
@@ -4863,6 +5052,11 @@
         "number": "1024",
         "name": "Gold Rush",
         "hex": "#FFB300"
+      },
+      "Marathon Rayon": {
+        "number": "1009",
+        "name": "Buttercup",
+        "hex": "#FADC87"
       }
     },
     "confirmed": []
@@ -4885,6 +5079,11 @@
         "number": "1068",
         "name": "Canary",
         "hex": "#FFC900"
+      },
+      "Marathon Rayon": {
+        "number": "1008",
+        "name": "Sunflower",
+        "hex": "#FAE173"
       }
     },
     "confirmed": []
@@ -4896,6 +5095,11 @@
         "number": "1223",
         "name": "Lemon Tart",
         "hex": "#EDD00D"
+      },
+      "Marathon Rayon": {
+        "number": "1005",
+        "name": "Lemon Yellow",
+        "hex": "#EBEB64"
       }
     },
     "confirmed": []
@@ -4929,6 +5133,11 @@
         "number": "1022",
         "name": "Corn Silk",
         "hex": "#FEFBBF"
+      },
+      "Marathon Rayon": {
+        "number": "1002",
+        "name": "Milky Way",
+        "hex": "#EBF0CD"
       }
     },
     "confirmed": []
@@ -4940,6 +5149,11 @@
         "number": "1224",
         "name": "Lemonade",
         "hex": "#F1C933"
+      },
+      "Marathon Rayon": {
+        "number": "1007",
+        "name": "Yellow",
+        "hex": "#F5E68C"
       }
     },
     "confirmed": []
@@ -4973,6 +5187,11 @@
         "number": "1253",
         "name": "Penny",
         "hex": "#CD8048"
+      },
+      "Marathon Rayon": {
+        "number": "1015",
+        "name": "Rustic Orange",
+        "hex": "#D2E669"
       }
     },
     "confirmed": []
@@ -5028,6 +5247,11 @@
         "number": "1078",
         "name": "Pumpkin",
         "hex": "#EC5613"
+      },
+      "Marathon Rayon": {
+        "number": "1333",
+        "name": "Dark Orange",
+        "hex": "#FF8C14"
       }
     },
     "confirmed": []
@@ -5039,6 +5263,11 @@
         "number": "1178",
         "name": "Carrot",
         "hex": "#F3632C"
+      },
+      "Marathon Rayon": {
+        "number": "1044",
+        "name": "Sunset",
+        "hex": "#F09B50"
       }
     },
     "confirmed": []
@@ -5050,6 +5279,11 @@
         "number": "1378",
         "name": "Paprika",
         "hex": "#D62E02"
+      },
+      "Marathon Rayon": {
+        "number": "1046",
+        "name": "Pumpkin",
+        "hex": "#E66432"
       }
     },
     "confirmed": []
@@ -5061,6 +5295,11 @@
         "number": "1152",
         "name": "Peach Tea",
         "hex": "#FC896A"
+      },
+      "Marathon Rayon": {
+        "number": "1041",
+        "name": "Coral Blush",
+        "hex": "#DCA591"
       }
     },
     "confirmed": []
@@ -5072,6 +5311,11 @@
         "number": "1017",
         "name": "Orange Wisp",
         "hex": "#FCC7B2"
+      },
+      "Marathon Rayon": {
+        "number": "1326",
+        "name": "Peach",
+        "hex": "#FACDB9"
       }
     },
     "confirmed": []
@@ -5094,6 +5338,11 @@
         "number": "1254",
         "name": "Dark Salmon",
         "hex": "#E28A77"
+      },
+      "Marathon Rayon": {
+        "number": "1040",
+        "name": "Peach Blossom",
+        "hex": "#E1B4A5"
       }
     },
     "confirmed": []
@@ -5105,6 +5354,11 @@
         "number": "1221",
         "name": "Terra Cotta",
         "hex": "#9B3B23"
+      },
+      "Marathon Rayon": {
+        "number": "1402",
+        "name": "Amber",
+        "hex": "#CD8C1E"
       }
     },
     "confirmed": []
@@ -5116,6 +5370,11 @@
         "number": "1020",
         "name": "Bright Peach",
         "hex": "#FE9283"
+      },
+      "Marathon Rayon": {
+        "number": "1040",
+        "name": "Peach Blossom",
+        "hex": "#E1B4A5"
       }
     },
     "confirmed": []
@@ -5127,6 +5386,11 @@
         "number": "1179",
         "name": "Sweet Potato",
         "hex": "#C14D3C"
+      },
+      "Marathon Rayon": {
+        "number": "1436",
+        "name": "Melon",
+        "hex": "#F59B78"
       }
     },
     "confirmed": []
@@ -5171,6 +5435,11 @@
         "number": "1181",
         "name": "Candy Apple Red",
         "hex": "#7C181E"
+      },
+      "Marathon Rayon": {
+        "number": "1054",
+        "name": "Crimson",
+        "hex": "#A53750"
       }
     },
     "confirmed": []
@@ -5182,6 +5451,11 @@
         "number": "1238",
         "name": "Sangria",
         "hex": "#741D21"
+      },
+      "Marathon Rayon": {
+        "number": "1243",
+        "name": "Carolina Red",
+        "hex": "#BE0000"
       }
     },
     "confirmed": []
@@ -5193,6 +5467,11 @@
         "number": "1013",
         "name": "Peach Blush",
         "hex": "#FBDCD3"
+      },
+      "Marathon Rayon": {
+        "number": "1030",
+        "name": "Frosted Peach",
+        "hex": "#EBCDC8"
       }
     },
     "confirmed": []
@@ -5215,6 +5494,11 @@
         "number": "1317",
         "name": "Blush Pink",
         "hex": "#EB9F97"
+      },
+      "Marathon Rayon": {
+        "number": "1040",
+        "name": "Peach Blossom",
+        "hex": "#E1B4A5"
       }
     },
     "confirmed": []
@@ -5226,6 +5510,11 @@
         "number": "1220",
         "name": "Conch Shell",
         "hex": "#DB6D6D"
+      },
+      "Marathon Rayon": {
+        "number": "1234",
+        "name": "Salmon",
+        "hex": "#FF808C"
       }
     },
     "confirmed": []
@@ -5237,6 +5526,11 @@
         "number": "1307",
         "name": "Raspberry Punch",
         "hex": "#D64846"
+      },
+      "Marathon Rayon": {
+        "number": "1436",
+        "name": "Melon",
+        "hex": "#F59B78"
       }
     },
     "confirmed": []
@@ -5259,6 +5553,11 @@
         "number": "1039",
         "name": "Brick Red",
         "hex": "#91211F"
+      },
+      "Marathon Rayon": {
+        "number": "1334",
+        "name": "Copper Glow",
+        "hex": "#B92828"
       }
     },
     "confirmed": []
@@ -5270,6 +5569,11 @@
         "number": "1038",
         "name": "Barn Red",
         "hex": "#7C2120"
+      },
+      "Marathon Rayon": {
+        "number": "1243",
+        "name": "Carolina Red",
+        "hex": "#BE0000"
       }
     },
     "confirmed": []
@@ -5303,6 +5607,11 @@
         "number": "1315",
         "name": "Pink Grapefruit",
         "hex": "#E99DA6"
+      },
+      "Marathon Rayon": {
+        "number": "1033",
+        "name": "Poached Salmon",
+        "hex": "#F5B4B9"
       }
     },
     "confirmed": []
@@ -5314,6 +5623,11 @@
         "number": "1148",
         "name": "Rustic Pink",
         "hex": "#DB8C97"
+      },
+      "Marathon Rayon": {
+        "number": "1032",
+        "name": "Bashful Pink",
+        "hex": "#DCB9BE"
       }
     },
     "confirmed": []
@@ -5325,6 +5639,11 @@
         "number": "1384",
         "name": "Merlot",
         "hex": "#591C25"
+      },
+      "Marathon Rayon": {
+        "number": "1443",
+        "name": "Sangria",
+        "hex": "#8C1437"
       }
     },
     "confirmed": []
@@ -5336,6 +5655,11 @@
         "number": "1385",
         "name": "Garnet",
         "hex": "#511C24"
+      },
+      "Marathon Rayon": {
+        "number": "1244",
+        "name": "Wine",
+        "hex": "#9B0037"
       }
     },
     "confirmed": []
@@ -5347,6 +5671,11 @@
         "number": "1182",
         "name": "Mulberry",
         "hex": "#6B212C"
+      },
+      "Marathon Rayon": {
+        "number": "1155",
+        "name": "Maroon",
+        "hex": "#8C0B28"
       }
     },
     "confirmed": []
@@ -5358,6 +5687,11 @@
         "number": "1281",
         "name": "Radish",
         "hex": "#9C1E34"
+      },
+      "Marathon Rayon": {
+        "number": "1438",
+        "name": "Cranberry",
+        "hex": "#A51E41"
       }
     },
     "confirmed": []
@@ -5369,6 +5703,11 @@
         "number": "1184",
         "name": "Scarlet Rose",
         "hex": "#B62038"
+      },
+      "Marathon Rayon": {
+        "number": "1328",
+        "name": "Cherry Red",
+        "hex": "#FF145A"
       }
     },
     "confirmed": []
@@ -5391,6 +5730,11 @@
         "number": "1107",
         "name": "Honeysuckle",
         "hex": "#E56173"
+      },
+      "Marathon Rayon": {
+        "number": "1051",
+        "name": "Watermelon",
+        "hex": "#E1A5A5"
       }
     },
     "confirmed": []
@@ -5402,6 +5746,11 @@
         "number": "1014",
         "name": "Bermuda Sand",
         "hex": "#F0ADB6"
+      },
+      "Marathon Rayon": {
+        "number": "1020",
+        "name": "Pink",
+        "hex": "#F5C3CD"
       }
     },
     "confirmed": []
@@ -5424,6 +5773,11 @@
         "number": "1116",
         "name": "Cotton Candy",
         "hex": "#F1B0C4"
+      },
+      "Marathon Rayon": {
+        "number": "1022",
+        "name": "Blush",
+        "hex": "#D7CDD2"
       }
     },
     "confirmed": []
@@ -5435,6 +5789,11 @@
         "number": "1108",
         "name": "Pink Carnation",
         "hex": "#E889A5"
+      },
+      "Marathon Rayon": {
+        "number": "1192",
+        "name": "Cotton Candy",
+        "hex": "#C396AF"
       }
     },
     "confirmed": []
@@ -5446,6 +5805,11 @@
         "number": "1354",
         "name": "Watermelon",
         "hex": "#C6415F"
+      },
+      "Marathon Rayon": {
+        "number": "1024",
+        "name": "Flamingo Pink",
+        "hex": "#E17891"
       }
     },
     "confirmed": []
@@ -5457,6 +5821,11 @@
         "number": "1081",
         "name": "Azalea",
         "hex": "#AF2540"
+      },
+      "Marathon Rayon": {
+        "number": "1328",
+        "name": "Cherry Red",
+        "hex": "#FF145A"
       }
     },
     "confirmed": []
@@ -5468,6 +5837,11 @@
         "number": "1186",
         "name": "Ruby Slipper",
         "hex": "#9D1132"
+      },
+      "Marathon Rayon": {
+        "number": "1026",
+        "name": "Strawberry",
+        "hex": "#D23C73"
       }
     },
     "confirmed": []
@@ -5479,6 +5853,11 @@
         "number": "1381",
         "name": "Ripe Raspberry",
         "hex": "#7C1D31"
+      },
+      "Marathon Rayon": {
+        "number": "1054",
+        "name": "Crimson",
+        "hex": "#A53750"
       }
     },
     "confirmed": []
@@ -5490,6 +5869,11 @@
         "number": "1111",
         "name": "Evening Mist",
         "hex": "#C0ABCA"
+      },
+      "Marathon Rayon": {
+        "number": "1019",
+        "name": "Sweet Pea",
+        "hex": "#FAE1E6"
       }
     },
     "confirmed": []
@@ -5512,6 +5896,11 @@
         "number": "1235",
         "name": "Crocus",
         "hex": "#90658F"
+      },
+      "Marathon Rayon": {
+        "number": "1239",
+        "name": "Easter Purple",
+        "hex": "#AF6BAA"
       }
     },
     "confirmed": []
@@ -5523,6 +5912,11 @@
         "number": "1320",
         "name": "Purple Heart",
         "hex": "#44304E"
+      },
+      "Marathon Rayon": {
+        "number": "1089",
+        "name": "Plum",
+        "hex": "#693C55"
       }
     },
     "confirmed": []
@@ -5545,6 +5939,11 @@
         "number": "1319",
         "name": "Iris",
         "hex": "#945C85"
+      },
+      "Marathon Rayon": {
+        "number": "1239",
+        "name": "Easter Purple",
+        "hex": "#AF6BAA"
       }
     },
     "confirmed": []
@@ -5567,6 +5966,11 @@
         "number": "1310",
         "name": "Magenta",
         "hex": "#8C3873"
+      },
+      "Marathon Rayon": {
+        "number": "1153",
+        "name": "Fruit Punch",
+        "hex": "#870A50"
       }
     },
     "confirmed": []
@@ -5578,6 +5982,11 @@
         "number": "1321",
         "name": "Bubble Gum Pink",
         "hex": "#E398C4"
+      },
+      "Marathon Rayon": {
+        "number": "1193",
+        "name": "Carnation Pink",
+        "hex": "#D28CBE"
       }
     },
     "confirmed": []
@@ -5589,6 +5998,11 @@
         "number": "1121",
         "name": "Candy Heart",
         "hex": "#E8ABCA"
+      },
+      "Marathon Rayon": {
+        "number": "1020",
+        "name": "Pink",
+        "hex": "#F5C3CD"
       }
     },
     "confirmed": []
@@ -5600,6 +6014,11 @@
         "number": "1309",
         "name": "Dahlia",
         "hex": "#D5649B"
+      },
+      "Marathon Rayon": {
+        "number": "1027",
+        "name": "Floral Pink",
+        "hex": "#E18CBE"
       }
     },
     "confirmed": []
@@ -5611,6 +6030,11 @@
         "number": "1109",
         "name": "Pink Rose",
         "hex": "#CB4880"
+      },
+      "Marathon Rayon": {
+        "number": "1027",
+        "name": "Floral Pink",
+        "hex": "#E18CBE"
       }
     },
     "confirmed": []
@@ -5622,6 +6046,11 @@
         "number": "1110",
         "name": "Fuchsia",
         "hex": "#BB2F6A"
+      },
+      "Marathon Rayon": {
+        "number": "1230",
+        "name": "Oriental Fuchsia",
+        "hex": "#E60073"
       }
     },
     "confirmed": []
@@ -5633,6 +6062,11 @@
         "number": "1383",
         "name": "Pink Pansy",
         "hex": "#8E1A49"
+      },
+      "Marathon Rayon": {
+        "number": "1232",
+        "name": "Oriental Pink",
+        "hex": "#AF0069"
       }
     },
     "confirmed": []
@@ -5644,6 +6078,11 @@
         "number": "1187",
         "name": "Orchid",
         "hex": "#B21C4F"
+      },
+      "Marathon Rayon": {
+        "number": "1026",
+        "name": "Strawberry",
+        "hex": "#D23C73"
       }
     },
     "confirmed": []
@@ -5655,6 +6094,11 @@
         "number": "1234",
         "name": "Hibiscus",
         "hex": "#BA345C"
+      },
+      "Marathon Rayon": {
+        "number": "1025",
+        "name": "Light Strawberry",
+        "hex": "#E15F82"
       }
     },
     "confirmed": []
@@ -5666,6 +6110,11 @@
         "number": "1117",
         "name": "Flamingo Pink",
         "hex": "#DC5E86"
+      },
+      "Marathon Rayon": {
+        "number": "1024",
+        "name": "Flamingo Pink",
+        "hex": "#E17891"
       }
     },
     "confirmed": []
@@ -5677,6 +6126,11 @@
         "number": "1183",
         "name": "Cranberry",
         "hex": "#892B4D"
+      },
+      "Marathon Rayon": {
+        "number": "1151",
+        "name": "Cabaret",
+        "hex": "#9B2841"
       }
     },
     "confirmed": []
@@ -5688,6 +6142,11 @@
         "number": "1389",
         "name": "Bordeaux",
         "hex": "#62223B"
+      },
+      "Marathon Rayon": {
+        "number": "1331",
+        "name": "Sherry",
+        "hex": "#733750"
       }
     },
     "confirmed": []
@@ -5699,6 +6158,11 @@
         "number": "1034",
         "name": "Vintage Rose",
         "hex": "#84344F"
+      },
+      "Marathon Rayon": {
+        "number": "1152",
+        "name": "Mulberry",
+        "hex": "#873C4B"
       }
     },
     "confirmed": []
@@ -5710,6 +6174,11 @@
         "number": "1119",
         "name": "English Rose",
         "hex": "#8E475A"
+      },
+      "Marathon Rayon": {
+        "number": "1151",
+        "name": "Cabaret",
+        "hex": "#9B2841"
       }
     },
     "confirmed": []
@@ -5721,6 +6190,11 @@
         "number": "1035",
         "name": "Burgundy",
         "hex": "#572836"
+      },
+      "Marathon Rayon": {
+        "number": "1246",
+        "name": "Merlot",
+        "hex": "#7D002D"
       }
     },
     "confirmed": []
@@ -5732,6 +6206,11 @@
         "number": "1386",
         "name": "Eggplant",
         "hex": "#412734"
+      },
+      "Marathon Rayon": {
+        "number": "1241",
+        "name": "Port Wine",
+        "hex": "#804146"
       }
     },
     "confirmed": []
@@ -5754,6 +6233,11 @@
         "number": "1141",
         "name": "Mauve",
         "hex": "#926D71"
+      },
+      "Marathon Rayon": {
+        "number": "1146",
+        "name": "Satin Wine",
+        "hex": "#966E78"
       }
     },
     "confirmed": []
@@ -5776,6 +6260,11 @@
         "number": "1236",
         "name": "Plum Brandy",
         "hex": "#42222B"
+      },
+      "Marathon Rayon": {
+        "number": "1246",
+        "name": "Merlot",
+        "hex": "#7D002D"
       }
     },
     "confirmed": []
@@ -5787,6 +6276,11 @@
         "number": "1261",
         "name": "Lavendula",
         "hex": "#99A9D2"
+      },
+      "Marathon Rayon": {
+        "number": "1195",
+        "name": "Light Lavender",
+        "hex": "#9187B9"
       }
     },
     "confirmed": []
@@ -5798,6 +6292,11 @@
         "number": "1266",
         "name": "Regal Blue",
         "hex": "#31569D"
+      },
+      "Marathon Rayon": {
+        "number": "1254",
+        "name": "Blue Suede",
+        "hex": "#000096"
       }
     },
     "confirmed": []
@@ -5809,6 +6308,11 @@
         "number": "1166",
         "name": "Hanukkah Blue",
         "hex": "#16377A"
+      },
+      "Marathon Rayon": {
+        "number": "1066",
+        "name": "Flag Blue",
+        "hex": "#32418C"
       }
     },
     "confirmed": []
@@ -5831,6 +6335,11 @@
         "number": "1335",
         "name": "Dark Periwinkle",
         "hex": "#4560A6"
+      },
+      "Marathon Rayon": {
+        "number": "1263",
+        "name": "English Garden",
+        "hex": "#8202CD"
       }
     },
     "confirmed": []
@@ -5842,6 +6351,11 @@
         "number": "1330",
         "name": "Bahamas Blue",
         "hex": "#5462A3"
+      },
+      "Marathon Rayon": {
+        "number": "1263",
+        "name": "English Garden",
+        "hex": "#8202CD"
       }
     },
     "confirmed": []
@@ -5853,6 +6367,11 @@
         "number": "1343",
         "name": "Grape Juice",
         "hex": "#272E5F"
+      },
+      "Marathon Rayon": {
+        "number": "1084",
+        "name": "Deep Indigo",
+        "hex": "#5A2D64"
       }
     },
     "confirmed": []
@@ -5864,6 +6383,11 @@
         "number": "1366",
         "name": "Sailor Blue",
         "hex": "#20265D"
+      },
+      "Marathon Rayon": {
+        "number": "1084",
+        "name": "Deep Indigo",
+        "hex": "#5A2D64"
       }
     },
     "confirmed": []
@@ -5875,6 +6399,11 @@
         "number": "1322",
         "name": "Royal Purple",
         "hex": "#393B7D"
+      },
+      "Marathon Rayon": {
+        "number": "1083",
+        "name": "Royal Purple",
+        "hex": "#823791"
       }
     },
     "confirmed": []
@@ -5886,6 +6415,11 @@
         "number": "1112",
         "name": "Majestic Purple",
         "hex": "#413A7A"
+      },
+      "Marathon Rayon": {
+        "number": "1083",
+        "name": "Royal Purple",
+        "hex": "#823791"
       }
     },
     "confirmed": []
@@ -5919,6 +6453,11 @@
         "number": "1122",
         "name": "Deep Lilac",
         "hex": "#462D64"
+      },
+      "Marathon Rayon": {
+        "number": "1080",
+        "name": "Purple",
+        "hex": "#8C4B91"
       }
     },
     "confirmed": []
@@ -5930,6 +6469,11 @@
         "number": "1311",
         "name": "Mystic Lavender",
         "hex": "#8D8BC0"
+      },
+      "Marathon Rayon": {
+        "number": "1195",
+        "name": "Light Lavender",
+        "hex": "#9187B9"
       }
     },
     "confirmed": []
@@ -5941,6 +6485,11 @@
         "number": "1032",
         "name": "Velvet Violet",
         "hex": "#806DA0"
+      },
+      "Marathon Rayon": {
+        "number": "1074",
+        "name": "Winter Lilac",
+        "hex": "#C89BB9"
       }
     },
     "confirmed": []
@@ -5952,6 +6501,11 @@
         "number": "1033",
         "name": "Purple Pansy",
         "hex": "#64437F"
+      },
+      "Marathon Rayon": {
+        "number": "1078",
+        "name": "Light Pansy",
+        "hex": "#BE69AA"
       }
     },
     "confirmed": []
@@ -5963,6 +6517,11 @@
         "number": "1334",
         "name": "Purple Passion",
         "hex": "#592963"
+      },
+      "Marathon Rayon": {
+        "number": "1410",
+        "name": "Hyacinth",
+        "hex": "#8264AF"
       }
     },
     "confirmed": []
@@ -5974,6 +6533,11 @@
         "number": "1188",
         "name": "Chokecherry",
         "hex": "#683065"
+      },
+      "Marathon Rayon": {
+        "number": "1336",
+        "name": "New Berry",
+        "hex": "#780078"
       }
     },
     "confirmed": []
@@ -5985,6 +6549,11 @@
         "number": "1080",
         "name": "Lilac",
         "hex": "#AF8ABD"
+      },
+      "Marathon Rayon": {
+        "number": "1076",
+        "name": "Iris",
+        "hex": "#D2A5C3"
       }
     },
     "confirmed": []
@@ -5996,6 +6565,11 @@
         "number": "1232",
         "name": "Lavender",
         "hex": "#A599C0"
+      },
+      "Marathon Rayon": {
+        "number": "1074",
+        "name": "Winter Lilac",
+        "hex": "#C89BB9"
       }
     },
     "confirmed": []
@@ -6018,6 +6592,11 @@
         "number": "1313",
         "name": "Berry Blast",
         "hex": "#302648"
+      },
+      "Marathon Rayon": {
+        "number": "1439",
+        "name": "Grape",
+        "hex": "#824191"
       }
     },
     "confirmed": []
@@ -6040,6 +6619,11 @@
         "number": "1263",
         "name": "Dusty Lilac",
         "hex": "#817F9D"
+      },
+      "Marathon Rayon": {
+        "number": "1261",
+        "name": "Iris Petals",
+        "hex": "#AA78C8"
       }
     },
     "confirmed": []
@@ -6051,6 +6635,11 @@
         "number": "1264",
         "name": "Lavender Ice",
         "hex": "#908D9F"
+      },
+      "Marathon Rayon": {
+        "number": "1145",
+        "name": "Brushed Burgundy",
+        "hex": "#7D6473"
       }
     },
     "confirmed": []
@@ -6084,6 +6673,11 @@
         "number": "1198",
         "name": "Moonstone",
         "hex": "#BED1E8"
+      },
+      "Marathon Rayon": {
+        "number": "1311",
+        "name": "Invisible",
+        "hex": "#CDF0F0"
       }
     },
     "confirmed": []
@@ -6095,6 +6689,11 @@
         "number": "1030",
         "name": "Light Periwinkle",
         "hex": "#97AECA"
+      },
+      "Marathon Rayon": {
+        "number": "1055",
+        "name": "Baby Blue",
+        "hex": "#D2E1F0"
       }
     },
     "confirmed": []
@@ -6106,6 +6705,11 @@
         "number": "1364",
         "name": "Storm Sky Blue",
         "hex": "#405771"
+      },
+      "Marathon Rayon": {
+        "number": "1432",
+        "name": "Cool Blue",
+        "hex": "#5A96C3"
       }
     },
     "confirmed": []
@@ -6139,6 +6743,11 @@
         "number": "1029",
         "name": "Blue Jay",
         "hex": "#3F80B6"
+      },
+      "Marathon Rayon": {
+        "number": "1198",
+        "name": "Porcelain Blue",
+        "hex": "#4691B9"
       }
     },
     "confirmed": []
@@ -6172,6 +6781,11 @@
         "number": "1133",
         "name": "Forget-Me-Not",
         "hex": "#2E73B2"
+      },
+      "Marathon Rayon": {
+        "number": "1063",
+        "name": "Jay Blue",
+        "hex": "#6999CD"
       }
     },
     "confirmed": []
@@ -6194,6 +6808,11 @@
         "number": "1075",
         "name": "Baby Blue",
         "hex": "#93B5DB"
+      },
+      "Marathon Rayon": {
+        "number": "1056",
+        "name": "Dark Baby Blue",
+        "hex": "#C3D2E6"
       }
     },
     "confirmed": []
@@ -6216,6 +6835,11 @@
         "number": "1368",
         "name": "Night Sky",
         "hex": "#1B2C3E"
+      },
+      "Marathon Rayon": {
+        "number": "1204",
+        "name": "Navy Blue",
+        "hex": "#000032"
       }
     },
     "confirmed": []
@@ -6227,6 +6851,11 @@
         "number": "1043",
         "name": "Navy",
         "hex": "#1C2735"
+      },
+      "Marathon Rayon": {
+        "number": "1204",
+        "name": "Navy Blue",
+        "hex": "#000032"
       }
     },
     "confirmed": []
@@ -6238,6 +6867,11 @@
         "number": "1367",
         "name": "Black Pearl",
         "hex": "#1D262E"
+      },
+      "Marathon Rayon": {
+        "number": "1070",
+        "name": "Midnight Blue",
+        "hex": "#232355"
       }
     },
     "confirmed": []
@@ -6249,6 +6883,11 @@
         "number": "1244",
         "name": "Darkest Night",
         "hex": "#1B2126"
+      },
+      "Marathon Rayon": {
+        "number": "1070",
+        "name": "Midnight Blue",
+        "hex": "#232355"
       }
     },
     "confirmed": []
@@ -6260,6 +6899,11 @@
         "number": "1153",
         "name": "Frosted Glass",
         "hex": "#B3C8D6"
+      },
+      "Marathon Rayon": {
+        "number": "1163",
+        "name": "Iceberg",
+        "hex": "#ACD2C8"
       }
     },
     "confirmed": []
@@ -6271,6 +6915,11 @@
         "number": "1360",
         "name": "Dusty Blue",
         "hex": "#7490A1"
+      },
+      "Marathon Rayon": {
+        "number": "1411",
+        "name": "Rockport Blue",
+        "hex": "#416491"
       }
     },
     "confirmed": []
@@ -6282,6 +6931,11 @@
         "number": "1353",
         "name": "Blue Spruce",
         "hex": "#4C6982"
+      },
+      "Marathon Rayon": {
+        "number": "1407",
+        "name": "Slate Blue",
+        "hex": "#64789B"
       }
     },
     "confirmed": []
@@ -6326,6 +6980,11 @@
         "number": "1376",
         "name": "Independence Blue",
         "hex": "#224E6B"
+      },
+      "Marathon Rayon": {
+        "number": "1325",
+        "name": "Napoleon",
+        "hex": "#053769"
       }
     },
     "confirmed": []
@@ -6337,6 +6996,11 @@
         "number": "1274",
         "name": "Porcelain Blue",
         "hex": "#87B9D8"
+      },
+      "Marathon Rayon": {
+        "number": "1055",
+        "name": "Baby Blue",
+        "hex": "#D2E1F0"
       }
     },
     "confirmed": []
@@ -6359,6 +7023,11 @@
         "number": "1027",
         "name": "Dolphin",
         "hex": "#9DC1D6"
+      },
+      "Marathon Rayon": {
+        "number": "1055",
+        "name": "Baby Blue",
+        "hex": "#D2E1F0"
       }
     },
     "confirmed": []
@@ -6370,6 +7039,11 @@
         "number": "1373",
         "name": "Cerulean Frost",
         "hex": "#71ADC8"
+      },
+      "Marathon Rayon": {
+        "number": "1094",
+        "name": "Unicorn Blue",
+        "hex": "#AFC3DC"
       }
     },
     "confirmed": []
@@ -6403,6 +7077,11 @@
         "number": "1296",
         "name": "Deep Ocean",
         "hex": "#056281"
+      },
+      "Marathon Rayon": {
+        "number": "1199",
+        "name": "China Blue",
+        "hex": "#00557D"
       }
     },
     "confirmed": []
@@ -6414,6 +7093,11 @@
         "number": "1096",
         "name": "Cobalt",
         "hex": "#2B80A3"
+      },
+      "Marathon Rayon": {
+        "number": "1095",
+        "name": "Light Pacific Blue",
+        "hex": "#0096AF"
       }
     },
     "confirmed": []
@@ -6447,6 +7131,11 @@
         "number": "1295",
         "name": "Cyan",
         "hex": "#0099BC"
+      },
+      "Marathon Rayon": {
+        "number": "1101",
+        "name": "Turquoise",
+        "hex": "#28AFBE"
       }
     },
     "confirmed": []
@@ -6458,6 +7147,11 @@
         "number": "1095",
         "name": "Larimar",
         "hex": "#00B0D4"
+      },
+      "Marathon Rayon": {
+        "number": "1100",
+        "name": "Dark Cyan",
+        "hex": "#50B9C8"
       }
     },
     "confirmed": []
@@ -6469,6 +7163,11 @@
         "number": "1094",
         "name": "Caribbean Blue",
         "hex": "#3ABEDD"
+      },
+      "Marathon Rayon": {
+        "number": "1099",
+        "name": "Cyan",
+        "hex": "#AAD7D7"
       }
     },
     "confirmed": []
@@ -6491,6 +7190,11 @@
         "number": "1089",
         "name": "Sea Frost",
         "hex": "#73AFB8"
+      },
+      "Marathon Rayon": {
+        "number": "1205",
+        "name": "Arctic Blue",
+        "hex": "#64DCE1"
       }
     },
     "confirmed": []
@@ -6502,6 +7206,11 @@
         "number": "1289",
         "name": "Silver Mound",
         "hex": "#509DAA"
+      },
+      "Marathon Rayon": {
+        "number": "1099",
+        "name": "Cyan",
+        "hex": "#AAD7D7"
       }
     },
     "confirmed": []
@@ -6513,6 +7222,11 @@
         "number": "1291",
         "name": "Marlin",
         "hex": "#1C6C7B"
+      },
+      "Marathon Rayon": {
+        "number": "1341",
+        "name": "Stormy Waters",
+        "hex": "#007382"
       }
     },
     "confirmed": []
@@ -6524,6 +7238,11 @@
         "number": "1091",
         "name": "Teal Blue",
         "hex": "#0A7586"
+      },
+      "Marathon Rayon": {
+        "number": "1341",
+        "name": "Stormy Waters",
+        "hex": "#007382"
       }
     },
     "confirmed": []
@@ -6535,6 +7254,11 @@
         "number": "1163",
         "name": "Steel Green",
         "hex": "#829AA0"
+      },
+      "Marathon Rayon": {
+        "number": "1167",
+        "name": "Silver Fog",
+        "hex": "#7391A5"
       }
     },
     "confirmed": []
@@ -6557,6 +7281,11 @@
         "number": "1161",
         "name": "Twilight",
         "hex": "#24464F"
+      },
+      "Marathon Rayon": {
+        "number": "1071",
+        "name": "Deep Mallard",
+        "hex": "#006469"
       }
     },
     "confirmed": []
@@ -6568,6 +7297,11 @@
         "number": "1162",
         "name": "Admiral Blue",
         "hex": "#1B414D"
+      },
+      "Marathon Rayon": {
+        "number": "1072",
+        "name": "Windsor Blue",
+        "hex": "#00505A"
       }
     },
     "confirmed": []
@@ -6579,6 +7313,11 @@
         "number": "1252",
         "name": "Neptune",
         "hex": "#2E585C"
+      },
+      "Marathon Rayon": {
+        "number": "1071",
+        "name": "Deep Mallard",
+        "hex": "#006469"
       }
     },
     "confirmed": []
@@ -6590,6 +7329,11 @@
         "number": "1290",
         "name": "Mallard Teal",
         "hex": "#0E4D4E"
+      },
+      "Marathon Rayon": {
+        "number": "1290",
+        "name": "Tortus Shell",
+        "hex": "#004132"
       }
     },
     "confirmed": []
@@ -6601,6 +7345,11 @@
         "number": "1052",
         "name": "Mermaid",
         "hex": "#397170"
+      },
+      "Marathon Rayon": {
+        "number": "1288",
+        "name": "Newport Green",
+        "hex": "#5A8278"
       }
     },
     "confirmed": []
@@ -6612,6 +7361,11 @@
         "number": "1293",
         "name": "Malachite",
         "hex": "#007070"
+      },
+      "Marathon Rayon": {
+        "number": "1106",
+        "name": "Bright Jade",
+        "hex": "#007878"
       }
     },
     "confirmed": []
@@ -6634,6 +7388,11 @@
         "number": "1088",
         "name": "Robins Egg",
         "hex": "#66ADB0"
+      },
+      "Marathon Rayon": {
+        "number": "1091",
+        "name": "Caribbean Morning",
+        "hex": "#C8DCE1"
       }
     },
     "confirmed": []
@@ -6645,6 +7404,11 @@
         "number": "1292",
         "name": "Limestone",
         "hex": "#9AD0CF"
+      },
+      "Marathon Rayon": {
+        "number": "1091",
+        "name": "Caribbean Morning",
+        "hex": "#C8DCE1"
       }
     },
     "confirmed": []
@@ -6656,6 +7420,11 @@
         "number": "1246",
         "name": "Teal Green",
         "hex": "#29908A"
+      },
+      "Marathon Rayon": {
+        "number": "1287",
+        "name": "Aquamarine",
+        "hex": "#008484"
       }
     },
     "confirmed": []
@@ -6667,6 +7436,11 @@
         "number": "1185",
         "name": "Dark Teal",
         "hex": "#00665E"
+      },
+      "Marathon Rayon": {
+        "number": "1107",
+        "name": "Oceanic Green",
+        "hex": "#00736E"
       }
     },
     "confirmed": []
@@ -6711,6 +7485,11 @@
         "number": "1045",
         "name": "Light Mint",
         "hex": "#8ED7C9"
+      },
+      "Marathon Rayon": {
+        "number": "1110",
+        "name": "Sprite",
+        "hex": "#50D7AA"
       }
     },
     "confirmed": []
@@ -6722,6 +7501,11 @@
         "number": "1279",
         "name": "Tropical Teal",
         "hex": "#258E7E"
+      },
+      "Marathon Rayon": {
+        "number": "1434",
+        "name": "Green Blue",
+        "hex": "#3291A0"
       }
     },
     "confirmed": []
@@ -6733,6 +7517,11 @@
         "number": "1371",
         "name": "Deep Sea",
         "hex": "#1C584F"
+      },
+      "Marathon Rayon": {
+        "number": "1290",
+        "name": "Tortus Shell",
+        "hex": "#004132"
       }
     },
     "confirmed": []
@@ -6744,6 +7533,11 @@
         "number": "1046",
         "name": "Eucalyptus",
         "hex": "#65B09D"
+      },
+      "Marathon Rayon": {
+        "number": "1104",
+        "name": "Sea Mist",
+        "hex": "#78D2B9"
       }
     },
     "confirmed": []
@@ -6755,6 +7549,11 @@
         "number": "1245",
         "name": "Sea Foam Green",
         "hex": "#49A388"
+      },
+      "Marathon Rayon": {
+        "number": "1113",
+        "name": "Isle Green",
+        "hex": "#5ABE73"
       }
     },
     "confirmed": []
@@ -6766,6 +7565,11 @@
         "number": "1280",
         "name": "Oregon Green",
         "hex": "#008167"
+      },
+      "Marathon Rayon": {
+        "number": "1208",
+        "name": "Jungle Green",
+        "hex": "#008255"
       }
     },
     "confirmed": []
@@ -6777,6 +7581,11 @@
         "number": "1284",
         "name": "Rainforest",
         "hex": "#1C7360"
+      },
+      "Marathon Rayon": {
+        "number": "1117",
+        "name": "Fresh Pine",
+        "hex": "#007878"
       }
     },
     "confirmed": []
@@ -6799,6 +7608,11 @@
         "number": "1247",
         "name": "Bottle Green",
         "hex": "#199F71"
+      },
+      "Marathon Rayon": {
+        "number": "1114",
+        "name": "Jaded Green",
+        "hex": "#4B9B82"
       }
     },
     "confirmed": []
@@ -6810,6 +7624,11 @@
         "number": "1219",
         "name": "Hint of Mint",
         "hex": "#A8C3BC"
+      },
+      "Marathon Rayon": {
+        "number": "1265",
+        "name": "Winter Frost",
+        "hex": "#C8F5AF"
       }
     },
     "confirmed": []
@@ -6832,6 +7651,11 @@
         "number": "1397",
         "name": "Evergreen",
         "hex": "#14392D"
+      },
+      "Marathon Rayon": {
+        "number": "1291",
+        "name": "Dark Forest Green",
+        "hex": "#003728"
       }
     },
     "confirmed": []
@@ -6843,6 +7667,11 @@
         "number": "1195",
         "name": "Menthol",
         "hex": "#96CAB8"
+      },
+      "Marathon Rayon": {
+        "number": "1110",
+        "name": "Sprite",
+        "hex": "#50D7AA"
       }
     },
     "confirmed": []
@@ -6854,6 +7683,11 @@
         "number": "1097",
         "name": "Honeydew Melon",
         "hex": "#C5EBD6"
+      },
+      "Marathon Rayon": {
+        "number": "1092",
+        "name": "Tinker Bell",
+        "hex": "#D7E1C8"
       }
     },
     "confirmed": []
@@ -6876,6 +7710,11 @@
         "number": "1351",
         "name": "Alligator",
         "hex": "#155A42"
+      },
+      "Marathon Rayon": {
+        "number": "1290",
+        "name": "Tortus Shell",
+        "hex": "#004132"
       }
     },
     "confirmed": []
@@ -6887,6 +7726,11 @@
         "number": "1302",
         "name": "Spearmint",
         "hex": "#81DB92"
+      },
+      "Marathon Rayon": {
+        "number": "1272",
+        "name": "Spearmint",
+        "hex": "#91DC6E"
       }
     },
     "confirmed": []
@@ -6898,6 +7742,11 @@
         "number": "1079",
         "name": "Celtic Green",
         "hex": "#008A49"
+      },
+      "Marathon Rayon": {
+        "number": "1285",
+        "name": "Kelly Green",
+        "hex": "#3CA033"
       }
     },
     "confirmed": []
@@ -6909,6 +7758,11 @@
         "number": "1250",
         "name": "Christmas Green",
         "hex": "#007549"
+      },
+      "Marathon Rayon": {
+        "number": "1342",
+        "name": "Grass Green",
+        "hex": "#0A7D00"
       }
     },
     "confirmed": []
@@ -6920,6 +7774,11 @@
         "number": "1051",
         "name": "Bell Pepper",
         "hex": "#098C3A"
+      },
+      "Marathon Rayon": {
+        "number": "1435",
+        "name": "Easter Green",
+        "hex": "#7DC882"
       }
     },
     "confirmed": []
@@ -6931,6 +7790,11 @@
         "number": "1249",
         "name": "Shamrock",
         "hex": "#38A941"
+      },
+      "Marathon Rayon": {
+        "number": "1125",
+        "name": "Lettuce Green",
+        "hex": "#78B464"
       }
     },
     "confirmed": []
@@ -6942,6 +7806,11 @@
         "number": "1377",
         "name": "Kiwi",
         "hex": "#78B76A"
+      },
+      "Marathon Rayon": {
+        "number": "1121",
+        "name": "Avocado",
+        "hex": "#A5D287"
       }
     },
     "confirmed": []
@@ -6953,6 +7822,11 @@
         "number": "1050",
         "name": "Green Thumb",
         "hex": "#4E9B3A"
+      },
+      "Marathon Rayon": {
+        "number": "1125",
+        "name": "Lettuce Green",
+        "hex": "#78B464"
       }
     },
     "confirmed": []
@@ -6964,6 +7838,11 @@
         "number": "1101",
         "name": "Light Emerald Green",
         "hex": "#3B8B44"
+      },
+      "Marathon Rayon": {
+        "number": "1285",
+        "name": "Kelly Green",
+        "hex": "#3CA033"
       }
     },
     "confirmed": []
@@ -6975,6 +7854,11 @@
         "number": "1047",
         "name": "Celadon",
         "hex": "#97BA9C"
+      },
+      "Marathon Rayon": {
+        "number": "1272",
+        "name": "Spearmint",
+        "hex": "#91DC6E"
       }
     },
     "confirmed": []
@@ -6997,6 +7881,11 @@
         "number": "1395",
         "name": "Rosemary",
         "hex": "#29372B"
+      },
+      "Marathon Rayon": {
+        "number": "1345",
+        "name": "Cape Green",
+        "hex": "#415028"
       }
     },
     "confirmed": []
@@ -7008,6 +7897,11 @@
         "number": "1100",
         "name": "Cucumber",
         "hex": "#C8E0B3"
+      },
+      "Marathon Rayon": {
+        "number": "1109",
+        "name": "Fresh Mint",
+        "hex": "#C8F0A0"
       }
     },
     "confirmed": []
@@ -7052,6 +7946,11 @@
         "number": "1048",
         "name": "Celery",
         "hex": "#748E3D"
+      },
+      "Marathon Rayon": {
+        "number": "1121",
+        "name": "Avocado",
+        "hex": "#A5D287"
       }
     },
     "confirmed": []
@@ -7074,6 +7973,11 @@
         "number": "1049",
         "name": "Lime Green",
         "hex": "#78AC3F"
+      },
+      "Marathon Rayon": {
+        "number": "1121",
+        "name": "Avocado",
+        "hex": "#A5D287"
       }
     },
     "confirmed": []
@@ -7085,6 +7989,11 @@
         "number": "1248",
         "name": "Margarita Lime",
         "hex": "#A1DA61"
+      },
+      "Marathon Rayon": {
+        "number": "1423",
+        "name": "Celery",
+        "hex": "#B9D282"
       }
     },
     "confirmed": []
@@ -7129,6 +8038,11 @@
         "number": "1169",
         "name": "Split Pea",
         "hex": "#839237"
+      },
+      "Marathon Rayon": {
+        "number": "1123",
+        "name": "Leaf Green",
+        "hex": "#8CAF64"
       }
     },
     "confirmed": []
@@ -7228,6 +8142,11 @@
         "number": "1193",
         "name": "Peridot",
         "hex": "#B0A04C"
+      },
+      "Marathon Rayon": {
+        "number": "1016",
+        "name": "Pistachio",
+        "hex": "#AABEA0"
       }
     },
     "confirmed": []
@@ -7250,6 +8169,11 @@
         "number": "1190",
         "name": "Sea Weed",
         "hex": "#8C7928"
+      },
+      "Marathon Rayon": {
+        "number": "1221",
+        "name": "Desert Cactus",
+        "hex": "#9BA54B"
       }
     },
     "confirmed": []
@@ -7261,6 +8185,11 @@
         "number": "1270",
         "name": "Sawdust",
         "hex": "#E4C480"
+      },
+      "Marathon Rayon": {
+        "number": "1183",
+        "name": "Creamsicle",
+        "hex": "#E1B973"
       }
     },
     "confirmed": []
@@ -7272,6 +8201,11 @@
         "number": "1225",
         "name": "Liquid Gold",
         "hex": "#C38F35"
+      },
+      "Marathon Rayon": {
+        "number": "1187",
+        "name": "Old Gold",
+        "hex": "#B47C37"
       }
     },
     "confirmed": []
@@ -7283,6 +8217,11 @@
         "number": "1372",
         "name": "Pumpkin Spice",
         "hex": "#E4A23D"
+      },
+      "Marathon Rayon": {
+        "number": "1405",
+        "name": "Sunrise",
+        "hex": "#FF9B50"
       }
     },
     "confirmed": []
@@ -7327,6 +8266,11 @@
         "number": "1338",
         "name": "Nutmeg",
         "hex": "#99845D"
+      },
+      "Marathon Rayon": {
+        "number": "1184",
+        "name": "Light Khaki",
+        "hex": "#C9C6A5"
       }
     },
     "confirmed": []
@@ -7349,6 +8293,11 @@
         "number": "1273",
         "name": "Peanut Brittle",
         "hex": "#A28957"
+      },
+      "Marathon Rayon": {
+        "number": "1186",
+        "name": "Golden Sand",
+        "hex": "#918255"
       }
     },
     "confirmed": []
@@ -7382,6 +8331,11 @@
         "number": "1260",
         "name": "Canvas",
         "hex": "#CFC694"
+      },
+      "Marathon Rayon": {
+        "number": "1010",
+        "name": "Wheat",
+        "hex": "#EBD7BE"
       }
     },
     "confirmed": []
@@ -7393,6 +8347,11 @@
         "number": "1105",
         "name": "Weeping Willow",
         "hex": "#9D9B70"
+      },
+      "Marathon Rayon": {
+        "number": "1301",
+        "name": "Matte Nickel",
+        "hex": "#AAAA96"
       }
     },
     "confirmed": []
@@ -7415,6 +8374,11 @@
         "number": "1357",
         "name": "Dark Camo Green",
         "hex": "#333622"
+      },
+      "Marathon Rayon": {
+        "number": "1297",
+        "name": "Dark Army Green",
+        "hex": "#414614"
       }
     },
     "confirmed": []
@@ -7448,6 +8412,11 @@
         "number": "1305",
         "name": "Chamois",
         "hex": "#C0B999"
+      },
+      "Marathon Rayon": {
+        "number": "1300",
+        "name": "Beige",
+        "hex": "#AAA59B"
       }
     },
     "confirmed": []
@@ -7470,6 +8439,11 @@
         "number": "1337",
         "name": "Gray Mist",
         "hex": "#989C85"
+      },
+      "Marathon Rayon": {
+        "number": "1301",
+        "name": "Matte Nickel",
+        "hex": "#AAAA96"
       }
     },
     "confirmed": []
@@ -7514,6 +8488,11 @@
         "number": "1055",
         "name": "Latte",
         "hex": "#D1B68B"
+      },
+      "Marathon Rayon": {
+        "number": "1131",
+        "name": "Foundation",
+        "hex": "#D7A05F"
       }
     },
     "confirmed": []
@@ -7558,6 +8537,11 @@
         "number": "1057",
         "name": "Caramel",
         "hex": "#976D48"
+      },
+      "Marathon Rayon": {
+        "number": "1139",
+        "name": "Latte",
+        "hex": "#9B5A37"
       }
     },
     "confirmed": []
@@ -7569,6 +8553,11 @@
         "number": "1126",
         "name": "Light Brown Sugar",
         "hex": "#A1734B"
+      },
+      "Marathon Rayon": {
+        "number": "1433",
+        "name": "Tobacco",
+        "hex": "#825A37"
       }
     },
     "confirmed": []
@@ -7580,6 +8569,11 @@
         "number": "1226",
         "name": "Amber",
         "hex": "#C88652"
+      },
+      "Marathon Rayon": {
+        "number": "1233",
+        "name": "Tawny",
+        "hex": "#FFB464"
       }
     },
     "confirmed": []
@@ -7591,6 +8585,11 @@
         "number": "1257",
         "name": "Bronze",
         "hex": "#914F19"
+      },
+      "Marathon Rayon": {
+        "number": "1015",
+        "name": "Rustic Orange",
+        "hex": "#D2E669"
       }
     },
     "confirmed": []
@@ -7602,6 +8601,11 @@
         "number": "1158",
         "name": "Chestnut",
         "hex": "#6C3925"
+      },
+      "Marathon Rayon": {
+        "number": "1307",
+        "name": "Brown",
+        "hex": "#673728"
       }
     },
     "confirmed": []
@@ -7613,6 +8617,11 @@
         "number": "1059",
         "name": "Dark Chocolate",
         "hex": "#342924"
+      },
+      "Marathon Rayon": {
+        "number": "1310",
+        "name": "Burnt Umber",
+        "hex": "#502D28"
       }
     },
     "confirmed": []
@@ -7624,6 +8633,11 @@
         "number": "1127",
         "name": "Loofah",
         "hex": "#DBBDA3"
+      },
+      "Marathon Rayon": {
+        "number": "1131",
+        "name": "Foundation",
+        "hex": "#D7A05F"
       }
     },
     "confirmed": []
@@ -7635,6 +8649,11 @@
         "number": "1342",
         "name": "Fawn",
         "hex": "#BB9780"
+      },
+      "Marathon Rayon": {
+        "number": "1451",
+        "name": "Hazelnut",
+        "hex": "#A57850"
       }
     },
     "confirmed": []
@@ -7646,6 +8665,11 @@
         "number": "1142",
         "name": "Peach Puff",
         "hex": "#B09486"
+      },
+      "Marathon Rayon": {
+        "number": "1185",
+        "name": "Dark Seashell",
+        "hex": "#CDAFA5"
       }
     },
     "confirmed": []
@@ -7668,6 +8692,11 @@
         "number": "1259",
         "name": "Cocoa",
         "hex": "#664840"
+      },
+      "Marathon Rayon": {
+        "number": "1422",
+        "name": "Mocha",
+        "hex": "#8C644B"
       }
     },
     "confirmed": []
@@ -7679,6 +8708,11 @@
         "number": "1053",
         "name": "Light Coral",
         "hex": "#E5B6A2"
+      },
+      "Marathon Rayon": {
+        "number": "1326",
+        "name": "Peach",
+        "hex": "#FACDB9"
       }
     },
     "confirmed": []
@@ -7690,6 +8724,11 @@
         "number": "1174",
         "name": "Cinnamon Stick",
         "hex": "#752F27"
+      },
+      "Marathon Rayon": {
+        "number": "1158",
+        "name": "Antique Rose",
+        "hex": "#9B5A32"
       }
     },
     "confirmed": []
@@ -7701,6 +8740,11 @@
         "number": "1374",
         "name": "Maroon",
         "hex": "#512222"
+      },
+      "Marathon Rayon": {
+        "number": "1244",
+        "name": "Wine",
+        "hex": "#9B0037"
       }
     },
     "confirmed": []
@@ -7712,6 +8756,11 @@
         "number": "1358",
         "name": "Cedar Bark",
         "hex": "#623F3C"
+      },
+      "Marathon Rayon": {
+        "number": "1417",
+        "name": "Java",
+        "hex": "#5A3723"
       }
     },
     "confirmed": []
@@ -7767,6 +8816,11 @@
         "number": "1149",
         "name": "Tusk",
         "hex": "#DCCFB9"
+      },
+      "Marathon Rayon": {
+        "number": "1182",
+        "name": "Ivory",
+        "hex": "#CACAB9"
       }
     },
     "confirmed": []
@@ -7789,6 +8843,11 @@
         "number": "1128",
         "name": "Taupe",
         "hex": "#9E8F7C"
+      },
+      "Marathon Rayon": {
+        "number": "1303",
+        "name": "Stone",
+        "hex": "#91827D"
       }
     },
     "confirmed": []
@@ -7811,6 +8870,11 @@
         "number": "1144",
         "name": "Bark",
         "hex": "#79654D"
+      },
+      "Marathon Rayon": {
+        "number": "1143",
+        "name": "Fawn",
+        "hex": "#735541"
       }
     },
     "confirmed": []
@@ -7855,6 +8919,11 @@
         "number": "1228",
         "name": "Mink",
         "hex": "#665F53"
+      },
+      "Marathon Rayon": {
+        "number": "1421",
+        "name": "Oyster",
+        "hex": "#DCD2BE"
       }
     },
     "confirmed": []
@@ -7866,6 +8935,11 @@
         "number": "1136",
         "name": "Dark Taupe",
         "hex": "#867768"
+      },
+      "Marathon Rayon": {
+        "number": "1303",
+        "name": "Stone",
+        "hex": "#91827D"
       }
     },
     "confirmed": []
@@ -7888,6 +8962,11 @@
         "number": "1060",
         "name": "Pussywillow",
         "hex": "#B9B3A1"
+      },
+      "Marathon Rayon": {
+        "number": "1300",
+        "name": "Beige",
+        "hex": "#AAA59B"
       }
     },
     "confirmed": []
@@ -7899,6 +8978,11 @@
         "number": "1063",
         "name": "Elephant",
         "hex": "#6F6B5C"
+      },
+      "Marathon Rayon": {
+        "number": "1421",
+        "name": "Oyster",
+        "hex": "#DCD2BE"
       }
     },
     "confirmed": []
@@ -7910,6 +8994,11 @@
         "number": "1062",
         "name": "Rhino",
         "hex": "#898475"
+      },
+      "Marathon Rayon": {
+        "number": "1453",
+        "name": "Dirty Martini",
+        "hex": "#A0A582"
       }
     },
     "confirmed": []
@@ -7932,6 +9021,11 @@
         "number": "1071",
         "name": "Babys Breath",
         "hex": "#FCFEF7"
+      },
+      "Marathon Rayon": {
+        "number": "1181",
+        "name": "Pearl",
+        "hex": "#EEEEEB"
       }
     },
     "confirmed": []
@@ -8020,6 +9114,11 @@
         "number": "1318",
         "name": "Graphite",
         "hex": "#383940"
+      },
+      "Marathon Rayon": {
+        "number": "1415",
+        "name": "Shadow",
+        "hex": "#5A5A5F"
       }
     },
     "confirmed": []
@@ -8064,6 +9163,11 @@
         "number": "1085",
         "name": "Cement",
         "hex": "#B6B8B1"
+      },
+      "Marathon Rayon": {
+        "number": "1312",
+        "name": "Morning Mist",
+        "hex": "#A5B9B4"
       }
     },
     "confirmed": []
@@ -8097,6 +9201,11 @@
         "number": "1010",
         "name": "Gray Haze",
         "hex": "#C0C7C1"
+      },
+      "Marathon Rayon": {
+        "number": "1163",
+        "name": "Iceberg",
+        "hex": "#ACD2C8"
       }
     },
     "confirmed": []
@@ -8185,6 +9294,11 @@
         "number": "1164",
         "name": "Twister",
         "hex": "#3D474D"
+      },
+      "Marathon Rayon": {
+        "number": "1216",
+        "name": "Black Pearl",
+        "hex": "#3A3A3A"
       }
     },
     "confirmed": []
@@ -8218,6 +9332,11 @@
         "number": "1002",
         "name": "Snow White",
         "hex": "#F4F9FF"
+      },
+      "Marathon Rayon": {
+        "number": "1179",
+        "name": "White",
+        "hex": "#FFFFFF"
       }
     },
     "confirmed": []
@@ -8229,6 +9348,11 @@
         "number": "1003",
         "name": "Cream White",
         "hex": "#FCFFFF"
+      },
+      "Marathon Rayon": {
+        "number": "1181",
+        "name": "Pearl",
+        "hex": "#EEEEEB"
       }
     },
     "confirmed": []
@@ -8240,6 +9364,11 @@
         "number": "1004",
         "name": "Natural White",
         "hex": "#F7FBFF"
+      },
+      "Marathon Rayon": {
+        "number": "1181",
+        "name": "Pearl",
+        "hex": "#EEEEEB"
       }
     },
     "confirmed": []
@@ -8251,6 +9380,11 @@
         "number": "1005",
         "name": "Fluorescent White",
         "hex": "#E3E8FF"
+      },
+      "Marathon Rayon": {
+        "number": "1179",
+        "name": "White",
+        "hex": "#FFFFFF"
       }
     },
     "confirmed": []
@@ -8262,6 +9396,11 @@
         "number": "1006",
         "name": "Color 1006",
         "hex": "#1A201F"
+      },
+      "Marathon Rayon": {
+        "number": "1180",
+        "name": "Black",
+        "hex": "#000000"
       }
     },
     "confirmed": []
@@ -8273,6 +9412,11 @@
         "number": "1007",
         "name": "Color 1007",
         "hex": "#1B201E"
+      },
+      "Marathon Rayon": {
+        "number": "1180",
+        "name": "Black",
+        "hex": "#000000"
       }
     },
     "confirmed": []
@@ -8284,6 +9428,11 @@
         "number": "1008",
         "name": "Color 1008",
         "hex": "#1B2223"
+      },
+      "Marathon Rayon": {
+        "number": "1180",
+        "name": "Black",
+        "hex": "#000000"
       }
     },
     "confirmed": []
@@ -8295,6 +9444,11 @@
         "number": "1009",
         "name": "Color 1009",
         "hex": "#1B2124"
+      },
+      "Marathon Rayon": {
+        "number": "1180",
+        "name": "Black",
+        "hex": "#000000"
       }
     },
     "confirmed": []
@@ -8306,17 +9460,6 @@
         "number": "1001",
         "name": "Pina Colada",
         "hex": "#FAFFE1"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1002",
-        "name": "Milky Way",
-        "hex": "#EBF0CD"
       }
     },
     "confirmed": []
@@ -8344,67 +9487,12 @@
     "confirmed": []
   },
   {
-    "shade": "Yellow",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1005",
-        "name": "Lemon Yellow",
-        "hex": "#EBEB64"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Gold",
     "brands": {
       "Marathon Rayon": {
         "number": "1006",
         "name": "Margarita",
         "hex": "#F5F0C3"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Yellow",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1007",
-        "name": "Yellow",
-        "hex": "#F5E68C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Yellow",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1008",
-        "name": "Sunflower",
-        "hex": "#FAE173"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1009",
-        "name": "Buttercup",
-        "hex": "#FADC87"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1010",
-        "name": "Wheat",
-        "hex": "#EBD7BE"
       }
     },
     "confirmed": []
@@ -8454,67 +9542,12 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1015",
-        "name": "Rustic Orange",
-        "hex": "#D2E669"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1016",
-        "name": "Pistachio",
-        "hex": "#AABEA0"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Tan",
     "brands": {
       "Marathon Rayon": {
         "number": "1017",
         "name": "Antique Gold",
         "hex": "#CDC8AA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1018",
-        "name": "Centennial Gold",
-        "hex": "#C8BE7D"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "White",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1019",
-        "name": "Sweet Pea",
-        "hex": "#FAE1E6"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1020",
-        "name": "Pink",
-        "hex": "#F5C3CD"
       }
     },
     "confirmed": []
@@ -8534,64 +9567,9 @@
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
-        "number": "1022",
-        "name": "Blush",
-        "hex": "#D7CDD2"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1023",
         "name": "Cosmopolitan",
         "hex": "#E196AA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1024",
-        "name": "Flamingo Pink",
-        "hex": "#E17891"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1025",
-        "name": "Light Strawberry",
-        "hex": "#E15F82"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1026",
-        "name": "Strawberry",
-        "hex": "#D23C73"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1027",
-        "name": "Floral Pink",
-        "hex": "#E18CBE"
       }
     },
     "confirmed": []
@@ -8622,42 +9600,9 @@
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
-        "number": "1030",
-        "name": "Frosted Peach",
-        "hex": "#EBCDC8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1031",
         "name": "Timid Pink",
         "hex": "#DCC3C8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1032",
-        "name": "Bashful Pink",
-        "hex": "#DCB9BE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1033",
-        "name": "Poached Salmon",
-        "hex": "#F5B4B9"
       }
     },
     "confirmed": []
@@ -8729,28 +9674,6 @@
     "confirmed": []
   },
   {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1040",
-        "name": "Peach Blossom",
-        "hex": "#E1B4A5"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1041",
-        "name": "Coral Blush",
-        "hex": "#DCA591"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Orange",
     "brands": {
       "Marathon Rayon": {
@@ -8776,31 +9699,9 @@
     "shade": "Orange",
     "brands": {
       "Marathon Rayon": {
-        "number": "1044",
-        "name": "Sunset",
-        "hex": "#F09B50"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1045",
         "name": "Carrot",
         "hex": "#E18741"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1046",
-        "name": "Pumpkin",
-        "hex": "#E66432"
       }
     },
     "confirmed": []
@@ -8828,39 +9729,6 @@
     "confirmed": []
   },
   {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1049",
-        "name": "Tomato Red",
-        "hex": "#DC3C1E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1050",
-        "name": "Red",
-        "hex": "#B93C50"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1051",
-        "name": "Watermelon",
-        "hex": "#E1A5A5"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
@@ -8878,50 +9746,6 @@
         "number": "1053",
         "name": "Devil Red",
         "hex": "#C85A73"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1054",
-        "name": "Crimson",
-        "hex": "#A53750"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1055",
-        "name": "Baby Blue",
-        "hex": "#D2E1F0"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1056",
-        "name": "Dark Baby Blue",
-        "hex": "#C3D2E6"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1057",
-        "name": "Sky Blue",
-        "hex": "#C8D7EB"
       }
     },
     "confirmed": []
@@ -8985,53 +9809,9 @@
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
-        "number": "1063",
-        "name": "Jay Blue",
-        "hex": "#6999CD"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1064",
         "name": "Blue",
         "hex": "#5A7DB4"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1065",
-        "name": "Sapphire Blue",
-        "hex": "#3764AF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1066",
-        "name": "Flag Blue",
-        "hex": "#32418C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1067",
-        "name": "Antarctic Blue",
-        "hex": "#375F8C"
       }
     },
     "confirmed": []
@@ -9059,39 +9839,6 @@
     "confirmed": []
   },
   {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1070",
-        "name": "Midnight Blue",
-        "hex": "#232355"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1071",
-        "name": "Deep Mallard",
-        "hex": "#006469"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1072",
-        "name": "Windsor Blue",
-        "hex": "#00505A"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
@@ -9106,31 +9853,9 @@
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
-        "number": "1074",
-        "name": "Winter Lilac",
-        "hex": "#C89BB9"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1075",
         "name": "Lilac",
         "hex": "#C396B4"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1076",
-        "name": "Iris",
-        "hex": "#D2A5C3"
       }
     },
     "confirmed": []
@@ -9150,31 +9875,9 @@
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
-        "number": "1078",
-        "name": "Light Pansy",
-        "hex": "#BE69AA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1079",
         "name": "Pansy",
         "hex": "#78417D"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1080",
-        "name": "Purple",
-        "hex": "#8C4B91"
       }
     },
     "confirmed": []
@@ -9197,28 +9900,6 @@
         "number": "1082",
         "name": "Purple Mist",
         "hex": "#875F96"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1083",
-        "name": "Royal Purple",
-        "hex": "#823791"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1084",
-        "name": "Deep Indigo",
-        "hex": "#5A2D64"
       }
     },
     "confirmed": []
@@ -9271,42 +9952,9 @@
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
-        "number": "1089",
-        "name": "Plum",
-        "hex": "#693C55"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1090",
         "name": "Eggplant",
         "hex": "#5A3264"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1091",
-        "name": "Caribbean Morning",
-        "hex": "#C8DCE1"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1092",
-        "name": "Tinker Bell",
-        "hex": "#D7E1C8"
       }
     },
     "confirmed": []
@@ -9318,39 +9966,6 @@
         "number": "1093",
         "name": "Viridescent",
         "hex": "#C3DCC8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1094",
-        "name": "Unicorn Blue",
-        "hex": "#AFC3DC"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1095",
-        "name": "Light Pacific Blue",
-        "hex": "#0096AF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1096",
-        "name": "Pacific Blue",
-        "hex": "#1E8CAF"
       }
     },
     "confirmed": []
@@ -9381,39 +9996,6 @@
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
-        "number": "1099",
-        "name": "Cyan",
-        "hex": "#AAD7D7"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1100",
-        "name": "Dark Cyan",
-        "hex": "#50B9C8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1101",
-        "name": "Turquoise",
-        "hex": "#28AFBE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1102",
         "name": "Aqua",
         "hex": "#00A0B4"
@@ -9433,17 +10015,6 @@
     "confirmed": []
   },
   {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1104",
-        "name": "Sea Mist",
-        "hex": "#78D2B9"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
@@ -9458,53 +10029,9 @@
     "shade": "Navy",
     "brands": {
       "Marathon Rayon": {
-        "number": "1106",
-        "name": "Bright Jade",
-        "hex": "#007878"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1107",
-        "name": "Oceanic Green",
-        "hex": "#00736E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1108",
         "name": "Marine Blue",
         "hex": "#007896"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1109",
-        "name": "Fresh Mint",
-        "hex": "#C8F0A0"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1110",
-        "name": "Sprite",
-        "hex": "#50D7AA"
       }
     },
     "confirmed": []
@@ -9535,28 +10062,6 @@
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
-        "number": "1113",
-        "name": "Isle Green",
-        "hex": "#5ABE73"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1114",
-        "name": "Jaded Green",
-        "hex": "#4B9B82"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1115",
         "name": "Spring Grass",
         "hex": "#4B9669"
@@ -9571,17 +10076,6 @@
         "number": "1116",
         "name": "Green",
         "hex": "#008C5F"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1117",
-        "name": "Fresh Pine",
-        "hex": "#007878"
       }
     },
     "confirmed": []
@@ -9620,17 +10114,6 @@
     "confirmed": []
   },
   {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1121",
-        "name": "Avocado",
-        "hex": "#A5D287"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Gold",
     "brands": {
       "Marathon Rayon": {
@@ -9645,31 +10128,9 @@
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
-        "number": "1123",
-        "name": "Leaf Green",
-        "hex": "#8CAF64"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1124",
         "name": "Lime Green",
         "hex": "#46B476"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1125",
-        "name": "Lettuce Green",
-        "hex": "#78B464"
       }
     },
     "confirmed": []
@@ -9730,17 +10191,6 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1131",
-        "name": "Foundation",
-        "hex": "#D7A05F"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
@@ -9758,17 +10208,6 @@
         "number": "1133",
         "name": "Sand Dune",
         "hex": "#827355"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1134",
-        "name": "Dark Taupe",
-        "hex": "#968264"
       }
     },
     "confirmed": []
@@ -9818,34 +10257,12 @@
     "confirmed": []
   },
   {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1139",
-        "name": "Latte",
-        "hex": "#9B5A37"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Red",
     "brands": {
       "Marathon Rayon": {
         "number": "1140",
         "name": "Cinnamon",
         "hex": "#AF5032"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1141",
-        "name": "Cappuccino",
-        "hex": "#966946"
       }
     },
     "confirmed": []
@@ -9865,42 +10282,9 @@
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
-        "number": "1143",
-        "name": "Fawn",
-        "hex": "#735541"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1144",
         "name": "Coconut",
         "hex": "#734637"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1145",
-        "name": "Brushed Burgundy",
-        "hex": "#7D6473"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1146",
-        "name": "Satin Wine",
-        "hex": "#966E78"
       }
     },
     "confirmed": []
@@ -9950,56 +10334,12 @@
     "confirmed": []
   },
   {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1151",
-        "name": "Cabaret",
-        "hex": "#9B2841"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1152",
-        "name": "Mulberry",
-        "hex": "#873C4B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1153",
-        "name": "Fruit Punch",
-        "hex": "#870A50"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
         "number": "1154",
         "name": "Violet Red",
         "hex": "#820F50"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1155",
-        "name": "Maroon",
-        "hex": "#8C0B28"
       }
     },
     "confirmed": []
@@ -10022,17 +10362,6 @@
         "number": "1157",
         "name": "Rust",
         "hex": "#B23C23"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1158",
-        "name": "Antique Rose",
-        "hex": "#9B5A32"
       }
     },
     "confirmed": []
@@ -10082,28 +10411,6 @@
     "confirmed": []
   },
   {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1163",
-        "name": "Iceberg",
-        "hex": "#ACD2C8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1164",
-        "name": "Stainless Steel",
-        "hex": "#96A5A0"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
@@ -10121,17 +10428,6 @@
         "number": "1166",
         "name": "Heather",
         "hex": "#AA9196"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1167",
-        "name": "Silver Fog",
-        "hex": "#7391A5"
       }
     },
     "confirmed": []
@@ -10258,105 +10554,6 @@
     "confirmed": []
   },
   {
-    "shade": "White",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1179",
-        "name": "White",
-        "hex": "#FFFFFF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Black",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1180",
-        "name": "Black",
-        "hex": "#000000"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "White",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1181",
-        "name": "Pearl",
-        "hex": "#EEEEEB"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1182",
-        "name": "Ivory",
-        "hex": "#CACAB9"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1183",
-        "name": "Creamsicle",
-        "hex": "#E1B973"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1184",
-        "name": "Light Khaki",
-        "hex": "#C9C6A5"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1185",
-        "name": "Dark Seashell",
-        "hex": "#CDAFA5"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1186",
-        "name": "Golden Sand",
-        "hex": "#918255"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1187",
-        "name": "Old Gold",
-        "hex": "#B47C37"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Gold",
     "brands": {
       "Marathon Rayon": {
@@ -10371,75 +10568,9 @@
     "shade": "Orange",
     "brands": {
       "Marathon Rayon": {
-        "number": "1189",
-        "name": "Honeydew",
-        "hex": "#EB7D00"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1190",
         "name": "Orange",
         "hex": "#FF6E14"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1191",
-        "name": "Golden Poppy",
-        "hex": "#EB5A00"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1192",
-        "name": "Cotton Candy",
-        "hex": "#C396AF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1193",
-        "name": "Carnation Pink",
-        "hex": "#D28CBE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1194",
-        "name": "Russet Orange",
-        "hex": "#D22314"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1195",
-        "name": "Light Lavender",
-        "hex": "#9187B9"
       }
     },
     "confirmed": []
@@ -10470,42 +10601,9 @@
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
-        "number": "1198",
-        "name": "Porcelain Blue",
-        "hex": "#4691B9"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1199",
-        "name": "China Blue",
-        "hex": "#00557D"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1200",
         "name": "Intense Blue",
         "hex": "#0000AA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1201",
-        "name": "Ultramarine",
-        "hex": "#0000B4"
       }
     },
     "confirmed": []
@@ -10533,28 +10631,6 @@
     "confirmed": []
   },
   {
-    "shade": "Black",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1204",
-        "name": "Navy Blue",
-        "hex": "#000032"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1205",
-        "name": "Arctic Blue",
-        "hex": "#64DCE1"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
@@ -10572,17 +10648,6 @@
         "number": "1207",
         "name": "Jeweled",
         "hex": "#007846"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1208",
-        "name": "Jungle Green",
-        "hex": "#008255"
       }
     },
     "confirmed": []
@@ -10665,39 +10730,6 @@
     "confirmed": []
   },
   {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1216",
-        "name": "Black Pearl",
-        "hex": "#3A3A3A"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1219",
-        "name": "Goldenrod",
-        "hex": "#FAAA02"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1221",
-        "name": "Desert Cactus",
-        "hex": "#9BA54B"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
@@ -10731,122 +10763,12 @@
     "confirmed": []
   },
   {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1230",
-        "name": "Oriental Fuchsia",
-        "hex": "#E60073"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1232",
-        "name": "Oriental Pink",
-        "hex": "#AF0069"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1233",
-        "name": "Tawny",
-        "hex": "#FFB464"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Pink",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1234",
-        "name": "Salmon",
-        "hex": "#FF808C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1239",
-        "name": "Easter Purple",
-        "hex": "#AF6BAA"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1241",
-        "name": "Port Wine",
-        "hex": "#804146"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
         "number": "1242",
         "name": "Intense Maroon",
         "hex": "#502832"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1243",
-        "name": "Carolina Red",
-        "hex": "#BE0000"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1244",
-        "name": "Wine",
-        "hex": "#9B0037"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1246",
-        "name": "Merlot",
-        "hex": "#7D002D"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1247",
-        "name": "Lake Blue",
-        "hex": "#7D87EB"
       }
     },
     "confirmed": []
@@ -10896,39 +10818,6 @@
     "confirmed": []
   },
   {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1254",
-        "name": "Blue Suede",
-        "hex": "#000096"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1255",
-        "name": "Titanic Blue",
-        "hex": "#000087"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1256",
-        "name": "Dark Peacock Blue",
-        "hex": "#00194B"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
@@ -10943,42 +10832,9 @@
     "shade": "Purple",
     "brands": {
       "Marathon Rayon": {
-        "number": "1261",
-        "name": "Iris Petals",
-        "hex": "#AA78C8"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1262",
         "name": "Violet",
         "hex": "#5F0596"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1263",
-        "name": "English Garden",
-        "hex": "#8202CD"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1265",
-        "name": "Winter Frost",
-        "hex": "#C8F5AF"
       }
     },
     "confirmed": []
@@ -11023,17 +10879,6 @@
         "number": "1271",
         "name": "Mediterranean",
         "hex": "#006473"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1272",
-        "name": "Spearmint",
-        "hex": "#91DC6E"
       }
     },
     "confirmed": []
@@ -11108,17 +10953,6 @@
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
-        "number": "1282",
-        "name": "Secret Garden",
-        "hex": "#5A7D52"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1284",
         "name": "Kiwi",
         "hex": "#699933"
@@ -11130,64 +10964,9 @@
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
-        "number": "1285",
-        "name": "Kelly Green",
-        "hex": "#3CA033"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1287",
-        "name": "Aquamarine",
-        "hex": "#008484"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1288",
-        "name": "Newport Green",
-        "hex": "#5A8278"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1289",
         "name": "Garden Green",
         "hex": "#005F48"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Black",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1290",
-        "name": "Tortus Shell",
-        "hex": "#004132"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Black",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1291",
-        "name": "Dark Forest Green",
-        "hex": "#003728"
       }
     },
     "confirmed": []
@@ -11251,53 +11030,9 @@
     "shade": "Gold",
     "brands": {
       "Marathon Rayon": {
-        "number": "1297",
-        "name": "Dark Army Green",
-        "hex": "#414614"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1298",
         "name": "Lunar Green",
         "hex": "#323714"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1299",
-        "name": "Linen",
-        "hex": "#D7D7B9"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1300",
-        "name": "Beige",
-        "hex": "#AAA59B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1301",
-        "name": "Matte Nickel",
-        "hex": "#AAAA96"
       }
     },
     "confirmed": []
@@ -11309,17 +11044,6 @@
         "number": "1302",
         "name": "Caramel",
         "hex": "#AA8275"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1303",
-        "name": "Stone",
-        "hex": "#91827D"
       }
     },
     "confirmed": []
@@ -11347,78 +11071,12 @@
     "confirmed": []
   },
   {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1306",
-        "name": "Copper",
-        "hex": "#914B3C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1307",
-        "name": "Brown",
-        "hex": "#673728"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
         "number": "1308",
         "name": "Dark Brown",
         "hex": "#5F3228"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1310",
-        "name": "Burnt Umber",
-        "hex": "#502D28"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1311",
-        "name": "Invisible",
-        "hex": "#CDF0F0"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1312",
-        "name": "Morning Mist",
-        "hex": "#A5B9B4"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1314",
-        "name": "Gladstone",
-        "hex": "#8CAAAA"
       }
     },
     "confirmed": []
@@ -11452,17 +11110,6 @@
         "number": "1318",
         "name": "Silver Cloud",
         "hex": "#8291A0"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1319",
-        "name": "Dark Silver",
-        "hex": "#788796"
       }
     },
     "confirmed": []
@@ -11523,45 +11170,12 @@
     "confirmed": []
   },
   {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1325",
-        "name": "Napoleon",
-        "hex": "#053769"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1326",
-        "name": "Peach",
-        "hex": "#FACDB9"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Blue",
     "brands": {
       "Marathon Rayon": {
         "number": "1327",
         "name": "Mallard Blue",
         "hex": "#287882"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1328",
-        "name": "Cherry Red",
-        "hex": "#FF145A"
       }
     },
     "confirmed": []
@@ -11589,17 +11203,6 @@
     "confirmed": []
   },
   {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1331",
-        "name": "Sherry",
-        "hex": "#733750"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
@@ -11611,45 +11214,12 @@
     "confirmed": []
   },
   {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1333",
-        "name": "Dark Orange",
-        "hex": "#FF8C14"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1334",
-        "name": "Copper Glow",
-        "hex": "#B92828"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Red",
     "brands": {
       "Marathon Rayon": {
         "number": "1335",
         "name": "Radiant Red",
         "hex": "#DC2314"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1336",
-        "name": "New Berry",
-        "hex": "#780078"
       }
     },
     "confirmed": []
@@ -11699,28 +11269,6 @@
     "confirmed": []
   },
   {
-    "shade": "Navy",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1341",
-        "name": "Stormy Waters",
-        "hex": "#007382"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1342",
-        "name": "Grass Green",
-        "hex": "#0A7D00"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Black",
     "brands": {
       "Marathon Rayon": {
@@ -11746,31 +11294,9 @@
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
-        "number": "1345",
-        "name": "Cape Green",
-        "hex": "#415028"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
         "number": "1346",
         "name": "Evergreen",
         "hex": "#005028"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Black",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1347",
-        "name": "Terrace Green",
-        "hex": "#003C1E"
       }
     },
     "confirmed": []
@@ -52255,7 +51781,12 @@
           "name": "Ivory",
           "hex": "#C7B9A2"
         }
-      ]
+      ],
+      "Marathon Rayon": {
+        "number": "1184",
+        "name": "Light Khaki",
+        "hex": "#C9C6A5"
+      }
     },
     "confirmed": [
       {
@@ -52281,6 +51812,11 @@
         "number": "16-3917",
         "name": "Chiseled Stone",
         "hex": "#8D8E92"
+      },
+      "Marathon Rayon": {
+        "number": "1319",
+        "name": "Dark Silver",
+        "hex": "#788796"
       }
     },
     "confirmed": [
@@ -52408,6 +51944,11 @@
         "number": "1562",
         "name": "Blue Hydrangea",
         "hex": "#97BCD9"
+      },
+      "Marathon Rayon": {
+        "number": "1055",
+        "name": "Baby Blue",
+        "hex": "#D2E1F0"
       }
     },
     "confirmed": [
@@ -52429,6 +51970,11 @@
         "number": "1539",
         "name": "Stone",
         "hex": "#5C5B56"
+      },
+      "Marathon Rayon": {
+        "number": "1414",
+        "name": "Aged Charcoal",
+        "hex": "#504B46"
       }
     },
     "confirmed": [
@@ -52455,6 +52001,11 @@
         "number": "17-1125",
         "name": "Dijon",
         "hex": "#97754C"
+      },
+      "Marathon Rayon": {
+        "number": "1141",
+        "name": "Cappuccino",
+        "hex": "#966946"
       }
     },
     "confirmed": [
@@ -52483,7 +52034,12 @@
           "name": "Teddy Bear",
           "hex": "#C49C6E"
         }
-      ]
+      ],
+      "Marathon Rayon": {
+        "number": "1187",
+        "name": "Old Gold",
+        "hex": "#B47C37"
+      }
     },
     "confirmed": [
       {
@@ -52546,6 +52102,11 @@
         "number": "1718",
         "name": "Overcast Gray",
         "hex": "#99A5AD"
+      },
+      "Marathon Rayon": {
+        "number": "1314",
+        "name": "Gladstone",
+        "hex": "#8CAAAA"
       }
     },
     "confirmed": [
@@ -52693,6 +52254,11 @@
         "number": "1842",
         "name": "True Blue",
         "hex": "#12509D"
+      },
+      "Marathon Rayon": {
+        "number": "1065",
+        "name": "Sapphire Blue",
+        "hex": "#3764AF"
       }
     },
     "confirmed": [
@@ -52719,6 +52285,11 @@
         "number": "1352",
         "name": "Old Gold",
         "hex": "#AE891C"
+      },
+      "Marathon Rayon": {
+        "number": "1018",
+        "name": "Centennial Gold",
+        "hex": "#C8BE7D"
       }
     },
     "confirmed": [
@@ -52761,6 +52332,11 @@
         "number": "1703",
         "name": "Fir",
         "hex": "#0F4E32"
+      },
+      "Marathon Rayon": {
+        "number": "1290",
+        "name": "Tortus Shell",
+        "hex": "#004132"
       }
     },
     "confirmed": [
@@ -52789,6 +52365,11 @@
         "number": "1759",
         "name": "Medium Camo Green",
         "hex": "#847025"
+      },
+      "Marathon Rayon": {
+        "number": "1018",
+        "name": "Centennial Gold",
+        "hex": "#C8BE7D"
       }
     },
     "confirmed": [
@@ -52810,6 +52391,11 @@
         "number": "1977",
         "name": "Peacock Blue",
         "hex": "#0080B4"
+      },
+      "Marathon Rayon": {
+        "number": "1096",
+        "name": "Pacific Blue",
+        "hex": "#1E8CAF"
       }
     },
     "confirmed": [
@@ -52831,6 +52417,11 @@
         "number": "1706",
         "name": "Guacamole",
         "hex": "#898138"
+      },
+      "Marathon Rayon": {
+        "number": "1221",
+        "name": "Desert Cactus",
+        "hex": "#9BA54B"
       }
     },
     "confirmed": [
@@ -52852,6 +52443,11 @@
         "number": "1796",
         "name": "Aged Moss",
         "hex": "#535122"
+      },
+      "Marathon Rayon": {
+        "number": "1460",
+        "name": "Young Avocado",
+        "hex": "#A5B946"
       }
     },
     "confirmed": [
@@ -52873,17 +52469,6 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1402",
-        "name": "Amber",
-        "hex": "#CD8C1E"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
@@ -52895,45 +52480,12 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1404",
-        "name": "Mustard",
-        "hex": "#D2AA1E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1405",
-        "name": "Sunrise",
-        "hex": "#FF9B50"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Tan",
     "brands": {
       "Marathon Rayon": {
         "number": "1406",
         "name": "Toast",
         "hex": "#C39B6E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1407",
-        "name": "Slate Blue",
-        "hex": "#64789B"
       }
     },
     "confirmed": []
@@ -52961,28 +52513,6 @@
     "confirmed": []
   },
   {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1410",
-        "name": "Hyacinth",
-        "hex": "#8264AF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1411",
-        "name": "Rockport Blue",
-        "hex": "#416491"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Tan",
     "brands": {
       "Marathon Rayon": {
@@ -52994,45 +52524,12 @@
     "confirmed": []
   },
   {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1414",
-        "name": "Aged Charcoal",
-        "hex": "#504B46"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Grey",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1415",
-        "name": "Shadow",
-        "hex": "#5A5A5F"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Gold",
     "brands": {
       "Marathon Rayon": {
         "number": "1416",
         "name": "Brassy Brown",
         "hex": "#A07837"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1417",
-        "name": "Java",
-        "hex": "#5A3723"
       }
     },
     "confirmed": []
@@ -53066,39 +52563,6 @@
         "number": "1420",
         "name": "Marigold",
         "hex": "#EBA51E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Tan",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1421",
-        "name": "Oyster",
-        "hex": "#DCD2BE"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1422",
-        "name": "Mocha",
-        "hex": "#8C644B"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1423",
-        "name": "Celery",
-        "hex": "#B9D282"
       }
     },
     "confirmed": []
@@ -53192,89 +52656,12 @@
     "confirmed": []
   },
   {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1432",
-        "name": "Cool Blue",
-        "hex": "#5A96C3"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1433",
-        "name": "Tobacco",
-        "hex": "#825A37"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1434",
-        "name": "Green Blue",
-        "hex": "#3291A0"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1435",
-        "name": "Easter Green",
-        "hex": "#7DC882"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Orange",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1436",
-        "name": "Melon",
-        "hex": "#F59B78"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Pink",
     "brands": {
       "Marathon Rayon": {
         "number": "1437",
         "name": "Bubble Gum",
         "hex": "#F582AF"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1438",
-        "name": "Cranberry",
-        "hex": "#A51E41"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1439",
-        "name": "Grape",
-        "hex": "#824191"
       }
     },
     "confirmed": []
@@ -53313,17 +52700,6 @@
     "confirmed": []
   },
   {
-    "shade": "Purple",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1443",
-        "name": "Sangria",
-        "hex": "#8C1437"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Green",
     "brands": {
       "Marathon Rayon": {
@@ -53341,17 +52717,6 @@
         "number": "1445",
         "name": "Khaki Green",
         "hex": "#919664"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1446",
-        "name": "Water Lily",
-        "hex": "#A5B9D7"
       }
     },
     "confirmed": []
@@ -53379,17 +52744,6 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1449",
-        "name": "Honeysuckle",
-        "hex": "#FAD78C"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Tan",
     "brands": {
       "Marathon Rayon": {
@@ -53401,34 +52755,12 @@
     "confirmed": []
   },
   {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1451",
-        "name": "Hazelnut",
-        "hex": "#A57850"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Brown",
     "brands": {
       "Marathon Rayon": {
         "number": "1452",
         "name": "Sable Brown",
         "hex": "#644128"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Gold",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1453",
-        "name": "Dirty Martini",
-        "hex": "#A0A582"
       }
     },
     "confirmed": []
@@ -53495,17 +52827,6 @@
         "number": "1459",
         "name": "Passionate Rose",
         "hex": "#D24B78"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1460",
-        "name": "Young Avocado",
-        "hex": "#A5B946"
       }
     },
     "confirmed": []
