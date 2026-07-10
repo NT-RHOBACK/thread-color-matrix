@@ -2062,17 +2062,6 @@
     "shade": "Purple",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1785",
-        "name": "Bordeaux",
-        "hex": "#562235"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Purple",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1835",
         "name": "Cranberry",
         "hex": "#722438"
@@ -6195,9 +6184,19 @@
         "number": "1246",
         "name": "Merlot",
         "hex": "#7D002D"
+      },
+      "Madeira Polyneon": {
+        "number": "1785",
+        "name": "Bordeaux",
+        "hex": "#562235"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-10"
+      }
+    ]
   },
   {
     "shade": "Purple",
