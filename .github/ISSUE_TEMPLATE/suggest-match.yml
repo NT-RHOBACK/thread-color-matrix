@@ -10,11 +10,16 @@ body:
         Color names, hex codes, and the shade family are all filled in automatically
         from the thread color, so you only need the number(s).
 
+        **Fixing a shade?** If a color is filed under the wrong shade family
+        (e.g. a burgundy showing as Purple instead of Red), enter the number(s)
+        of that existing match, pick the correct **Color Shade** below, and add
+        a quick note. Same form — the numbers don't have to be a *new* match.
+
   - type: dropdown
     id: shade
     attributes:
       label: Color Shade (family)
-      description: Optional — leave blank and it's auto-assigned from the thread color. Only pick one if you want to override.
+      description: Optional. Leave blank for a new match and it's auto-assigned from the thread color. Pick one to override the auto shade, or to correct the shade of an existing match.
       options:
         - Black
         - Blue
@@ -66,6 +71,13 @@ body:
     attributes:
       label: Pantone Solid Coated — Number
       placeholder: "e.g. 3308 C"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / correction (optional)
+      description: Anything we should know — e.g. "shade should be Red, not Purple" or "this match isn't right."
+      placeholder: "e.g. Burgundy — shade should be Red, not Purple"
 
   - type: markdown
     attributes:
