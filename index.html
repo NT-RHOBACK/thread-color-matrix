@@ -110,7 +110,7 @@ header {
 /* ── Shade filter pills ── */
 .filter-row { display: flex; flex-wrap: wrap; gap: 5px; align-items: center; }
 .filter-label { font-size: 11px; color: var(--text-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px; }
-.disclaimer { font-size: 12px; color: #8a6d1a; margin-top: 10px; font-style: italic; background: #fdf6e3; border-left: 3px solid #e0b84c; border-radius: 4px; padding: 7px 10px; }
+.disclaimer { display: inline-block; font-size: 12px; color: #8a6d1a; margin-top: 10px; font-style: italic; background: #fdf6e3; border-left: 3px solid #e0b84c; border-radius: 4px; padding: 7px 10px; }
 .chip {
   display: inline-flex;
   align-items: center;
@@ -185,6 +185,7 @@ thead th.brand-header { border-left: 1px solid var(--border); }
 .sbtn.active { background: #111; color: #fff; border-color: #111; }
 .sbtn .arr { font-size: 9px; }
 .submit-date { font-size: 11px; color: #aaa; margin-top: 1px; }
+.submit-time { color: #c2c2c2; }
 
 tbody tr { border-bottom: 1px solid #f2f2f0; transition: background 0.1s; }
 tbody tr:last-child { border-bottom: none; }
@@ -442,7 +443,14 @@ function buildHeader() {
       <div class="th-label">Submitted By</div>
       <div class="th-sorts">
         <button class="sbtn" data-key="submitter::name" title="Sort by submitter name">Aa<span class="arr"></span></button>
-        <button class="sbtn" data-key="recent" title="Sort by date entered">Date<span class="arr"></span></button>
+        <button class="sbtn" data-key="recent" title="Sort by date submitted">Date<span class="arr"></span></button>
+      </div>
+    </th>
+    <th class="brand-header">
+      <div class="th-label">Last Updated By</div>
+      <div class="th-sorts">
+        <button class="sbtn" data-key="updated::name" title="Sort by updater name">Aa<span class="arr"></span></button>
+        <button class="sbtn" data-key="updated::date" title="Sort by date updated">Date<span class="arr"></span></button>
       </div>
     </th>
   </tr>`;
@@ -488,7 +496,11 @@ function dateVal(e) {
   for (const c of (e.confirmed || [])) {
     if (c.date && (!best || c.date > best)) best = c.date;
   }
-  return best;   // 'YYYY-MM-DD' or null
+  return best;   // 'YYYY-MM-DD[ HH:MM]' or null
+}
+
+function updatedVal(e) {
+  return (e.updated && e.updated.date) ? e.updated.date : null;
 }
 
 function sortRows(rows) {
@@ -501,6 +513,9 @@ function sortRows(rows) {
       const c = (e.confirmed || [])[0];
       return c && c.by ? c.by.toLowerCase() : undefined;
     }
+    if (key === 'updated::name') {
+      return e.updated && e.updated.by ? e.updated.by.toLowerCase() : undefined;
+    }
     const [brand, field] = key.split('::');
     const d = asList(e.brands[brand])[0];   // sort by the first thread in the cell
     if (!d) return undefined;
@@ -509,8 +524,9 @@ function sortRows(rows) {
   };
 
   return rows.slice().sort((a, b) => {
-    if (key === 'recent') {
-      const da = dateVal(a), db = dateVal(b);
+    if (key === 'recent' || key === 'updated::date') {
+      const f = key === 'recent' ? dateVal : updatedVal;
+      const da = f(a), db = f(b);
       if (da && db) return da !== db ? (da < db ? -dir : dir) : (a._i - b._i);
       if (da && !db) return -1;          // dated rows always above undated
       if (!da && db) return 1;
@@ -545,6 +561,7 @@ function matches(entry) {
   for (const c of entry.confirmed) {
     if (c.by.toLowerCase().includes(searchQuery)) return true;
   }
+  if (entry.updated && entry.updated.by && entry.updated.by.toLowerCase().includes(searchQuery)) return true;
   return false;
 }
 
@@ -563,6 +580,12 @@ function escHtml(s) {
 }
 function escRegex(s) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+// Render a 'YYYY-MM-DD[ HH:MM]' stamp as date with a muted time beside it.
+function fmtWhen(when) {
+  if (!when) return '';
+  const [d, t] = String(when).split(' ');
+  return `<div class="submit-date">${escHtml(d)}${t ? ` <span class="submit-time">${escHtml(t)}</span>` : ''}</div>`;
 }
 
 // ─────────────────────────────────────────────
@@ -614,13 +637,18 @@ function render() {
     let submittedHtml;
     if (entry.confirmed.length) {
       submittedHtml = entry.confirmed.map(c =>
-        hl(c.by) + (c.date ? `<div class="submit-date">${c.date}</div>` : '')
+        hl(c.by) + fmtWhen(c.date)
       ).join('<br>');
     } else {
       submittedHtml = `<span class="empty">—</span>`;
     }
 
-    return `<tr>${shadeTd}${brandTds}<td class="brand-cell">${submittedHtml}</td></tr>`;
+    const u = entry.updated;
+    const updatedHtml = (u && u.by)
+      ? hl(u.by) + fmtWhen(u.date)
+      : `<span class="empty">—</span>`;
+
+    return `<tr>${shadeTd}${brandTds}<td class="brand-cell">${submittedHtml}</td><td class="brand-cell">${updatedHtml}</td></tr>`;
   }).join('');
 }
 
