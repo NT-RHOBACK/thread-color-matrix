@@ -2533,9 +2533,23 @@
         "number": "1843",
         "name": "Persian Blue",
         "hex": "#173F74"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-3952",
+        "name": "Surf The Web",
+        "hex": "#203C7F"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:48"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Navy",
@@ -3168,17 +3182,6 @@
     "shade": "Green",
     "brands": {
       "Madeira Polyneon": {
-        "number": "1780",
-        "name": "Rainforest",
-        "hex": "#006650"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Madeira Polyneon": {
         "number": "1849",
         "name": "Tropical Teal",
         "hex": "#1F6E5A"
@@ -3226,9 +3229,23 @@
         "number": "1751",
         "name": "Emerald Isle",
         "hex": "#007742"
+      },
+      "FHI Cotton TCX": {
+        "number": "18-6026",
+        "name": "Abundant Green",
+        "hex": "#006339"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:48"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Green",
@@ -3907,9 +3924,23 @@
         "number": "1744",
         "name": "Siamese Cat",
         "hex": "#524739"
+      },
+      "FHI Cotton TCX": {
+        "number": "19-0617",
+        "name": "Teak",
+        "hex": "#655341"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:48"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Brown",
@@ -4523,9 +4554,23 @@
         "number": "1613",
         "name": "Gull Gray",
         "hex": "#8F9FA0"
+      },
+      "FHI Cotton TCX": {
+        "number": "16-4404",
+        "name": "Abyss",
+        "hex": "#8F9E9D"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:48"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Blue",
@@ -7602,13 +7647,34 @@
         "name": "Oregon Green",
         "hex": "#008167"
       },
-      "Marathon Rayon": {
-        "number": "1208",
-        "name": "Jungle Green",
-        "hex": "#008255"
+      "Marathon Rayon": [
+        {
+          "number": "1208",
+          "name": "Jungle Green",
+          "hex": "#008255"
+        },
+        {
+          "number": "1207",
+          "name": "Jeweled",
+          "hex": "#007846"
+        }
+      ],
+      "Madeira Polyneon": {
+        "number": "1780",
+        "name": "Rainforest",
+        "hex": "#006650"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:48"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Green",
@@ -10677,17 +10743,6 @@
         "number": "1206",
         "name": "Neutral Green",
         "hex": "#879164"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "Marathon Rayon": {
-        "number": "1207",
-        "name": "Jeweled",
-        "hex": "#007846"
       }
     },
     "confirmed": []
@@ -26258,17 +26313,6 @@
     "confirmed": []
   },
   {
-    "shade": "Grey",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "16-4404",
-        "name": "Abyss",
-        "hex": "#8F9E9D"
-      }
-    },
-    "confirmed": []
-  },
-  {
     "shade": "Blue",
     "brands": {
       "FHI Cotton TCX": {
@@ -36477,17 +36521,6 @@
     "shade": "Green",
     "brands": {
       "FHI Cotton TCX": {
-        "number": "18-6026",
-        "name": "Abundant Green",
-        "hex": "#006339"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Green",
-    "brands": {
-      "FHI Cotton TCX": {
         "number": "18-6028",
         "name": "Rolling Hills",
         "hex": "#227949"
@@ -36964,17 +36997,6 @@
         "number": "19-0614",
         "name": "Wren",
         "hex": "#4A4139"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Brown",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "19-0617",
-        "name": "Teak",
-        "hex": "#655341"
       }
     },
     "confirmed": []
@@ -38259,17 +38281,6 @@
         "number": "19-1655",
         "name": "Garnet",
         "hex": "#953640"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Red",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "19-1657",
-        "name": "Karanda Red",
-        "hex": "#8C2A37"
       }
     },
     "confirmed": []
@@ -40124,17 +40135,6 @@
         "number": "19-3951",
         "name": "Clematis Blue",
         "hex": "#363B7C"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Blue",
-    "brands": {
-      "FHI Cotton TCX": {
-        "number": "19-3952",
-        "name": "Surf The Web",
-        "hex": "#203C7F"
       }
     },
     "confirmed": []
@@ -52297,11 +52297,18 @@
   {
     "shade": "Brown",
     "brands": {
-      "FHI Cotton TCX": {
-        "number": "19-1656",
-        "name": "Rio Red",
-        "hex": "#8A2232"
-      },
+      "FHI Cotton TCX": [
+        {
+          "number": "19-1656",
+          "name": "Rio Red",
+          "hex": "#8A2232"
+        },
+        {
+          "number": "19-1657",
+          "name": "Karanda Red",
+          "hex": "#8C2A37"
+        }
+      ],
       "Madeira Polyneon": {
         "number": "1982",
         "name": "Sangria",
@@ -52313,7 +52320,11 @@
         "by": "Noelle",
         "date": "2026-07-07"
       }
-    ]
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:48"
+    }
   },
   {
     "shade": "Blue",
