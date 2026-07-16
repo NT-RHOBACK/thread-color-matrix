@@ -893,11 +893,18 @@
   {
     "shade": "Navy",
     "brands": {
-      "Madeira Polyneon": {
-        "number": "1743",
-        "name": "Oxford Blue",
-        "hex": "#20294D"
-      },
+      "Madeira Polyneon": [
+        {
+          "number": "1743",
+          "name": "Oxford Blue",
+          "hex": "#20294D"
+        },
+        {
+          "number": "1966",
+          "name": "Pea Coat",
+          "hex": "#1C2B4C"
+        }
+      ],
       "Madeira Classic": {
         "number": "1467",
         "name": null,
@@ -909,7 +916,16 @@
         "hex": "#403F6F"
       }
     },
-    "confirmed": []
+    "confirmed": [
+      {
+        "by": "Noelle",
+        "date": "2026-07-16 11:40"
+      }
+    ],
+    "updated": {
+      "by": "Noelle",
+      "date": "2026-07-16 11:40"
+    }
   },
   {
     "shade": "Green",
@@ -2473,17 +2489,6 @@
         "number": "1767",
         "name": "Ultramarine",
         "hex": "#1C316E"
-      }
-    },
-    "confirmed": []
-  },
-  {
-    "shade": "Navy",
-    "brands": {
-      "Madeira Polyneon": {
-        "number": "1966",
-        "name": "Pea Coat",
-        "hex": "#1C2B4C"
       }
     },
     "confirmed": []
